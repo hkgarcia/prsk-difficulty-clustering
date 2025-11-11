@@ -90,8 +90,11 @@ Don't forget to give the project a star! Thanks again!
 
 ## References
 Cao, D., Wang, Z., Echevarria, J., & Liu, Y. (2023). SVGformer: Representation learning for continuous vector graphics using transformers. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023). https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SVGformer_Representation_Learning_for_Continuous_Vector_Graphics_Using_Transformers_CVPR_2023_paper.pdf
+
 Liang, Y., Li, W., & Ikeda, K. (2019). Procedural content generation of rhythm games using deep learning methods. In Proceedings of the 1st Joint International Conference on Entertainment Computing and Serious Games (ICEC-JCSG) (pp. 134–145). Springer. https://inria.hal.science/hal-03652042v1/document
+
 Sakaamini, A., Van Slyke, A., Partouche, J., Wu, T., & Wiersma, R. D. (2023). An AI-based universal phantom analysis method based on XML-SVG wireframes with novel functional object identifiers. Physics in medicine and biology, 68(14), 10.1088/1361-6560/acdb44. https://doi.org/10.1088/1361-6560/acdb44
+
 Tsujino, Y., Yamanishi, R., & Yamashita, Y. (2019). Characteristics study of dance-charts on rhythm-based video games. In Proceedings of the 2019 IEEE Conference on Computational Intelligence and Games (CIG) (pp. 1–8). IEEE. https://ieee-cog.org/2019/papers/paper_157.pdf
 
 <!-- CONTACT -->

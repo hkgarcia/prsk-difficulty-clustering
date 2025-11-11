@@ -1,0 +1,3133 @@
+song_id,difficulty,note_count,song_title_jpn,song_title_eng,bpm,playback_time_minutes,playback_time_seconds
+1,easy,220,Tell Your World,Tell Your World,150,00:02:03,123.0
+1,normal,492,Tell Your World,Tell Your World,150,00:02:03,123.0
+1,hard,719,Tell Your World,Tell Your World,150,00:02:03,123.0
+1,expert,961,Tell Your World,Tell Your World,150,00:02:03,123.0
+1,master,1147,Tell Your World,Tell Your World,150,00:02:03,123.0
+2,easy,166,ロキ,ROKI,150,00:01:47,107.0
+2,normal,296,ロキ,ROKI,150,00:01:47,107.0
+2,hard,635,ロキ,ROKI,150,00:01:47,107.0
+2,expert,827,ロキ,ROKI,150,00:01:47,107.0
+2,master,975,ロキ,ROKI,150,00:01:47,107.0
+3,easy,135,テオ,Teo,185,00:01:56,116.0
+3,normal,477,テオ,Teo,185,00:01:56,116.0
+3,hard,681,テオ,Teo,185,00:01:56,116.0
+3,expert,997,テオ,Teo,185,00:01:56,116.0
+3,master,1221,テオ,Teo,185,00:01:56,116.0
+6,easy,198,ヒバナ -Reloaded-,HIBANA -Reloaded-,200,00:01:35,95.0
+6,normal,394,ヒバナ -Reloaded-,HIBANA -Reloaded-,200,00:01:35,95.0
+6,hard,568,ヒバナ -Reloaded-,HIBANA -Reloaded-,200,00:01:35,95.0
+6,expert,808,ヒバナ -Reloaded-,HIBANA -Reloaded-,200,00:01:35,95.0
+6,master,1060,ヒバナ -Reloaded-,HIBANA -Reloaded-,200,00:01:35,95.0
+8,easy,193,タイムマシン,Time Machine,126,00:02:04,124.0
+8,normal,268,タイムマシン,Time Machine,126,00:02:04,124.0
+8,hard,488,タイムマシン,Time Machine,126,00:02:04,124.0
+8,expert,719,タイムマシン,Time Machine,126,00:02:04,124.0
+8,master,903,タイムマシン,Time Machine,126,00:02:04,124.0
+10,easy,127,ハッピーシンセサイザ,Happy Synthesizer,127,00:02:13,133.0
+10,normal,437,ハッピーシンセサイザ,Happy Synthesizer,127,00:02:13,133.0
+10,hard,685,ハッピーシンセサイザ,Happy Synthesizer,127,00:02:13,133.0
+10,expert,859,ハッピーシンセサイザ,Happy Synthesizer,127,00:02:13,133.0
+10,master,1136,ハッピーシンセサイザ,Happy Synthesizer,127,00:02:13,133.0
+11,easy,126,ビバハピ,Viva Happy,148,00:01:34,94.0
+11,normal,297,ビバハピ,Viva Happy,148,00:01:34,94.0
+11,hard,367,ビバハピ,Viva Happy,148,00:01:34,94.0
+11,expert,597,ビバハピ,Viva Happy,148,00:01:34,94.0
+11,master,722,ビバハピ,Viva Happy,148,00:01:34,94.0
+13,easy,134,Nostalogic,Nostalogic,140,00:02:00,120.0
+13,normal,381,Nostalogic,Nostalogic,140,00:02:00,120.0
+13,hard,462,Nostalogic,Nostalogic,140,00:02:00,120.0
+13,expert,719,Nostalogic,Nostalogic,140,00:02:00,120.0
+13,master,985,Nostalogic,Nostalogic,140,00:02:00,120.0
+15,easy,156,drop pop candy,drop pop candy,130,00:01:46,106.0
+15,normal,322,drop pop candy,drop pop candy,130,00:01:46,106.0
+15,hard,546,drop pop candy,drop pop candy,130,00:01:46,106.0
+15,expert,773,drop pop candy,drop pop candy,130,00:01:46,106.0
+15,master,902,drop pop candy,drop pop candy,130,00:01:46,106.0
+18,easy,229,アスノヨゾラ哨戒班,Night Sky Patrol of Tomorrow,185,00:02:08,128.0
+18,normal,467,アスノヨゾラ哨戒班,Night Sky Patrol of Tomorrow,185,00:02:08,128.0
+18,hard,765,アスノヨゾラ哨戒班,Night Sky Patrol of Tomorrow,185,00:02:08,128.0
+18,expert,1073,アスノヨゾラ哨戒班,Night Sky Patrol of Tomorrow,185,00:02:08,128.0
+18,master,1208,アスノヨゾラ哨戒班,Night Sky Patrol of Tomorrow,185,00:02:08,128.0
+19,easy,128,シャルル,Charles,145,00:01:44,104.0
+19,normal,338,シャルル,Charles,145,00:01:44,104.0
+19,hard,562,シャルル,Charles,145,00:01:44,104.0
+19,expert,701,シャルル,Charles,145,00:01:44,104.0
+19,master,824,シャルル,Charles,145,00:01:44,104.0
+21,easy,195,脱法ロック,Law-evading Rock,155,00:02:01,121.0
+21,normal,405,脱法ロック,Law-evading Rock,155,00:02:01,121.0
+21,hard,751,脱法ロック,Law-evading Rock,155,00:02:01,121.0
+21,expert,972,脱法ロック,Law-evading Rock,155,00:02:01,121.0
+21,master,1145,脱法ロック,Law-evading Rock,155,00:02:01,121.0
+22,easy,120,命に嫌われている,Hated by Life,200,00:01:39,99.0
+22,normal,367,命に嫌われている,Hated by Life,200,00:01:39,99.0
+22,hard,515,命に嫌われている,Hated by Life,200,00:01:39,99.0
+22,expert,756,命に嫌われている,Hated by Life,200,00:01:39,99.0
+22,master,979,命に嫌われている,Hated by Life,200,00:01:39,99.0
+26,easy,148,劣等上等,BRING IT ON,160,00:01:38,98.0
+26,normal,371,劣等上等,BRING IT ON,160,00:01:38,98.0
+26,hard,520,劣等上等,BRING IT ON,160,00:01:38,98.0
+26,expert,825,劣等上等,BRING IT ON,160,00:01:38,98.0
+26,master,952,劣等上等,BRING IT ON,160,00:01:38,98.0
+27,easy,148,Just Be Friends,Just Be Friends,128,00:02:12,132.0
+27,normal,410,Just Be Friends,Just Be Friends,128,00:02:12,132.0
+27,hard,679,Just Be Friends,Just Be Friends,128,00:02:12,132.0
+27,expert,811,Just Be Friends,Just Be Friends,128,00:02:12,132.0
+27,master,989,Just Be Friends,Just Be Friends,128,00:02:12,132.0
+28,easy,160,ドクター＝ファンクビート,Doctor=Funk Beat,150,00:02:07,127.0
+28,normal,436,ドクター＝ファンクビート,Doctor=Funk Beat,150,00:02:07,127.0
+28,hard,677,ドクター＝ファンクビート,Doctor=Funk Beat,150,00:02:07,127.0
+28,expert,984,ドクター＝ファンクビート,Doctor=Funk Beat,150,00:02:07,127.0
+28,master,1198,ドクター＝ファンクビート,Doctor=Funk Beat,150,00:02:07,127.0
+36,easy,266,ミラクルペイント,Miracle Paint,215,00:02:26,146.0
+36,normal,618,ミラクルペイント,Miracle Paint,215,00:02:26,146.0
+36,hard,812,ミラクルペイント,Miracle Paint,215,00:02:26,146.0
+36,expert,1300,ミラクルペイント,Miracle Paint,215,00:02:26,146.0
+36,master,1437,ミラクルペイント,Miracle Paint,215,00:02:26,146.0
+38,easy,113,ブリキノダンス,BURIKI NO DANCE,172,00:01:39,99.0
+38,normal,347,ブリキノダンス,BURIKI NO DANCE,172,00:01:39,99.0
+38,hard,618,ブリキノダンス,BURIKI NO DANCE,172,00:01:39,99.0
+38,expert,852,ブリキノダンス,BURIKI NO DANCE,172,00:01:39,99.0
+38,master,967,ブリキノダンス,BURIKI NO DANCE,172,00:01:39,99.0
+41,easy,151,スイートマジック,Sweet Magic,123,00:02:29,149.0
+41,normal,399,スイートマジック,Sweet Magic,123,00:02:29,149.0
+41,hard,659,スイートマジック,Sweet Magic,123,00:02:29,149.0
+41,expert,920,スイートマジック,Sweet Magic,123,00:02:29,149.0
+41,master,1224,スイートマジック,Sweet Magic,123,00:02:29,149.0
+43,easy,122,ネクストネスト,NEXT NEST,128,00:02:07,127.0
+43,normal,366,ネクストネスト,NEXT NEST,128,00:02:07,127.0
+43,hard,715,ネクストネスト,NEXT NEST,128,00:02:07,127.0
+43,expert,983,ネクストネスト,NEXT NEST,128,00:02:07,127.0
+43,master,1131,ネクストネスト,NEXT NEST,128,00:02:07,127.0
+44,easy,165,Hand in Hand,Hand in Hand,128,00:02:03,123.0
+44,normal,427,Hand in Hand,Hand in Hand,128,00:02:03,123.0
+44,hard,637,Hand in Hand,Hand in Hand,128,00:02:03,123.0
+44,expert,809,Hand in Hand,Hand in Hand,128,00:02:03,123.0
+44,master,1072,Hand in Hand,Hand in Hand,128,00:02:03,123.0
+45,easy,139,39みゅーじっく！,39Music!,130,00:01:59,119.0
+45,normal,339,39みゅーじっく！,39Music!,130,00:01:59,119.0
+45,hard,539,39みゅーじっく！,39Music!,130,00:01:59,119.0
+45,expert,839,39みゅーじっく！,39Music!,130,00:01:59,119.0
+45,master,1039,39みゅーじっく！,39Music!,130,00:01:59,119.0
+46,easy,237,グリーンライツ・セレナーデ,Greenlights Serenade,200,00:02:05,125.0
+46,normal,413,グリーンライツ・セレナーデ,Greenlights Serenade,200,00:02:05,125.0
+46,hard,770,グリーンライツ・セレナーデ,Greenlights Serenade,200,00:02:05,125.0
+46,expert,1034,グリーンライツ・セレナーデ,Greenlights Serenade,200,00:02:05,125.0
+46,master,1174,グリーンライツ・セレナーデ,Greenlights Serenade,200,00:02:05,125.0
+47,easy,286,メルト,Melt,170,00:03:02,182.0
+47,normal,684,メルト,Melt,170,00:03:02,182.0
+47,hard,1056,メルト,Melt,170,00:03:02,182.0
+47,expert,1363,メルト,Melt,170,00:03:02,182.0
+47,master,1586,メルト,Melt,170,00:03:02,182.0
+48,easy,307,ワールドイズマイン,The World is Mine,102-165,00:02:50,170.0
+48,normal,614,ワールドイズマイン,The World is Mine,102-165,00:02:50,170.0
+48,hard,899,ワールドイズマイン,The World is Mine,102-165,00:02:50,170.0
+48,expert,1248,ワールドイズマイン,The World is Mine,102-165,00:02:50,170.0
+48,master,1417,ワールドイズマイン,The World is Mine,102-165,00:02:50,170.0
+49,easy,376,初音ミクの消失,THE END OF HATSUNE MIKU,240,00:02:23,143.0
+49,normal,751,初音ミクの消失,THE END OF HATSUNE MIKU,240,00:02:23,143.0
+49,hard,1116,初音ミクの消失,THE END OF HATSUNE MIKU,240,00:02:23,143.0
+49,expert,1502,初音ミクの消失,THE END OF HATSUNE MIKU,240,00:02:23,143.0
+49,master,1666,初音ミクの消失,THE END OF HATSUNE MIKU,240,00:02:23,143.0
+50,easy,111,Blessing,Blessing,110,00:02:12,132.0
+50,normal,347,Blessing,Blessing,110,00:02:12,132.0
+50,hard,631,Blessing,Blessing,110,00:02:12,132.0
+50,expert,859,Blessing,Blessing,110,00:02:12,132.0
+50,master,986,Blessing,Blessing,110,00:02:12,132.0
+51,easy,122,セカイはまだ始まってすらいない,The World Hasn't Even Started Yet,138,00:02:01,121.0
+51,normal,400,セカイはまだ始まってすらいない,The World Hasn't Even Started Yet,138,00:02:01,121.0
+51,hard,565,セカイはまだ始まってすらいない,The World Hasn't Even Started Yet,138,00:02:01,121.0
+51,expert,774,セカイはまだ始まってすらいない,The World Hasn't Even Started Yet,138,00:02:01,121.0
+51,master,1027,セカイはまだ始まってすらいない,The World Hasn't Even Started Yet,138,00:02:01,121.0
+52,easy,103,potatoになっていく,Becoming Potatoes,116,00:01:47,107.0
+52,normal,243,potatoになっていく,Becoming Potatoes,116,00:01:47,107.0
+52,hard,400,potatoになっていく,Becoming Potatoes,116,00:01:47,107.0
+52,expert,721,potatoになっていく,Becoming Potatoes,116,00:01:47,107.0
+52,master,863,potatoになっていく,Becoming Potatoes,116,00:01:47,107.0
+54,easy,96,Ready Steady,Ready Steady,115,00:01:32,92.0
+54,normal,238,Ready Steady,Ready Steady,115,00:01:32,92.0
+54,hard,403,Ready Steady,Ready Steady,115,00:01:32,92.0
+54,expert,564,Ready Steady,Ready Steady,115,00:01:32,92.0
+54,master,667,Ready Steady,Ready Steady,115,00:01:32,92.0
+55,easy,141,Forward,Forward,140,00:01:55,115.0
+55,normal,281,Forward,Forward,140,00:01:55,115.0
+55,hard,449,Forward,Forward,140,00:01:55,115.0
+55,expert,737,Forward,Forward,140,00:01:55,115.0
+55,master,895,Forward,Forward,140,00:01:55,115.0
+57,easy,153,アイドル新鋭隊,Newly Edgy Idols,176,00:01:46,106.0
+57,normal,343,アイドル新鋭隊,Newly Edgy Idols,176,00:01:46,106.0
+57,hard,497,アイドル新鋭隊,Newly Edgy Idols,176,00:01:46,106.0
+57,expert,754,アイドル新鋭隊,Newly Edgy Idols,176,00:01:46,106.0
+57,master,940,アイドル新鋭隊,Newly Edgy Idols,176,00:01:46,106.0
+60,easy,190,悔やむと書いてミライ,Composing the Future,194,00:01:40,100.0
+60,normal,440,悔やむと書いてミライ,Composing the Future,194,00:01:40,100.0
+60,hard,541,悔やむと書いてミライ,Composing the Future,194,00:01:40,100.0
+60,expert,815,悔やむと書いてミライ,Composing the Future,194,00:01:40,100.0
+60,master,973,悔やむと書いてミライ,Composing the Future,194,00:01:40,100.0
+61,easy,204,携帯恋話,Cellphone Love Story,150,00:02:19,139.0
+61,normal,361,携帯恋話,Cellphone Love Story,150,00:02:19,139.0
+61,hard,651,携帯恋話,Cellphone Love Story,150,00:02:19,139.0
+61,expert,981,携帯恋話,Cellphone Love Story,150,00:02:19,139.0
+61,master,1131,携帯恋話,Cellphone Love Story,150,00:02:19,139.0
+62,easy,206,ジャックポットサッドガール,Jack Pot Sad Girl,204,00:01:23,83.0
+62,normal,258,ジャックポットサッドガール,Jack Pot Sad Girl,204,00:01:23,83.0
+62,hard,491,ジャックポットサッドガール,Jack Pot Sad Girl,204,00:01:23,83.0
+62,expert,647,ジャックポットサッドガール,Jack Pot Sad Girl,204,00:01:23,83.0
+62,master,767,ジャックポットサッドガール,Jack Pot Sad Girl,204,00:01:23,83.0
+63,easy,216,needLe,needLe,190,00:01:54,114.0
+63,normal,430,needLe,needLe,190,00:01:54,114.0
+63,hard,662,needLe,needLe,190,00:01:54,114.0
+63,expert,889,needLe,needLe,190,00:01:54,114.0
+63,master,1029,needLe,needLe,190,00:01:54,114.0
+64,easy,251,ステラ,Stella,197,00:02:13,133.0
+64,normal,503,ステラ,Stella,197,00:02:13,133.0
+64,hard,694,ステラ,Stella,197,00:02:13,133.0
+64,expert,955,ステラ,Stella,197,00:02:13,133.0
+64,master,1190,ステラ,Stella,197,00:02:13,133.0
+66,easy,104,ハロ／ハワユ,Hello/How Are You?,95,00:02:26,146.0
+66,normal,271,ハロ／ハワユ,Hello/How Are You?,95,00:02:26,146.0
+66,hard,501,ハロ／ハワユ,Hello/How Are You?,95,00:02:26,146.0
+66,expert,690,ハロ／ハワユ,Hello/How Are You?,95,00:02:26,146.0
+66,master,851,ハロ／ハワユ,Hello/How Are You?,95,00:02:26,146.0
+67,easy,112,自傷無色,Jishoumushoku,120,00:01:44,104.0
+67,normal,291,自傷無色,Jishoumushoku,120,00:01:44,104.0
+67,hard,443,自傷無色,Jishoumushoku,120,00:01:44,104.0
+67,expert,614,自傷無色,Jishoumushoku,120,00:01:44,104.0
+67,master,829,自傷無色,Jishoumushoku,120,00:01:44,104.0
+68,easy,157,ダンスロボットダンス,Dance Robot Dance,190,00:01:42,102.0
+68,normal,407,ダンスロボットダンス,Dance Robot Dance,190,00:01:42,102.0
+68,hard,719,ダンスロボットダンス,Dance Robot Dance,190,00:01:42,102.0
+68,expert,927,ダンスロボットダンス,Dance Robot Dance,190,00:01:42,102.0
+68,master,1057,ダンスロボットダンス,Dance Robot Dance,190,00:01:42,102.0
+69,easy,108,フラジール,Fragile,127,00:02:04,124.0
+69,normal,377,フラジール,Fragile,127,00:02:04,124.0
+69,hard,669,フラジール,Fragile,127,00:02:04,124.0
+69,expert,863,フラジール,Fragile,127,00:02:04,124.0
+69,master,1040,フラジール,Fragile,127,00:02:04,124.0
+70,easy,167,メルティランドナイトメア,Melty Land Nightmare,140,00:01:59,119.0
+70,normal,397,メルティランドナイトメア,Melty Land Nightmare,140,00:01:59,119.0
+70,hard,595,メルティランドナイトメア,Melty Land Nightmare,140,00:01:59,119.0
+70,expert,934,メルティランドナイトメア,Melty Land Nightmare,140,00:01:59,119.0
+70,master,959,メルティランドナイトメア,Melty Land Nightmare,140,00:01:59,119.0
+71,easy,168,ツギハギスタッカート,Patchwork Staccato,139,00:02:02,122.0
+71,normal,316,ツギハギスタッカート,Patchwork Staccato,139,00:02:02,122.0
+71,hard,583,ツギハギスタッカート,Patchwork Staccato,139,00:02:02,122.0
+71,expert,854,ツギハギスタッカート,Patchwork Staccato,139,00:02:02,122.0
+71,master,861,ツギハギスタッカート,Patchwork Staccato,139,00:02:02,122.0
+72,easy,157,ブレス・ユア・ブレス,Bless Your Breath,152,00:01:34,94.0
+72,normal,361,ブレス・ユア・ブレス,Bless Your Breath,152,00:01:34,94.0
+72,hard,511,ブレス・ユア・ブレス,Bless Your Breath,152,00:01:34,94.0
+72,expert,696,ブレス・ユア・ブレス,Bless Your Breath,152,00:01:34,94.0
+72,master,873,ブレス・ユア・ブレス,Bless Your Breath,152,00:01:34,94.0
+73,easy,139,ニア,Near,128,00:01:56,116.0
+73,normal,266,ニア,Near,128,00:01:56,116.0
+73,hard,517,ニア,Near,128,00:01:56,116.0
+73,expert,702,ニア,Near,128,00:01:56,116.0
+73,master,841,ニア,Near,128,00:01:56,116.0
+74,easy,74,独りんぼエンヴィー,Hitorinbo Envy,132,00:01:14,74.0
+74,normal,171,独りんぼエンヴィー,Hitorinbo Envy,132,00:01:14,74.0
+74,hard,356,独りんぼエンヴィー,Hitorinbo Envy,132,00:01:14,74.0
+74,expert,544,独りんぼエンヴィー,Hitorinbo Envy,132,00:01:14,74.0
+74,master,589,独りんぼエンヴィー,Hitorinbo Envy,132,00:01:14,74.0
+75,easy,119,ウミユリ海底譚,Tale of the Deep-sea Lily,120,00:01:42,102.0
+75,normal,287,ウミユリ海底譚,Tale of the Deep-sea Lily,120,00:01:42,102.0
+75,hard,497,ウミユリ海底譚,Tale of the Deep-sea Lily,120,00:01:42,102.0
+75,expert,737,ウミユリ海底譚,Tale of the Deep-sea Lily,120,00:01:42,102.0
+75,master,833,ウミユリ海底譚,Tale of the Deep-sea Lily,120,00:01:42,102.0
+76,easy,143,セカイ,SEKAI,133,00:01:52,112.0
+76,normal,400,セカイ,SEKAI,133,00:01:52,112.0
+76,hard,549,セカイ,SEKAI,133,00:01:52,112.0
+76,expert,735,セカイ,SEKAI,133,00:01:52,112.0
+76,master,858,セカイ,SEKAI,133,00:01:52,112.0
+77,easy,127,ワーワーワールド,Wah Wah World,160,00:01:49,109.0
+77,normal,343,ワーワーワールド,Wah Wah World,160,00:01:49,109.0
+77,hard,519,ワーワーワールド,Wah Wah World,160,00:01:49,109.0
+77,expert,789,ワーワーワールド,Wah Wah World,160,00:01:49,109.0
+77,master,960,ワーワーワールド,Wah Wah World,160,00:01:49,109.0
+78,easy,278,ぼうけんのしょがきえました！,Your Adventure Log Has Vanished!,176,00:01:50,110.0
+78,normal,472,ぼうけんのしょがきえました！,Your Adventure Log Has Vanished!,176,00:01:50,110.0
+78,hard,711,ぼうけんのしょがきえました！,Your Adventure Log Has Vanished!,176,00:01:50,110.0
+78,expert,951,ぼうけんのしょがきえました！,Your Adventure Log Has Vanished!,176,00:01:50,110.0
+78,master,1092,ぼうけんのしょがきえました！,Your Adventure Log Has Vanished!,176,00:01:50,110.0
+81,easy,184,夜咄ディセイブ,Yobanashi Deceive,130,00:02:20,140.0
+81,normal,424,夜咄ディセイブ,Yobanashi Deceive,130,00:02:20,140.0
+81,hard,851,夜咄ディセイブ,Yobanashi Deceive,130,00:02:20,140.0
+81,expert,1165,夜咄ディセイブ,Yobanashi Deceive,130,00:02:20,140.0
+81,master,1311,夜咄ディセイブ,Yobanashi Deceive,130,00:02:20,140.0
+82,easy,134,alive,alive,128,00:01:58,118.0
+82,normal,341,alive,alive,128,00:01:58,118.0
+82,hard,593,alive,alive,128,00:01:58,118.0
+82,expert,804,alive,alive,128,00:01:58,118.0
+82,master,1016,alive,alive,128,00:01:58,118.0
+83,easy,137,Gimme×Gimme,Gimme×Gimme,105,00:02:15,135.0
+83,normal,348,Gimme×Gimme,Gimme×Gimme,105,00:02:15,135.0
+83,hard,613,Gimme×Gimme,Gimme×Gimme,105,00:02:15,135.0
+83,expert,842,Gimme×Gimme,Gimme×Gimme,105,00:02:15,135.0
+83,master,907,Gimme×Gimme,Gimme×Gimme,105,00:02:15,135.0
+84,easy,152,ジャンキーナイトタウンオーケストラ,junky nighttown orchestra,145,00:02:22,142.0
+84,normal,465,ジャンキーナイトタウンオーケストラ,junky nighttown orchestra,145,00:02:22,142.0
+84,hard,740,ジャンキーナイトタウンオーケストラ,junky nighttown orchestra,145,00:02:22,142.0
+84,expert,1070,ジャンキーナイトタウンオーケストラ,junky nighttown orchestra,145,00:02:22,142.0
+84,master,1374,ジャンキーナイトタウンオーケストラ,junky nighttown orchestra,145,00:02:22,142.0
+85,easy,183,Leia - Remind,Leia - Remind,190,00:02:10,130.0
+85,normal,372,Leia - Remind,Leia - Remind,190,00:02:10,130.0
+85,hard,587,Leia - Remind,Leia - Remind,190,00:02:10,130.0
+85,expert,970,Leia - Remind,Leia - Remind,190,00:02:10,130.0
+85,master,1155,Leia - Remind,Leia - Remind,190,00:02:10,130.0
+86,easy,169,on the rocks,on the rocks,150,00:02:07,127.0
+86,normal,425,on the rocks,on the rocks,150,00:02:07,127.0
+86,hard,565,on the rocks,on the rocks,150,00:02:07,127.0
+86,expert,857,on the rocks,on the rocks,150,00:02:07,127.0
+86,master,1004,on the rocks,on the rocks,150,00:02:07,127.0
+87,easy,174,恋愛裁判,Love Trial,134,00:02:12,132.0
+87,normal,447,恋愛裁判,Love Trial,134,00:02:12,132.0
+87,hard,591,恋愛裁判,Love Trial,134,00:02:12,132.0
+87,expert,889,恋愛裁判,Love Trial,134,00:02:12,132.0
+87,master,1149,恋愛裁判,Love Trial,134,00:02:12,132.0
+88,easy,297,チュルリラ・チュルリラ・ダッダッダ！,Chururira Chururira Daddadda!,220,00:02:23,143.0
+88,normal,516,チュルリラ・チュルリラ・ダッダッダ！,Chururira Chururira Daddadda!,220,00:02:23,143.0
+88,hard,882,チュルリラ・チュルリラ・ダッダッダ！,Chururira Chururira Daddadda!,220,00:02:23,143.0
+88,expert,1246,チュルリラ・チュルリラ・ダッダッダ！,Chururira Chururira Daddadda!,220,00:02:23,143.0
+88,master,1401,チュルリラ・チュルリラ・ダッダッダ！,Chururira Chururira Daddadda!,220,00:02:23,143.0
+89,easy,182,Color of Drops,Color of Drops,152,00:01:54,114.0
+89,normal,392,Color of Drops,Color of Drops,152,00:01:54,114.0
+89,hard,537,Color of Drops,Color of Drops,152,00:01:54,114.0
+89,expert,796,Color of Drops,Color of Drops,152,00:01:54,114.0
+89,master,918,Color of Drops,Color of Drops,152,00:01:54,114.0
+90,easy,108,限りなく灰色へ,Close to gray,108,00:02:01,121.0
+90,normal,227,限りなく灰色へ,Close to gray,108,00:02:01,121.0
+90,hard,470,限りなく灰色へ,Close to gray,108,00:02:01,121.0
+90,expert,818,限りなく灰色へ,Close to gray,108,00:02:01,121.0
+90,master,849,限りなく灰色へ,Close to gray,108,00:02:01,121.0
+91,easy,116,ドラマツルギー,Dramaturgy,149,00:01:35,95.0
+91,normal,284,ドラマツルギー,Dramaturgy,149,00:01:35,95.0
+91,hard,515,ドラマツルギー,Dramaturgy,149,00:01:35,95.0
+91,expert,747,ドラマツルギー,Dramaturgy,149,00:01:35,95.0
+91,master,862,ドラマツルギー,Dramaturgy,149,00:01:35,95.0
+92,easy,177,乙女解剖,Otome Dissection,134,00:01:51,111.0
+92,normal,359,乙女解剖,Otome Dissection,134,00:01:51,111.0
+92,hard,509,乙女解剖,Otome Dissection,134,00:01:51,111.0
+92,expert,834,乙女解剖,Otome Dissection,134,00:01:51,111.0
+92,master,1002,乙女解剖,Otome Dissection,134,00:01:51,111.0
+93,easy,255,青く駆けろ！,Aoku Kakero!,190,00:02:01,121.0
+93,normal,471,青く駆けろ！,Aoku Kakero!,190,00:02:01,121.0
+93,hard,757,青く駆けろ！,Aoku Kakero!,190,00:02:01,121.0
+93,expert,919,青く駆けろ！,Aoku Kakero!,190,00:02:01,121.0
+93,master,1048,青く駆けろ！,Aoku Kakero!,190,00:02:01,121.0
+94,easy,201,とても痛い痛がりたい,Totemoitai Itagaritai,140,00:01:53,113.0
+94,normal,353,とても痛い痛がりたい,Totemoitai Itagaritai,140,00:01:53,113.0
+94,hard,590,とても痛い痛がりたい,Totemoitai Itagaritai,140,00:01:53,113.0
+94,expert,817,とても痛い痛がりたい,Totemoitai Itagaritai,140,00:01:53,113.0
+94,master,915,とても痛い痛がりたい,Totemoitai Itagaritai,140,00:01:53,113.0
+95,easy,188,威風堂々,Ifuudoudou,130,00:02:25,145.0
+95,normal,326,威風堂々,Ifuudoudou,130,00:02:25,145.0
+95,hard,604,威風堂々,Ifuudoudou,130,00:02:25,145.0
+95,expert,975,威風堂々,Ifuudoudou,130,00:02:25,145.0
+95,master,1166,威風堂々,Ifuudoudou,130,00:02:25,145.0
+96,easy,196,from Y to Y,from Y to Y,98,00:02:35,155.0
+96,normal,284,from Y to Y,from Y to Y,98,00:02:35,155.0
+96,hard,551,from Y to Y,from Y to Y,98,00:02:35,155.0
+96,expert,847,from Y to Y,from Y to Y,98,00:02:35,155.0
+96,master,982,from Y to Y,from Y to Y,98,00:02:35,155.0
+97,easy,192,霽れを待つ,Awaiting Clear Skies,168,00:01:54,114.0
+97,normal,461,霽れを待つ,Awaiting Clear Skies,168,00:01:54,114.0
+97,hard,562,霽れを待つ,Awaiting Clear Skies,168,00:01:54,114.0
+97,expert,974,霽れを待つ,Awaiting Clear Skies,168,00:01:54,114.0
+97,master,1106,霽れを待つ,Awaiting Clear Skies,168,00:01:54,114.0
+98,easy,142,ロストワンの号哭,Lost One's Weeping,162,00:01:47,107.0
+98,normal,343,ロストワンの号哭,Lost One's Weeping,162,00:01:47,107.0
+98,hard,600,ロストワンの号哭,Lost One's Weeping,162,00:01:47,107.0
+98,expert,947,ロストワンの号哭,Lost One's Weeping,162,00:01:47,107.0
+98,master,1157,ロストワンの号哭,Lost One's Weeping,162,00:01:47,107.0
+99,easy,243,モア！ジャンプ！モア！,MORE! JUMP! MORE!,202,00:02:03,123.0
+99,normal,417,モア！ジャンプ！モア！,MORE! JUMP! MORE!,202,00:02:03,123.0
+99,hard,735,モア！ジャンプ！モア！,MORE! JUMP! MORE!,202,00:02:03,123.0
+99,expert,1011,モア！ジャンプ！モア！,MORE! JUMP! MORE!,202,00:02:03,123.0
+99,master,1257,モア！ジャンプ！モア！,MORE! JUMP! MORE!,202,00:02:03,123.0
+100,easy,157,ECHO,ECHO,140,00:01:39,99.0
+100,normal,279,ECHO,ECHO,140,00:01:39,99.0
+100,hard,404,ECHO,ECHO,140,00:01:39,99.0
+100,expert,659,ECHO,ECHO,140,00:01:39,99.0
+100,master,805,ECHO,ECHO,140,00:01:39,99.0
+101,easy,204,RAD DOGS,RAD DOGS,140,00:02:20,140.0
+101,normal,418,RAD DOGS,RAD DOGS,140,00:02:20,140.0
+101,hard,743,RAD DOGS,RAD DOGS,140,00:02:20,140.0
+101,expert,1067,RAD DOGS,RAD DOGS,140,00:02:20,140.0
+101,master,1197,RAD DOGS,RAD DOGS,140,00:02:20,140.0
+102,easy,184,幽霊東京,Ghost City Tokyo,124,00:02:13,133.0
+102,normal,375,幽霊東京,Ghost City Tokyo,124,00:02:13,133.0
+102,hard,595,幽霊東京,Ghost City Tokyo,124,00:02:13,133.0
+102,expert,904,幽霊東京,Ghost City Tokyo,124,00:02:13,133.0
+102,master,1053,幽霊東京,Ghost City Tokyo,124,00:02:13,133.0
+103,easy,284,ニジイロストーリーズ,NIJIIRO STORIES,115-230,00:02:01,121.0
+103,normal,428,ニジイロストーリーズ,NIJIIRO STORIES,115-230,00:02:01,121.0
+103,hard,673,ニジイロストーリーズ,NIJIIRO STORIES,115-230,00:02:01,121.0
+103,expert,881,ニジイロストーリーズ,NIJIIRO STORIES,115-230,00:02:01,121.0
+103,master,1054,ニジイロストーリーズ,NIJIIRO STORIES,115-230,00:02:01,121.0
+104,easy,200,サンドリヨン 10th Anniversary,Cendrillon 10th Anniversary,147,00:01:57,117.0
+104,normal,311,サンドリヨン 10th Anniversary,Cendrillon 10th Anniversary,147,00:01:57,117.0
+104,hard,499,サンドリヨン 10th Anniversary,Cendrillon 10th Anniversary,147,00:01:57,117.0
+104,expert,735,サンドリヨン 10th Anniversary,Cendrillon 10th Anniversary,147,00:01:57,117.0
+104,master,913,サンドリヨン 10th Anniversary,Cendrillon 10th Anniversary,147,00:01:57,117.0
+105,easy,161,ワンスアポンアドリーム,once upon a dream,132,00:01:52,112.0
+105,normal,264,ワンスアポンアドリーム,once upon a dream,132,00:01:52,112.0
+105,hard,478,ワンスアポンアドリーム,once upon a dream,132,00:01:52,112.0
+105,expert,683,ワンスアポンアドリーム,once upon a dream,132,00:01:52,112.0
+105,master,871,ワンスアポンアドリーム,once upon a dream,132,00:01:52,112.0
+106,easy,151,お気に召すまま,As You Like It,143,00:01:52,112.0
+106,normal,339,お気に召すまま,As You Like It,143,00:01:52,112.0
+106,hard,583,お気に召すまま,As You Like It,143,00:01:52,112.0
+106,expert,808,お気に召すまま,As You Like It,143,00:01:52,112.0
+106,master,988,お気に召すまま,As You Like It,143,00:01:52,112.0
+107,easy,163,ミルククラウン・オン・ソーネチカ,Milk Crown on Sonechka,127.4567,00:02:15,135.0
+107,normal,497,ミルククラウン・オン・ソーネチカ,Milk Crown on Sonechka,127.4567,00:02:15,135.0
+107,hard,752,ミルククラウン・オン・ソーネチカ,Milk Crown on Sonechka,127.4567,00:02:15,135.0
+107,expert,1025,ミルククラウン・オン・ソーネチカ,Milk Crown on Sonechka,127.4567,00:02:15,135.0
+107,master,1226,ミルククラウン・オン・ソーネチカ,Milk Crown on Sonechka,127.4567,00:02:15,135.0
+108,easy,194,愛されなくても君がいる,Because You're Here,150,00:02:20,140.0
+108,normal,407,愛されなくても君がいる,Because You're Here,150,00:02:20,140.0
+108,hard,589,愛されなくても君がいる,Because You're Here,150,00:02:20,140.0
+108,expert,914,愛されなくても君がいる,Because You're Here,150,00:02:20,140.0
+108,master,1075,愛されなくても君がいる,Because You're Here,150,00:02:20,140.0
+109,easy,146,ヒビカセ,Hibikase,140,00:01:55,115.0
+109,normal,292,ヒビカセ,Hibikase,140,00:01:55,115.0
+109,hard,572,ヒビカセ,Hibikase,140,00:01:55,115.0
+109,expert,898,ヒビカセ,Hibikase,140,00:01:55,115.0
+109,master,1019,ヒビカセ,Hibikase,140,00:01:55,115.0
+110,easy,206,千本桜,Senbonzakura,154,00:02:04,124.0
+110,normal,427,千本桜,Senbonzakura,154,00:02:04,124.0
+110,hard,777,千本桜,Senbonzakura,154,00:02:04,124.0
+110,expert,1000,千本桜,Senbonzakura,154,00:02:04,124.0
+110,master,1257,千本桜,Senbonzakura,154,00:02:04,124.0
+111,easy,125,カトラリー,Cutlery,108,00:01:51,111.0
+111,normal,244,カトラリー,Cutlery,108,00:01:51,111.0
+111,hard,459,カトラリー,Cutlery,108,00:01:51,111.0
+111,expert,686,カトラリー,Cutlery,108,00:01:51,111.0
+111,master,806,カトラリー,Cutlery,108,00:01:51,111.0
+112,easy,212,天使のクローバー,Angel's Clover,193,00:01:58,118.0
+112,normal,390,天使のクローバー,Angel's Clover,193,00:01:58,118.0
+112,hard,636,天使のクローバー,Angel's Clover,193,00:01:58,118.0
+112,expert,985,天使のクローバー,Angel's Clover,193,00:01:58,118.0
+112,master,1235,天使のクローバー,Angel's Clover,193,00:01:58,118.0
+113,easy,235,ローリンガール,Rollin Girl,195,00:02:01,121.0
+113,normal,293,ローリンガール,Rollin Girl,195,00:02:01,121.0
+113,hard,776,ローリンガール,Rollin Girl,195,00:02:01,121.0
+113,expert,1156,ローリンガール,Rollin Girl,195,00:02:01,121.0
+113,master,1396,ローリンガール,Rollin Girl,195,00:02:01,121.0
+114,easy,152,裏表ラバーズ,Ura-Omote Lovers,159,00:01:50,110.0
+114,normal,304,裏表ラバーズ,Ura-Omote Lovers,159,00:01:50,110.0
+114,hard,615,裏表ラバーズ,Ura-Omote Lovers,159,00:01:50,110.0
+114,expert,1017,裏表ラバーズ,Ura-Omote Lovers,159,00:01:50,110.0
+114,master,1151,裏表ラバーズ,Ura-Omote Lovers,159,00:01:50,110.0
+115,easy,290,アンノウン・マザーグース,Unknown Mother-Goose,222,00:02:16,136.0
+115,normal,462,アンノウン・マザーグース,Unknown Mother-Goose,222,00:02:16,136.0
+115,hard,856,アンノウン・マザーグース,Unknown Mother-Goose,222,00:02:16,136.0
+115,expert,1080,アンノウン・マザーグース,Unknown Mother-Goose,222,00:02:16,136.0
+115,master,1292,アンノウン・マザーグース,Unknown Mother-Goose,222,00:02:16,136.0
+116,easy,263,アイディスマイル,IDSMILE,171,00:02:15,135.0
+116,normal,439,アイディスマイル,IDSMILE,171,00:02:15,135.0
+116,hard,703,アイディスマイル,IDSMILE,171,00:02:15,135.0
+116,expert,985,アイディスマイル,IDSMILE,171,00:02:15,135.0
+116,master,1247,アイディスマイル,IDSMILE,171,00:02:15,135.0
+117,easy,199,ODDS＆ENDS,ODDS&ENDS,192,00:01:33,93.0
+117,normal,310,ODDS＆ENDS,ODDS&ENDS,192,00:01:33,93.0
+117,hard,509,ODDS＆ENDS,ODDS&ENDS,192,00:01:33,93.0
+117,expert,739,ODDS＆ENDS,ODDS&ENDS,192,00:01:33,93.0
+117,master,921,ODDS＆ENDS,ODDS&ENDS,192,00:01:33,93.0
+118,easy,219,＊ハロー、プラネット。,"*Hello, Planet",150,00:01:57,117.0
+118,normal,343,＊ハロー、プラネット。,"*Hello, Planet",150,00:01:57,117.0
+118,hard,730,＊ハロー、プラネット。,"*Hello, Planet",150,00:01:57,117.0
+118,expert,931,＊ハロー、プラネット。,"*Hello, Planet",150,00:01:57,117.0
+118,master,1076,＊ハロー、プラネット。,"*Hello, Planet",150,00:01:57,117.0
+119,easy,131,ワールズエンド・ダンスホール,World's End Dancehall,171,00:01:42,102.0
+119,normal,233,ワールズエンド・ダンスホール,World's End Dancehall,171,00:01:42,102.0
+119,hard,694,ワールズエンド・ダンスホール,World's End Dancehall,171,00:01:42,102.0
+119,expert,957,ワールズエンド・ダンスホール,World's End Dancehall,171,00:01:42,102.0
+119,master,1044,ワールズエンド・ダンスホール,World's End Dancehall,171,00:01:42,102.0
+120,easy,230,いかないで,Do not go,191,00:01:55,115.0
+120,normal,384,いかないで,Do not go,191,00:01:55,115.0
+120,hard,626,いかないで,Do not go,191,00:01:55,115.0
+120,expert,977,いかないで,Do not go,191,00:01:55,115.0
+120,master,1173,いかないで,Do not go,191,00:01:55,115.0
+121,easy,188,ロミオとシンデレラ,Romeo & Cinderella,170,00:01:54,114.0
+121,normal,342,ロミオとシンデレラ,Romeo & Cinderella,170,00:01:54,114.0
+121,hard,571,ロミオとシンデレラ,Romeo & Cinderella,170,00:01:54,114.0
+121,expert,856,ロミオとシンデレラ,Romeo & Cinderella,170,00:01:54,114.0
+121,master,1035,ロミオとシンデレラ,Romeo & Cinderella,170,00:01:54,114.0
+122,easy,201,ポジティブ☆ダンスタイム,Positive☆Dance Time,210,00:01:56,116.0
+122,normal,507,ポジティブ☆ダンスタイム,Positive☆Dance Time,210,00:01:56,116.0
+122,hard,637,ポジティブ☆ダンスタイム,Positive☆Dance Time,210,00:01:56,116.0
+122,expert,965,ポジティブ☆ダンスタイム,Positive☆Dance Time,210,00:01:56,116.0
+122,master,1154,ポジティブ☆ダンスタイム,Positive☆Dance Time,210,00:01:56,116.0
+123,easy,225,どりーみんチュチュ,dreamin chuchu,128,00:02:20,140.0
+123,normal,367,どりーみんチュチュ,dreamin chuchu,128,00:02:20,140.0
+123,hard,567,どりーみんチュチュ,dreamin chuchu,128,00:02:20,140.0
+123,expert,873,どりーみんチュチュ,dreamin chuchu,128,00:02:20,140.0
+123,master,1074,どりーみんチュチュ,dreamin chuchu,128,00:02:20,140.0
+124,easy,139,みくみくにしてあげる♪【してやんよ】,Mikumiku Ni Shiteageru [Shiteyanyo],160,00:01:41,101.0
+124,normal,339,みくみくにしてあげる♪【してやんよ】,Mikumiku Ni Shiteageru [Shiteyanyo],160,00:01:41,101.0
+124,hard,439,みくみくにしてあげる♪【してやんよ】,Mikumiku Ni Shiteageru [Shiteyanyo],160,00:01:41,101.0
+124,expert,739,みくみくにしてあげる♪【してやんよ】,Mikumiku Ni Shiteageru [Shiteyanyo],160,00:01:41,101.0
+124,master,939,みくみくにしてあげる♪【してやんよ】,Mikumiku Ni Shiteageru [Shiteyanyo],160,00:01:41,101.0
+125,easy,196,ボッカデラベリタ,Bocca della Verità,170,00:01:57,117.0
+125,normal,416,ボッカデラベリタ,Bocca della Verità,170,00:01:57,117.0
+125,hard,615,ボッカデラベリタ,Bocca della Verità,170,00:01:57,117.0
+125,expert,884,ボッカデラベリタ,Bocca della Verità,170,00:01:57,117.0
+125,master,1119,ボッカデラベリタ,Bocca della Verità,170,00:01:57,117.0
+126,easy,105,シネマ,Cinema,124,00:01:46,106.0
+126,normal,254,シネマ,Cinema,124,00:01:46,106.0
+126,hard,465,シネマ,Cinema,124,00:01:46,106.0
+126,expert,616,シネマ,Cinema,124,00:01:46,106.0
+126,master,800,シネマ,Cinema,124,00:01:46,106.0
+127,easy,356,トンデモワンダーズ,Tondemo-Wonderz,172-180,00:02:04,124.0
+127,normal,465,トンデモワンダーズ,Tondemo-Wonderz,172-180,00:02:04,124.0
+127,hard,707,トンデモワンダーズ,Tondemo-Wonderz,172-180,00:02:04,124.0
+127,expert,1122,トンデモワンダーズ,Tondemo-Wonderz,172-180,00:02:04,124.0
+127,master,1224,トンデモワンダーズ,Tondemo-Wonderz,172-180,00:02:04,124.0
+128,easy,300,Brand New Day,Brand New Day,185,00:02:11,131.0
+128,normal,378,Brand New Day,Brand New Day,185,00:02:11,131.0
+128,hard,829,Brand New Day,Brand New Day,185,00:02:11,131.0
+128,expert,1260,Brand New Day,Brand New Day,185,00:02:11,131.0
+128,master,1316,Brand New Day,Brand New Day,185,00:02:11,131.0
+129,easy,263,ビターチョコデコレーション,Bitter Choco Decoration,174,00:02:08,128.0
+129,normal,395,ビターチョコデコレーション,Bitter Choco Decoration,174,00:02:08,128.0
+129,hard,726,ビターチョコデコレーション,Bitter Choco Decoration,174,00:02:08,128.0
+129,expert,1059,ビターチョコデコレーション,Bitter Choco Decoration,174,00:02:08,128.0
+129,master,1377,ビターチョコデコレーション,Bitter Choco Decoration,174,00:02:08,128.0
+130,easy,137,フロムトーキョー,From Tokyo,130,00:01:39,99.0
+130,normal,227,フロムトーキョー,From Tokyo,130,00:01:39,99.0
+130,hard,441,フロムトーキョー,From Tokyo,130,00:01:39,99.0
+130,expert,640,フロムトーキョー,From Tokyo,130,00:01:39,99.0
+130,master,814,フロムトーキョー,From Tokyo,130,00:01:39,99.0
+131,easy,409,初音ミクの激唱,The Intense Voice of Hatsune Miku,200,00:02:40,160.0
+131,normal,707,初音ミクの激唱,The Intense Voice of Hatsune Miku,200,00:02:40,160.0
+131,hard,963,初音ミクの激唱,The Intense Voice of Hatsune Miku,200,00:02:40,160.0
+131,expert,1520,初音ミクの激唱,The Intense Voice of Hatsune Miku,200,00:02:40,160.0
+131,master,1742,初音ミクの激唱,The Intense Voice of Hatsune Miku,200,00:02:40,160.0
+132,easy,190,「１」,「1」,145-150,00:01:38,98.0
+132,normal,368,「１」,「1」,145-150,00:01:38,98.0
+132,hard,444,「１」,「1」,145-150,00:01:38,98.0
+132,expert,619,「１」,「1」,145-150,00:01:38,98.0
+132,master,814,「１」,「1」,145-150,00:01:38,98.0
+133,easy,147,悪魔の踊り方,Devil's Manner,106,00:01:57,117.0
+133,normal,290,悪魔の踊り方,Devil's Manner,106,00:01:57,117.0
+133,hard,588,悪魔の踊り方,Devil's Manner,106,00:01:57,117.0
+133,expert,792,悪魔の踊り方,Devil's Manner,106,00:01:57,117.0
+133,master,938,悪魔の踊り方,Devil's Manner,106,00:01:57,117.0
+134,easy,169,テレキャスタービーボーイ,Telecaster b boy,182,00:01:38,98.0
+134,normal,280,テレキャスタービーボーイ,Telecaster b boy,182,00:01:38,98.0
+134,hard,501,テレキャスタービーボーイ,Telecaster b boy,182,00:01:38,98.0
+134,expert,726,テレキャスタービーボーイ,Telecaster b boy,182,00:01:38,98.0
+134,master,898,テレキャスタービーボーイ,Telecaster b boy,182,00:01:38,98.0
+135,easy,283,六兆年と一夜物語,Six Trillion Years and Overnight Story,186,00:02:03,123.0
+135,normal,448,六兆年と一夜物語,Six Trillion Years and Overnight Story,186,00:02:03,123.0
+135,hard,741,六兆年と一夜物語,Six Trillion Years and Overnight Story,186,00:02:03,123.0
+135,expert,1099,六兆年と一夜物語,Six Trillion Years and Overnight Story,186,00:02:03,123.0
+135,master,1288,六兆年と一夜物語,Six Trillion Years and Overnight Story,186,00:02:03,123.0
+136,easy,250,チルドレンレコード,Children Record,210,00:02:08,128.0
+136,normal,564,チルドレンレコード,Children Record,210,00:02:08,128.0
+136,hard,823,チルドレンレコード,Children Record,210,00:02:08,128.0
+136,expert,1234,チルドレンレコード,Children Record,210,00:02:08,128.0
+136,master,1502,チルドレンレコード,Children Record,210,00:02:08,128.0
+137,easy,157,花を唄う,Singing of a flower,115,00:01:50,110.0
+137,normal,298,花を唄う,Singing of a flower,115,00:01:50,110.0
+137,hard,565,花を唄う,Singing of a flower,115,00:01:50,110.0
+137,expert,807,花を唄う,Singing of a flower,115,00:01:50,110.0
+137,master,878,花を唄う,Singing of a flower,115,00:01:50,110.0
+138,easy,222,KING,KING,166,00:02:15,135.0
+138,normal,466,KING,KING,166,00:02:15,135.0
+138,hard,694,KING,KING,166,00:02:15,135.0
+138,expert,1002,KING,KING,166,00:02:15,135.0
+138,master,1251,KING,KING,166,00:02:15,135.0
+139,easy,182,夜に駆ける,Into The Night,130,00:02:19,139.0
+139,normal,357,夜に駆ける,Into The Night,130,00:02:19,139.0
+139,hard,594,夜に駆ける,Into The Night,130,00:02:19,139.0
+139,expert,932,夜に駆ける,Into The Night,130,00:02:19,139.0
+139,master,1140,夜に駆ける,Into The Night,130,00:02:19,139.0
+140,easy,162,アイスドロップ,icedrop,158,00:01:46,106.0
+140,normal,267,アイスドロップ,icedrop,158,00:01:46,106.0
+140,hard,484,アイスドロップ,icedrop,158,00:01:46,106.0
+140,expert,704,アイスドロップ,icedrop,158,00:01:46,106.0
+140,master,802,アイスドロップ,icedrop,158,00:01:46,106.0
+141,easy,199,群青讃歌,Gunjo Sanka,168,00:01:39,99.0
+141,normal,344,群青讃歌,Gunjo Sanka,168,00:01:39,99.0
+141,hard,475,群青讃歌,Gunjo Sanka,168,00:01:39,99.0
+141,expert,711,群青讃歌,Gunjo Sanka,168,00:01:39,99.0
+141,master,833,群青讃歌,Gunjo Sanka,168,00:01:39,99.0
+142,easy,124,再生,Reborn,76,00:01:42,102.0
+142,normal,221,再生,Reborn,76,00:01:42,102.0
+142,hard,308,再生,Reborn,76,00:01:42,102.0
+142,expert,458,再生,Reborn,76,00:01:42,102.0
+142,master,547,再生,Reborn,76,00:01:42,102.0
+143,easy,177,トラフィック・ジャム,Traffic jam,130,00:02:09,129.0
+143,normal,371,トラフィック・ジャム,Traffic jam,130,00:02:09,129.0
+143,hard,638,トラフィック・ジャム,Traffic jam,130,00:02:09,129.0
+143,expert,896,トラフィック・ジャム,Traffic jam,130,00:02:09,129.0
+143,master,1089,トラフィック・ジャム,Traffic jam,130,00:02:09,129.0
+144,easy,159,アイノマテリアル,Love material,120,00:02:04,124.0
+144,normal,291,アイノマテリアル,Love material,120,00:02:04,124.0
+144,hard,457,アイノマテリアル,Love material,120,00:02:04,124.0
+144,expert,643,アイノマテリアル,Love material,120,00:02:04,124.0
+144,master,814,アイノマテリアル,Love material,120,00:02:04,124.0
+145,easy,216,ベノム,Venom,152,00:02:08,128.0
+145,normal,372,ベノム,Venom,152,00:02:08,128.0
+145,hard,649,ベノム,Venom,152,00:02:08,128.0
+145,expert,972,ベノム,Venom,152,00:02:08,128.0
+145,master,1138,ベノム,Venom,152,00:02:08,128.0
+146,easy,304,リモコン,Remote Control,165,00:02:13,133.0
+146,normal,480,リモコン,Remote Control,165,00:02:13,133.0
+146,hard,612,リモコン,Remote Control,165,00:02:13,133.0
+146,expert,903,リモコン,Remote Control,165,00:02:13,133.0
+146,master,1206,リモコン,Remote Control,165,00:02:13,133.0
+147,easy,163,からくりピエロ,Karakuri Pierrot,102,00:02:18,138.0
+147,normal,306,からくりピエロ,Karakuri Pierrot,102,00:02:18,138.0
+147,hard,489,からくりピエロ,Karakuri Pierrot,102,00:02:18,138.0
+147,expert,714,からくりピエロ,Karakuri Pierrot,102,00:02:18,138.0
+147,master,1005,からくりピエロ,Karakuri Pierrot,102,00:02:18,138.0
+148,easy,213,ray,ray,132,00:02:11,131.0
+148,normal,333,ray,ray,132,00:02:11,131.0
+148,hard,597,ray,ray,132,00:02:11,131.0
+148,expert,978,ray,ray,132,00:02:11,131.0
+148,master,1092,ray,ray,132,00:02:11,131.0
+149,easy,213,カナデトモスソラ,Kanadetomosusora,158,00:01:54,114.0
+149,normal,312,カナデトモスソラ,Kanadetomosusora,158,00:01:54,114.0
+149,hard,405,カナデトモスソラ,Kanadetomosusora,158,00:01:54,114.0
+149,expert,522,カナデトモスソラ,Kanadetomosusora,158,00:01:54,114.0
+149,master,703,カナデトモスソラ,Kanadetomosusora,158,00:01:54,114.0
+150,easy,129,トキヲ・ファンカ,TOKIO FUNKA,96-120,00:01:47,107.0
+150,normal,243,トキヲ・ファンカ,TOKIO FUNKA,96-120,00:01:47,107.0
+150,hard,543,トキヲ・ファンカ,TOKIO FUNKA,96-120,00:01:47,107.0
+150,expert,780,トキヲ・ファンカ,TOKIO FUNKA,96-120,00:01:47,107.0
+150,master,859,トキヲ・ファンカ,TOKIO FUNKA,96-120,00:01:47,107.0
+151,easy,232,泡沫未来,The Bubble Future,179,00:01:44,104.0
+151,normal,354,泡沫未来,The Bubble Future,179,00:01:44,104.0
+151,hard,559,泡沫未来,The Bubble Future,179,00:01:44,104.0
+151,expert,750,泡沫未来,The Bubble Future,179,00:01:44,104.0
+151,master,903,泡沫未来,The Bubble Future,179,00:01:44,104.0
+152,easy,169,だれかの心臓になれたなら,I want to be your heart,145,00:01:57,117.0
+152,normal,323,だれかの心臓になれたなら,I want to be your heart,145,00:01:57,117.0
+152,hard,553,だれかの心臓になれたなら,I want to be your heart,145,00:01:57,117.0
+152,expert,811,だれかの心臓になれたなら,I want to be your heart,145,00:01:57,117.0
+152,master,1044,だれかの心臓になれたなら,I want to be your heart,145,00:01:57,117.0
+153,easy,200,Miku,Miku,128,00:02:35,155.0
+153,normal,405,Miku,Miku,128,00:02:35,155.0
+153,hard,638,Miku,Miku,128,00:02:35,155.0
+153,expert,990,Miku,Miku,128,00:02:35,155.0
+153,master,1106,Miku,Miku,128,00:02:35,155.0
+154,easy,298,地球最後の告白を,Chikyuu Saigo no Kokuhaku wo,140-190,00:02:08,128.0
+154,normal,389,地球最後の告白を,Chikyuu Saigo no Kokuhaku wo,140-190,00:02:08,128.0
+154,hard,563,地球最後の告白を,Chikyuu Saigo no Kokuhaku wo,140-190,00:02:08,128.0
+154,expert,884,地球最後の告白を,Chikyuu Saigo no Kokuhaku wo,140-190,00:02:08,128.0
+154,master,1164,地球最後の告白を,Chikyuu Saigo no Kokuhaku wo,140-190,00:02:08,128.0
+155,easy,197,心拍数♯0822,Heartbeat #0822,114,00:02:03,123.0
+155,normal,308,心拍数♯0822,Heartbeat #0822,114,00:02:03,123.0
+155,hard,501,心拍数♯0822,Heartbeat #0822,114,00:02:03,123.0
+155,expert,675,心拍数♯0822,Heartbeat #0822,114,00:02:03,123.0
+155,master,843,心拍数♯0822,Heartbeat #0822,114,00:02:03,123.0
+156,easy,118,Beat Eater,Beat Eater,137,00:01:39,99.0
+156,normal,251,Beat Eater,Beat Eater,137,00:01:39,99.0
+156,hard,481,Beat Eater,Beat Eater,137,00:01:39,99.0
+156,expert,772,Beat Eater,Beat Eater,137,00:01:39,99.0
+156,master,798,Beat Eater,Beat Eater,137,00:01:39,99.0
+157,easy,328,マシュマリー,Marshmary,182,00:02:13,133.0
+157,normal,469,マシュマリー,Marshmary,182,00:02:13,133.0
+157,hard,848,マシュマリー,Marshmary,182,00:02:13,133.0
+157,expert,1123,マシュマリー,Marshmary,182,00:02:13,133.0
+157,master,1303,マシュマリー,Marshmary,182,00:02:13,133.0
+158,easy,234,ナンセンス文学,Literary nonsense,154,00:02:11,131.0
+158,normal,390,ナンセンス文学,Literary nonsense,154,00:02:11,131.0
+158,hard,604,ナンセンス文学,Literary nonsense,154,00:02:11,131.0
+158,expert,856,ナンセンス文学,Literary nonsense,154,00:02:11,131.0
+158,master,1180,ナンセンス文学,Literary nonsense,154,00:02:11,131.0
+159,easy,278,STAGE OF SEKAI,STAGE OF SEKAI,190,00:02:01,121.0
+159,normal,454,STAGE OF SEKAI,STAGE OF SEKAI,190,00:02:01,121.0
+159,hard,621,STAGE OF SEKAI,STAGE OF SEKAI,190,00:02:01,121.0
+159,expert,1005,STAGE OF SEKAI,STAGE OF SEKAI,190,00:02:01,121.0
+159,master,1156,STAGE OF SEKAI,STAGE OF SEKAI,190,00:02:01,121.0
+160,easy,198,ショウタイム・ルーラー,Showtime Ruler,204,00:01:48,108.0
+160,normal,326,ショウタイム・ルーラー,Showtime Ruler,204,00:01:48,108.0
+160,hard,541,ショウタイム・ルーラー,Showtime Ruler,204,00:01:48,108.0
+160,expert,819,ショウタイム・ルーラー,Showtime Ruler,204,00:01:48,108.0
+160,master,1063,ショウタイム・ルーラー,Showtime Ruler,204,00:01:48,108.0
+161,easy,98,magic number,magic number,120,00:01:51,111.0
+161,normal,280,magic number,magic number,120,00:01:51,111.0
+161,hard,535,magic number,magic number,120,00:01:51,111.0
+161,expert,818,magic number,magic number,120,00:01:51,111.0
+161,master,988,magic number,magic number,120,00:01:51,111.0
+162,easy,440,エンドマークに希望と涙を添えて,End Mark ni Kibou to Namida wo soete,257,00:02:21,141.0
+162,normal,697,エンドマークに希望と涙を添えて,End Mark ni Kibou to Namida wo soete,257,00:02:21,141.0
+162,hard,1129,エンドマークに希望と涙を添えて,End Mark ni Kibou to Namida wo soete,257,00:02:21,141.0
+162,expert,1553,エンドマークに希望と涙を添えて,End Mark ni Kibou to Namida wo soete,257,00:02:21,141.0
+162,master,1948,エンドマークに希望と涙を添えて,End Mark ni Kibou to Namida wo soete,257,00:02:21,141.0
+163,easy,531,the EmpErroR,the EmpErroR,240,00:02:06,126.0
+163,normal,820,the EmpErroR,the EmpErroR,240,00:02:06,126.0
+163,hard,894,the EmpErroR,the EmpErroR,240,00:02:06,126.0
+163,expert,1223,the EmpErroR,the EmpErroR,240,00:02:06,126.0
+163,master,1593,the EmpErroR,the EmpErroR,240,00:02:06,126.0
+164,easy,520,Don't Fight The Music,Don't Fight The Music,74-200,00:02:40,160.0
+164,normal,701,Don't Fight The Music,Don't Fight The Music,74-200,00:02:40,160.0
+164,hard,1175,Don't Fight The Music,Don't Fight The Music,74-200,00:02:40,160.0
+164,expert,1545,Don't Fight The Music,Don't Fight The Music,74-200,00:02:40,160.0
+164,master,1888,Don't Fight The Music,Don't Fight The Music,74-200,00:02:40,160.0
+165,easy,258,そうだった！！,Soudatta!!,192,00:02:07,127.0
+165,normal,409,そうだった！！,Soudatta!!,192,00:02:07,127.0
+165,hard,794,そうだった！！,Soudatta!!,192,00:02:07,127.0
+165,expert,1175,そうだった！！,Soudatta!!,192,00:02:07,127.0
+165,master,1297,そうだった！！,Soudatta!!,192,00:02:07,127.0
+166,easy,120,Glory Steady Go!,Glory Steady Go!,131,00:01:39,99.0
+166,normal,247,Glory Steady Go!,Glory Steady Go!,131,00:01:39,99.0
+166,hard,484,Glory Steady Go!,Glory Steady Go!,131,00:01:39,99.0
+166,expert,738,Glory Steady Go!,Glory Steady Go!,131,00:01:39,99.0
+166,master,875,Glory Steady Go!,Glory Steady Go!,131,00:01:39,99.0
+167,easy,301,オルターエゴ,Alter Ego,176,00:02:32,152.0
+167,normal,545,オルターエゴ,Alter Ego,176,00:02:32,152.0
+167,hard,787,オルターエゴ,Alter Ego,176,00:02:32,152.0
+167,expert,1175,オルターエゴ,Alter Ego,176,00:02:32,152.0
+167,master,1557,オルターエゴ,Alter Ego,176,00:02:32,152.0
+168,easy,190,ダーリンダンス,DarlingDance,153,00:01:42,102.0
+168,normal,332,ダーリンダンス,DarlingDance,153,00:01:42,102.0
+168,hard,572,ダーリンダンス,DarlingDance,153,00:01:42,102.0
+168,expert,824,ダーリンダンス,DarlingDance,153,00:01:42,102.0
+168,master,912,ダーリンダンス,DarlingDance,153,00:01:42,102.0
+169,easy,326,少女レイ,Shoujo Rei,150,00:02:39,159.0
+169,normal,561,少女レイ,Shoujo Rei,150,00:02:39,159.0
+169,hard,816,少女レイ,Shoujo Rei,150,00:02:39,159.0
+169,expert,1168,少女レイ,Shoujo Rei,150,00:02:39,159.0
+169,master,1400,少女レイ,Shoujo Rei,150,00:02:39,159.0
+170,easy,162,ヴィラン,villain,102,00:02:30,150.0
+170,normal,341,ヴィラン,villain,102,00:02:30,150.0
+170,hard,679,ヴィラン,villain,102,00:02:30,150.0
+170,expert,984,ヴィラン,villain,102,00:02:30,150.0
+170,master,1154,ヴィラン,villain,102,00:02:30,150.0
+171,easy,370,カゲロウデイズ,Kagerou Daze,200,00:02:23,143.0
+171,normal,599,カゲロウデイズ,Kagerou Daze,200,00:02:23,143.0
+171,hard,871,カゲロウデイズ,Kagerou Daze,200,00:02:23,143.0
+171,expert,1295,カゲロウデイズ,Kagerou Daze,200,00:02:23,143.0
+171,master,1404,カゲロウデイズ,Kagerou Daze,200,00:02:23,143.0
+172,easy,150,Happy Halloween,Happy Halloween,120,00:02:03,123.0
+172,normal,357,Happy Halloween,Happy Halloween,120,00:02:03,123.0
+172,hard,533,Happy Halloween,Happy Halloween,120,00:02:03,123.0
+172,expert,827,Happy Halloween,Happy Halloween,120,00:02:03,123.0
+172,master,987,Happy Halloween,Happy Halloween,120,00:02:03,123.0
+173,easy,231,流星のパルス,Pulse of the Meteor,192,00:02:01,121.0
+173,normal,478,流星のパルス,Pulse of the Meteor,192,00:02:01,121.0
+173,hard,656,流星のパルス,Pulse of the Meteor,192,00:02:01,121.0
+173,expert,958,流星のパルス,Pulse of the Meteor,192,00:02:01,121.0
+173,master,1123,流星のパルス,Pulse of the Meteor,192,00:02:01,121.0
+174,easy,206,いーあるふぁんくらぶ,"1,2, FanClub",145,00:02:05,125.0
+174,normal,323,いーあるふぁんくらぶ,"1,2, FanClub",145,00:02:05,125.0
+174,hard,595,いーあるふぁんくらぶ,"1,2, FanClub",145,00:02:05,125.0
+174,expert,863,いーあるふぁんくらぶ,"1,2, FanClub",145,00:02:05,125.0
+174,master,1002,いーあるふぁんくらぶ,"1,2, FanClub",145,00:02:05,125.0
+175,easy,355,拝啓ドッペルゲンガー,Haikei Doppelganger,181,00:02:35,155.0
+175,normal,681,拝啓ドッペルゲンガー,Haikei Doppelganger,181,00:02:35,155.0
+175,hard,917,拝啓ドッペルゲンガー,Haikei Doppelganger,181,00:02:35,155.0
+175,expert,1368,拝啓ドッペルゲンガー,Haikei Doppelganger,181,00:02:35,155.0
+175,master,1654,拝啓ドッペルゲンガー,Haikei Doppelganger,181,00:02:35,155.0
+176,easy,349,マシンガンポエムドール,MACHINEGUN POEM DOLL,220,00:02:20,140.0
+176,normal,626,マシンガンポエムドール,MACHINEGUN POEM DOLL,220,00:02:20,140.0
+176,hard,1154,マシンガンポエムドール,MACHINEGUN POEM DOLL,220,00:02:20,140.0
+176,expert,1730,マシンガンポエムドール,MACHINEGUN POEM DOLL,220,00:02:20,140.0
+176,master,1819,マシンガンポエムドール,MACHINEGUN POEM DOLL,220,00:02:20,140.0
+177,easy,171,右肩の蝶,Butterfly on Your Right Shoulder,140,00:02:12,132.0
+177,normal,377,右肩の蝶,Butterfly on Your Right Shoulder,140,00:02:12,132.0
+177,hard,643,右肩の蝶,Butterfly on Your Right Shoulder,140,00:02:12,132.0
+177,expert,1058,右肩の蝶,Butterfly on Your Right Shoulder,140,00:02:12,132.0
+177,master,1315,右肩の蝶,Butterfly on Your Right Shoulder,140,00:02:12,132.0
+178,easy,254,にっこり^^調査隊のテーマ,Theme of Niccori Survey Team,180,00:02:05,125.0
+178,normal,414,にっこり^^調査隊のテーマ,Theme of Niccori Survey Team,180,00:02:05,125.0
+178,hard,724,にっこり^^調査隊のテーマ,Theme of Niccori Survey Team,180,00:02:05,125.0
+178,expert,1026,にっこり^^調査隊のテーマ,Theme of Niccori Survey Team,180,00:02:05,125.0
+178,master,1195,にっこり^^調査隊のテーマ,Theme of Niccori Survey Team,180,00:02:05,125.0
+179,easy,288,炉心融解,Roshin Yuukai (meltdown),165,00:02:03,123.0
+179,normal,483,炉心融解,Roshin Yuukai (meltdown),165,00:02:03,123.0
+179,hard,665,炉心融解,Roshin Yuukai (meltdown),165,00:02:03,123.0
+179,expert,998,炉心融解,Roshin Yuukai (meltdown),165,00:02:03,123.0
+179,master,1167,炉心融解,Roshin Yuukai (meltdown),165,00:02:03,123.0
+180,easy,184,ミライ,Mirai,138,00:02:38,158.0
+180,normal,419,ミライ,Mirai,138,00:02:38,158.0
+180,hard,662,ミライ,Mirai,138,00:02:38,158.0
+180,expert,1017,ミライ,Mirai,138,00:02:38,158.0
+180,master,1281,ミライ,Mirai,138,00:02:38,158.0
+181,easy,205,愛して愛して愛して,"Love Me, Love Me, Love Me",115,00:02:10,130.0
+181,normal,377,愛して愛して愛して,"Love Me, Love Me, Love Me",115,00:02:10,130.0
+181,hard,509,愛して愛して愛して,"Love Me, Love Me, Love Me",115,00:02:10,130.0
+181,expert,928,愛して愛して愛して,"Love Me, Love Me, Love Me",115,00:02:10,130.0
+181,master,1173,愛して愛して愛して,"Love Me, Love Me, Love Me",115,00:02:10,130.0
+182,easy,261,Flyer!,Flyer!,188,00:02:03,123.0
+182,normal,408,Flyer!,Flyer!,188,00:02:03,123.0
+182,hard,598,Flyer!,Flyer!,188,00:02:03,123.0
+182,expert,861,Flyer!,Flyer!,188,00:02:03,123.0
+182,master,1083,Flyer!,Flyer!,188,00:02:03,123.0
+183,easy,179,フィクサー,fixer,135,00:02:02,122.0
+183,normal,314,フィクサー,fixer,135,00:02:02,122.0
+183,hard,621,フィクサー,fixer,135,00:02:02,122.0
+183,expert,948,フィクサー,fixer,135,00:02:02,122.0
+183,master,1118,フィクサー,fixer,135,00:02:02,122.0
+184,easy,201,"Hello,world!","Hello,world!",211,00:01:40,100.0
+184,normal,382,"Hello,world!","Hello,world!",211,00:01:40,100.0
+184,hard,572,"Hello,world!","Hello,world!",211,00:01:40,100.0
+184,expert,900,"Hello,world!","Hello,world!",211,00:01:40,100.0
+184,master,949,"Hello,world!","Hello,world!",211,00:01:40,100.0
+185,easy,262,しっくおぶはうす！,Sick of House!,170,00:02:21,141.0
+185,normal,509,しっくおぶはうす！,Sick of House!,170,00:02:21,141.0
+185,hard,790,しっくおぶはうす！,Sick of House!,170,00:02:21,141.0
+185,expert,1107,しっくおぶはうす！,Sick of House!,170,00:02:21,141.0
+185,master,1313,しっくおぶはうす！,Sick of House!,170,00:02:21,141.0
+186,easy,734,初音天地開闢神話,Hatsune Creation Myth,240,00:03:02,182.0
+186,normal,882,初音天地開闢神話,Hatsune Creation Myth,240,00:03:02,182.0
+186,hard,1061,初音天地開闢神話,Hatsune Creation Myth,240,00:03:02,182.0
+186,expert,1581,初音天地開闢神話,Hatsune Creation Myth,240,00:03:02,182.0
+186,master,2021,初音天地開闢神話,Hatsune Creation Myth,240,00:03:02,182.0
+187,easy,109,ロウワー,Lower one's eyes,132,00:01:47,107.0
+187,normal,258,ロウワー,Lower one's eyes,132,00:01:47,107.0
+187,hard,539,ロウワー,Lower one's eyes,132,00:01:47,107.0
+187,expert,780,ロウワー,Lower one's eyes,132,00:01:47,107.0
+187,master,850,ロウワー,Lower one's eyes,132,00:01:47,107.0
+188,easy,273,心予報,Heart Forecast,143,00:02:13,133.0
+188,normal,400,心予報,Heart Forecast,143,00:02:13,133.0
+188,hard,638,心予報,Heart Forecast,143,00:02:13,133.0
+188,expert,909,心予報,Heart Forecast,143,00:02:13,133.0
+188,master,1060,心予報,Heart Forecast,143,00:02:13,133.0
+189,easy,150,ノマド,Nomad,90,00:01:31,91.0
+189,normal,202,ノマド,Nomad,90,00:01:31,91.0
+189,hard,387,ノマド,Nomad,90,00:01:31,91.0
+189,expert,515,ノマド,Nomad,90,00:01:31,91.0
+189,master,592,ノマド,Nomad,90,00:01:31,91.0
+190,easy,130,悪ノ娘,The Daughter of Evil,140,00:01:31,91.0
+190,normal,214,悪ノ娘,The Daughter of Evil,140,00:01:31,91.0
+190,hard,413,悪ノ娘,The Daughter of Evil,140,00:01:31,91.0
+190,expert,609,悪ノ娘,The Daughter of Evil,140,00:01:31,91.0
+190,master,784,悪ノ娘,The Daughter of Evil,140,00:01:31,91.0
+191,easy,130,悪ノ召使,The Servant of Evil,120,00:01:34,94.0
+191,normal,214,悪ノ召使,The Servant of Evil,120,00:01:34,94.0
+191,hard,413,悪ノ召使,The Servant of Evil,120,00:01:34,94.0
+191,expert,609,悪ノ召使,The Servant of Evil,120,00:01:34,94.0
+191,master,784,悪ノ召使,The Servant of Evil,120,00:01:34,94.0
+192,easy,200,去り人達のワルツ,Waltz of the Deceased,178,00:01:39,99.0
+192,normal,356,去り人達のワルツ,Waltz of the Deceased,178,00:01:39,99.0
+192,hard,475,去り人達のワルツ,Waltz of the Deceased,178,00:01:39,99.0
+192,expert,672,去り人達のワルツ,Waltz of the Deceased,178,00:01:39,99.0
+192,master,798,去り人達のワルツ,Waltz of the Deceased,178,00:01:39,99.0
+193,easy,129,ワールドワイドワンダー,Worldwide Wander,142,00:01:37,97.0
+193,normal,309,ワールドワイドワンダー,Worldwide Wander,142,00:01:37,97.0
+193,hard,439,ワールドワイドワンダー,Worldwide Wander,142,00:01:37,97.0
+193,expert,626,ワールドワイドワンダー,Worldwide Wander,142,00:01:37,97.0
+193,master,785,ワールドワイドワンダー,Worldwide Wander,142,00:01:37,97.0
+194,easy,200,妄想感傷代償連盟,DSCF,110,00:02:21,141.0
+194,normal,397,妄想感傷代償連盟,DSCF,110,00:02:21,141.0
+194,hard,630,妄想感傷代償連盟,DSCF,110,00:02:21,141.0
+194,expert,908,妄想感傷代償連盟,DSCF,110,00:02:21,141.0
+194,master,966,妄想感傷代償連盟,DSCF,110,00:02:21,141.0
+195,easy,323,PaⅢ.SENSATION,PaⅢ.SENSATION,180,00:02:13,133.0
+195,normal,394,PaⅢ.SENSATION,PaⅢ.SENSATION,180,00:02:13,133.0
+195,hard,758,PaⅢ.SENSATION,PaⅢ.SENSATION,180,00:02:13,133.0
+195,expert,1032,PaⅢ.SENSATION,PaⅢ.SENSATION,180,00:02:13,133.0
+195,master,1244,PaⅢ.SENSATION,PaⅢ.SENSATION,180,00:02:13,133.0
+196,easy,139,オーダーメイド,Made to Order,75,00:02:05,125.0
+196,normal,210,オーダーメイド,Made to Order,75,00:02:05,125.0
+196,hard,331,オーダーメイド,Made to Order,75,00:02:05,125.0
+196,expert,480,オーダーメイド,Made to Order,75,00:02:05,125.0
+196,master,601,オーダーメイド,Made to Order,75,00:02:05,125.0
+197,easy,214,ラストスコア,Last Score,134,00:02:22,142.0
+197,normal,401,ラストスコア,Last Score,134,00:02:22,142.0
+197,hard,759,ラストスコア,Last Score,134,00:02:22,142.0
+197,expert,1050,ラストスコア,Last Score,134,00:02:22,142.0
+197,master,1190,ラストスコア,Last Score,134,00:02:22,142.0
+198,easy,310,グッバイ宣言,Goodbye Declaration,170,00:02:06,126.0
+198,normal,390,グッバイ宣言,Goodbye Declaration,170,00:02:06,126.0
+198,hard,726,グッバイ宣言,Goodbye Declaration,170,00:02:06,126.0
+198,expert,1017,グッバイ宣言,Goodbye Declaration,170,00:02:06,126.0
+198,master,1259,グッバイ宣言,Goodbye Declaration,170,00:02:06,126.0
+199,easy,409,ゴーストルール,Ghost Rule,210,00:02:22,142.0
+199,normal,650,ゴーストルール,Ghost Rule,210,00:02:22,142.0
+199,hard,740,ゴーストルール,Ghost Rule,210,00:02:22,142.0
+199,expert,1174,ゴーストルール,Ghost Rule,210,00:02:22,142.0
+199,master,1473,ゴーストルール,Ghost Rule,210,00:02:22,142.0
+200,easy,205,ガランド,Airhead,93,00:02:10,130.0
+200,normal,350,ガランド,Airhead,93,00:02:10,130.0
+200,hard,557,ガランド,Airhead,93,00:02:10,130.0
+200,expert,761,ガランド,Airhead,93,00:02:10,130.0
+200,master,943,ガランド,Airhead,93,00:02:10,130.0
+201,easy,179,神のまにまに,At God's Mercy,135,00:02:13,133.0
+201,normal,300,神のまにまに,At God's Mercy,135,00:02:13,133.0
+201,hard,645,神のまにまに,At God's Mercy,135,00:02:13,133.0
+201,expert,900,神のまにまに,At God's Mercy,135,00:02:13,133.0
+201,master,1111,神のまにまに,At God's Mercy,135,00:02:13,133.0
+202,easy,218,Q,Q,116-120,00:02:10,130.0
+202,normal,395,Q,Q,116-120,00:02:10,130.0
+202,hard,574,Q,Q,116-120,00:02:10,130.0
+202,expert,907,Q,Q,116-120,00:02:10,130.0
+202,master,998,Q,Q,116-120,00:02:10,130.0
+203,easy,222,トリコロージュ,Tricologe,130,00:02:05,125.0
+203,normal,411,トリコロージュ,Tricologe,130,00:02:05,125.0
+203,hard,736,トリコロージュ,Tricologe,130,00:02:05,125.0
+203,expert,860,トリコロージュ,Tricologe,130,00:02:05,125.0
+203,master,999,トリコロージュ,Tricologe,130,00:02:05,125.0
+204,easy,269,うっせぇわ,Usseewa,178,00:02:16,136.0
+204,normal,487,うっせぇわ,Usseewa,178,00:02:16,136.0
+204,hard,682,うっせぇわ,Usseewa,178,00:02:16,136.0
+204,expert,1035,うっせぇわ,Usseewa,178,00:02:16,136.0
+204,master,1302,うっせぇわ,Usseewa,178,00:02:16,136.0
+205,easy,242,踊,Odo,128,00:02:21,141.0
+205,normal,409,踊,Odo,128,00:02:21,141.0
+205,hard,640,踊,Odo,128,00:02:21,141.0
+205,expert,882,踊,Odo,128,00:02:21,141.0
+205,master,1083,踊,Odo,128,00:02:21,141.0
+206,easy,394,君色マリンスノウ,Colorful Marine Snow,202,00:02:31,151.0
+206,normal,587,君色マリンスノウ,Colorful Marine Snow,202,00:02:31,151.0
+206,hard,875,君色マリンスノウ,Colorful Marine Snow,202,00:02:31,151.0
+206,expert,1339,君色マリンスノウ,Colorful Marine Snow,202,00:02:31,151.0
+206,master,1415,君色マリンスノウ,Colorful Marine Snow,202,00:02:31,151.0
+207,easy,159,Peaky Peaky,Peaky Peaky,132,00:01:45,105.0
+207,normal,312,Peaky Peaky,Peaky Peaky,132,00:01:45,105.0
+207,hard,538,Peaky Peaky,Peaky Peaky,132,00:01:45,105.0
+207,expert,747,Peaky Peaky,Peaky Peaky,132,00:01:45,105.0
+207,master,855,Peaky Peaky,Peaky Peaky,132,00:01:45,105.0
+208,easy,281,僕らまだアンダーグラウンド,We're Still Underground,148,00:02:02,122.0
+208,normal,406,僕らまだアンダーグラウンド,We're Still Underground,148,00:02:02,122.0
+208,hard,635,僕らまだアンダーグラウンド,We're Still Underground,148,00:02:02,122.0
+208,expert,920,僕らまだアンダーグラウンド,We're Still Underground,148,00:02:02,122.0
+208,master,1035,僕らまだアンダーグラウンド,We're Still Underground,148,00:02:02,122.0
+209,easy,149,メタモリボン,Metamo Re:born,123,00:01:43,103.0
+209,normal,254,メタモリボン,Metamo Re:born,123,00:01:43,103.0
+209,hard,409,メタモリボン,Metamo Re:born,123,00:01:43,103.0
+209,expert,580,メタモリボン,Metamo Re:born,123,00:01:43,103.0
+209,master,685,メタモリボン,Metamo Re:born,123,00:01:43,103.0
+210,easy,260,雨とペトラ,Rain and Petra,195,00:02:05,125.0
+210,normal,489,雨とペトラ,Rain and Petra,195,00:02:05,125.0
+210,hard,733,雨とペトラ,Rain and Petra,195,00:02:05,125.0
+210,expert,976,雨とペトラ,Rain and Petra,195,00:02:05,125.0
+210,master,1206,雨とペトラ,Rain and Petra,195,00:02:05,125.0
+211,easy,163,イフ,IF,135,00:02:10,130.0
+211,normal,357,イフ,IF,135,00:02:10,130.0
+211,hard,559,イフ,IF,135,00:02:10,130.0
+211,expert,845,イフ,IF,135,00:02:10,130.0
+211,master,1062,イフ,IF,135,00:02:10,130.0
+212,easy,131,星空のメロディー,Starry sky melody,113,00:01:48,108.0
+212,normal,296,星空のメロディー,Starry sky melody,113,00:01:48,108.0
+212,hard,523,星空のメロディー,Starry sky melody,113,00:01:48,108.0
+212,expert,713,星空のメロディー,Starry sky melody,113,00:01:48,108.0
+212,master,821,星空のメロディー,Starry sky melody,113,00:01:48,108.0
+213,easy,288,ヴァンパイア,The Vampire,164,00:02:21,141.0
+213,normal,449,ヴァンパイア,The Vampire,164,00:02:21,141.0
+213,hard,699,ヴァンパイア,The Vampire,164,00:02:21,141.0
+213,expert,1029,ヴァンパイア,The Vampire,164,00:02:21,141.0
+213,master,1299,ヴァンパイア,The Vampire,164,00:02:21,141.0
+214,easy,189,パレットには君がいっぱい,My Palette is Full of You,120,00:02:13,133.0
+214,normal,294,パレットには君がいっぱい,My Palette is Full of You,120,00:02:13,133.0
+214,hard,656,パレットには君がいっぱい,My Palette is Full of You,120,00:02:13,133.0
+214,expert,900,パレットには君がいっぱい,My Palette is Full of You,120,00:02:13,133.0
+214,master,966,パレットには君がいっぱい,My Palette is Full of You,120,00:02:13,133.0
+215,easy,172,ジウダス,Judas,198,00:01:42,102.0
+215,normal,361,ジウダス,Judas,198,00:01:42,102.0
+215,hard,654,ジウダス,Judas,198,00:01:42,102.0
+215,expert,769,ジウダス,Judas,198,00:01:42,102.0
+215,master,898,ジウダス,Judas,198,00:01:42,102.0
+216,easy,218,ルカルカ★ナイトフィーバー,Luka Luka★Night Fever,160,00:02:19,139.0
+216,normal,457,ルカルカ★ナイトフィーバー,Luka Luka★Night Fever,160,00:02:19,139.0
+216,hard,616,ルカルカ★ナイトフィーバー,Luka Luka★Night Fever,160,00:02:19,139.0
+216,expert,950,ルカルカ★ナイトフィーバー,Luka Luka★Night Fever,160,00:02:19,139.0
+216,master,1311,ルカルカ★ナイトフィーバー,Luka Luka★Night Fever,160,00:02:19,139.0
+217,easy,206,街,City,128,00:01:42,102.0
+217,normal,288,街,City,128,00:01:42,102.0
+217,hard,422,街,City,128,00:01:42,102.0
+217,expert,668,街,City,128,00:01:42,102.0
+217,master,769,街,City,128,00:01:42,102.0
+218,easy,228,メリュー,Meru,130,00:02:20,140.0
+218,normal,383,メリュー,Meru,130,00:02:20,140.0
+218,hard,473,メリュー,Meru,130,00:02:20,140.0
+218,expert,632,メリュー,Meru,130,00:02:20,140.0
+218,master,983,メリュー,Meru,130,00:02:20,140.0
+219,easy,175,砂の惑星,DUNE,95,00:02:14,134.0
+219,normal,314,砂の惑星,DUNE,95,00:02:14,134.0
+219,hard,661,砂の惑星,DUNE,95,00:02:14,134.0
+219,expert,873,砂の惑星,DUNE,95,00:02:14,134.0
+219,master,1062,砂の惑星,DUNE,95,00:02:14,134.0
+220,easy,419,ドーナツホール 2024,DONUT HOLE,252,00:02:18,138.0
+220,normal,581,ドーナツホール 2024,DONUT HOLE,252,00:02:18,138.0
+220,hard,745,ドーナツホール 2024,DONUT HOLE,252,00:02:18,138.0
+220,expert,1046,ドーナツホール 2024,DONUT HOLE,252,00:02:18,138.0
+220,master,1328,ドーナツホール 2024,DONUT HOLE,252,00:02:18,138.0
+221,easy,182,マトリョシカ,MATORYOSHKA,205,00:01:46,106.0
+221,normal,355,マトリョシカ,MATORYOSHKA,205,00:01:46,106.0
+221,hard,674,マトリョシカ,MATORYOSHKA,205,00:01:46,106.0
+221,expert,887,マトリョシカ,MATORYOSHKA,205,00:01:46,106.0
+221,master,1104,マトリョシカ,MATORYOSHKA,205,00:01:46,106.0
+222,easy,239,ピアノ×フォルテ×スキャンダル,Piano × Forte × Scandal,135,00:02:12,132.0
+222,normal,334,ピアノ×フォルテ×スキャンダル,Piano × Forte × Scandal,135,00:02:12,132.0
+222,hard,735,ピアノ×フォルテ×スキャンダル,Piano × Forte × Scandal,135,00:02:12,132.0
+222,expert,1042,ピアノ×フォルテ×スキャンダル,Piano × Forte × Scandal,135,00:02:12,132.0
+222,master,1142,ピアノ×フォルテ×スキャンダル,Piano × Forte × Scandal,135,00:02:12,132.0
+223,easy,214,千年の独奏歌,Thousand Year Solo,108,00:02:31,151.0
+223,normal,335,千年の独奏歌,Thousand Year Solo,108,00:02:31,151.0
+223,hard,606,千年の独奏歌,Thousand Year Solo,108,00:02:31,151.0
+223,expert,791,千年の独奏歌,Thousand Year Solo,108,00:02:31,151.0
+223,master,906,千年の独奏歌,Thousand Year Solo,108,00:02:31,151.0
+224,easy,388,88☆彡,88☆彡,175,00:02:07,127.0
+224,normal,588,88☆彡,88☆彡,175,00:02:07,127.0
+224,hard,688,88☆彡,88☆彡,175,00:02:07,127.0
+224,expert,1088,88☆彡,88☆彡,175,00:02:07,127.0
+224,master,1188,88☆彡,88☆彡,175,00:02:07,127.0
+225,easy,262,エゴロック,Ego rock,225,00:01:52,112.0
+225,normal,523,エゴロック,Ego rock,225,00:01:52,112.0
+225,hard,841,エゴロック,Ego rock,225,00:01:52,112.0
+225,expert,1041,エゴロック,Ego rock,225,00:01:52,112.0
+225,master,1277,エゴロック,Ego rock,225,00:01:52,112.0
+226,easy,422,ロストエンファウンド,Lost and Found,92 (184),00:02:36,156.0
+226,normal,690,ロストエンファウンド,Lost and Found,92 (184),00:02:36,156.0
+226,hard,868,ロストエンファウンド,Lost and Found,92 (184),00:02:36,156.0
+226,expert,1082,ロストエンファウンド,Lost and Found,92 (184),00:02:36,156.0
+226,master,1271,ロストエンファウンド,Lost and Found,92 (184),00:02:36,156.0
+227,easy,264,ONESELF,ONESELF,160-170,00:02:09,129.0
+227,normal,484,ONESELF,ONESELF,160-170,00:02:09,129.0
+227,hard,795,ONESELF,ONESELF,160-170,00:02:09,129.0
+227,expert,1063,ONESELF,ONESELF,160-170,00:02:09,129.0
+227,master,1163,ONESELF,ONESELF,160-170,00:02:09,129.0
+228,easy,275,Goodbye,Goodbye,133,00:02:06,126.0
+228,normal,286,Goodbye,Goodbye,133,00:02:06,126.0
+228,hard,562,Goodbye,Goodbye,133,00:02:06,126.0
+228,expert,734,Goodbye,Goodbye,133,00:02:06,126.0
+228,master,860,Goodbye,Goodbye,133,00:02:06,126.0
+229,easy,296,脳漿炸裂ガール,Brain Fluid Explosion Girl,155,00:02:24,144.0
+229,normal,613,脳漿炸裂ガール,Brain Fluid Explosion Girl,155,00:02:24,144.0
+229,hard,985,脳漿炸裂ガール,Brain Fluid Explosion Girl,155,00:02:24,144.0
+229,expert,1349,脳漿炸裂ガール,Brain Fluid Explosion Girl,155,00:02:24,144.0
+229,master,1500,脳漿炸裂ガール,Brain Fluid Explosion Girl,155,00:02:24,144.0
+230,easy,419,サラマンダー,Salamander,172,00:02:37,157.0
+230,normal,576,サラマンダー,Salamander,172,00:02:37,157.0
+230,hard,825,サラマンダー,Salamander,172,00:02:37,157.0
+230,expert,1186,サラマンダー,Salamander,172,00:02:37,157.0
+230,master,1454,サラマンダー,Salamander,172,00:02:37,157.0
+231,easy,459,アイデンティティ,Identity,195,00:02:36,156.0
+231,normal,671,アイデンティティ,Identity,195,00:02:36,156.0
+231,hard,873,アイデンティティ,Identity,195,00:02:36,156.0
+231,expert,1196,アイデンティティ,Identity,195,00:02:36,156.0
+231,master,1489,アイデンティティ,Identity,195,00:02:36,156.0
+232,easy,253,青色絵具,blue paint,126,00:02:36,156.0
+232,normal,446,青色絵具,blue paint,126,00:02:36,156.0
+232,hard,619,青色絵具,blue paint,126,00:02:36,156.0
+232,expert,846,青色絵具,blue paint,126,00:02:36,156.0
+232,master,1058,青色絵具,blue paint,126,00:02:36,156.0
+233,easy,276,コスモスパイス,Cosmospice,165,00:02:09,129.0
+233,normal,416,コスモスパイス,Cosmospice,165,00:02:09,129.0
+233,hard,623,コスモスパイス,Cosmospice,165,00:02:09,129.0
+233,expert,849,コスモスパイス,Cosmospice,165,00:02:09,129.0
+233,master,1092,コスモスパイス,Cosmospice,165,00:02:09,129.0
+234,easy,264,徳川カップヌードル禁止令,Tokugawa Cupnoodle Prohibition,178,00:02:07,127.0
+234,normal,498,徳川カップヌードル禁止令,Tokugawa Cupnoodle Prohibition,178,00:02:07,127.0
+234,hard,758,徳川カップヌードル禁止令,Tokugawa Cupnoodle Prohibition,178,00:02:07,127.0
+234,expert,1065,徳川カップヌードル禁止令,Tokugawa Cupnoodle Prohibition,178,00:02:07,127.0
+234,master,1241,徳川カップヌードル禁止令,Tokugawa Cupnoodle Prohibition,178,00:02:07,127.0
+235,easy,219,Journey,Journey,128,00:02:46,166.0
+235,normal,512,Journey,Journey,128,00:02:46,166.0
+235,hard,922,Journey,Journey,128,00:02:46,166.0
+235,expert,1285,Journey,Journey,128,00:02:46,166.0
+235,master,1322,Journey,Journey,128,00:02:46,166.0
+236,easy,358,Voices,Voices,190,00:02:04,124.0
+236,normal,674,Voices,Voices,190,00:02:04,124.0
+236,hard,810,Voices,Voices,190,00:02:04,124.0
+236,expert,1144,Voices,Voices,190,00:02:04,124.0
+236,master,1237,Voices,Voices,190,00:02:04,124.0
+237,easy,140,君の夜をくれ,Kimi no Yoru Wo Kure,80,00:02:02,122.0
+237,normal,179,君の夜をくれ,Kimi no Yoru Wo Kure,80,00:02:02,122.0
+237,hard,318,君の夜をくれ,Kimi no Yoru Wo Kure,80,00:02:02,122.0
+237,expert,482,君の夜をくれ,Kimi no Yoru Wo Kure,80,00:02:02,122.0
+237,master,662,君の夜をくれ,Kimi no Yoru Wo Kure,80,00:02:02,122.0
+238,easy,250,ブラック★ロックシューター,Black★Rock Shooter,140-165,00:01:55,115.0
+238,normal,377,ブラック★ロックシューター,Black★Rock Shooter,140-165,00:01:55,115.0
+238,hard,548,ブラック★ロックシューター,Black★Rock Shooter,140-165,00:01:55,115.0
+238,expert,695,ブラック★ロックシューター,Black★Rock Shooter,140-165,00:01:55,115.0
+238,master,930,ブラック★ロックシューター,Black★Rock Shooter,140-165,00:01:55,115.0
+239,easy,190,月光,Moonlight,109,00:02:37,157.0
+239,normal,347,月光,Moonlight,109,00:02:37,157.0
+239,hard,660,月光,Moonlight,109,00:02:37,157.0
+239,expert,1058,月光,Moonlight,109,00:02:37,157.0
+239,master,1159,月光,Moonlight,109,00:02:37,157.0
+240,easy,260,踊れオーケストラ,Dance orchestra,180,00:01:49,109.0
+240,normal,459,踊れオーケストラ,Dance orchestra,180,00:01:49,109.0
+240,hard,610,踊れオーケストラ,Dance orchestra,180,00:01:49,109.0
+240,expert,845,踊れオーケストラ,Dance orchestra,180,00:01:49,109.0
+240,master,1068,踊れオーケストラ,Dance orchestra,180,00:01:49,109.0
+241,easy,210,アサガオの散る頃に,When the Morning Glory Falls,,,
+241,normal,273,アサガオの散る頃に,When the Morning Glory Falls,,,
+241,hard,478,アサガオの散る頃に,When the Morning Glory Falls,,,
+241,expert,748,アサガオの散る頃に,When the Morning Glory Falls,,,
+241,master,832,アサガオの散る頃に,When the Morning Glory Falls,,,
+242,easy,291,トリノコシティ,Torinokocity,135,00:01:57,117.0
+242,normal,360,トリノコシティ,Torinokocity,135,00:01:57,117.0
+242,hard,514,トリノコシティ,Torinokocity,135,00:01:57,117.0
+242,expert,753,トリノコシティ,Torinokocity,135,00:01:57,117.0
+242,master,852,トリノコシティ,Torinokocity,135,00:01:57,117.0
+243,easy,325,Calc.,Calc.,173,00:02:24,144.0
+243,normal,464,Calc.,Calc.,173,00:02:24,144.0
+243,hard,844,Calc.,Calc.,173,00:02:24,144.0
+243,expert,1126,Calc.,Calc.,173,00:02:24,144.0
+243,master,1295,Calc.,Calc.,173,00:02:24,144.0
+244,easy,204,Awake Now,Awake Now,117,00:02:01,121.0
+244,normal,280,Awake Now,Awake Now,117,00:02:01,121.0
+244,hard,519,Awake Now,Awake Now,117,00:02:01,121.0
+244,expert,723,Awake Now,Awake Now,117,00:02:01,121.0
+244,master,884,Awake Now,Awake Now,117,00:02:01,121.0
+245,easy,203,阿吽のビーツ,Aun no Beats,103,00:02:16,136.0
+245,normal,365,阿吽のビーツ,Aun no Beats,103,00:02:16,136.0
+245,hard,588,阿吽のビーツ,Aun no Beats,103,00:02:16,136.0
+245,expert,802,阿吽のビーツ,Aun no Beats,103,00:02:16,136.0
+245,master,918,阿吽のビーツ,Aun no Beats,103,00:02:16,136.0
+246,easy,278,エイリアンエイリアン,Alien Alien,152,00:02:23,143.0
+246,normal,461,エイリアンエイリアン,Alien Alien,152,00:02:23,143.0
+246,hard,798,エイリアンエイリアン,Alien Alien,152,00:02:23,143.0
+246,expert,1208,エイリアンエイリアン,Alien Alien,152,00:02:23,143.0
+246,master,1361,エイリアンエイリアン,Alien Alien,152,00:02:23,143.0
+247,easy,202,Copycat,Copycat,137,00:02:05,125.0
+247,normal,272,Copycat,Copycat,137,00:02:05,125.0
+247,hard,478,Copycat,Copycat,137,00:02:05,125.0
+247,expert,752,Copycat,Copycat,137,00:02:05,125.0
+247,master,997,Copycat,Copycat,137,00:02:05,125.0
+248,easy,261,バグ,bug,186,00:02:08,128.0
+248,normal,451,バグ,bug,186,00:02:08,128.0
+248,hard,744,バグ,bug,186,00:02:08,128.0
+248,expert,1101,バグ,bug,186,00:02:08,128.0
+248,master,1343,バグ,bug,186,00:02:08,128.0
+249,easy,337,ぼくらの16bit戦争,Our 16bit Wars,122,00:02:28,148.0
+249,normal,591,ぼくらの16bit戦争,Our 16bit Wars,122,00:02:28,148.0
+249,hard,726,ぼくらの16bit戦争,Our 16bit Wars,122,00:02:28,148.0
+249,expert,1379,ぼくらの16bit戦争,Our 16bit Wars,122,00:02:28,148.0
+249,master,1521,ぼくらの16bit戦争,Our 16bit Wars,122,00:02:28,148.0
+250,easy,404,腐れ外道とチョコレゐト,Kusare-gedou and Chocolate,260,00:02:12,132.0
+250,normal,793,腐れ外道とチョコレゐト,Kusare-gedou and Chocolate,260,00:02:12,132.0
+250,hard,979,腐れ外道とチョコレゐト,Kusare-gedou and Chocolate,260,00:02:12,132.0
+250,expert,1396,腐れ外道とチョコレゐト,Kusare-gedou and Chocolate,260,00:02:12,132.0
+250,master,1763,腐れ外道とチョコレゐト,Kusare-gedou and Chocolate,260,00:02:12,132.0
+251,easy,379,フロイライン＝ビブリォチカ,Fräulein=библиотека,185,00:02:25,145.0
+251,normal,572,フロイライン＝ビブリォチカ,Fräulein=библиотека,185,00:02:25,145.0
+251,hard,814,フロイライン＝ビブリォチカ,Fräulein=библиотека,185,00:02:25,145.0
+251,expert,1222,フロイライン＝ビブリォチカ,Fräulein=библиотека,185,00:02:25,145.0
+251,master,1456,フロイライン＝ビブリォチカ,Fräulein=библиотека,185,00:02:25,145.0
+252,easy,226,DREAM PLACE,DREAM PLACE,136,00:02:22,142.0
+252,normal,432,DREAM PLACE,DREAM PLACE,136,00:02:22,142.0
+252,hard,716,DREAM PLACE,DREAM PLACE,136,00:02:22,142.0
+252,expert,937,DREAM PLACE,DREAM PLACE,136,00:02:22,142.0
+252,master,1172,DREAM PLACE,DREAM PLACE,136,00:02:22,142.0
+253,easy,247,DAYBREAK FRONTLINE,DAYBREAK FRONTLINE,136,00:02:19,139.0
+253,normal,479,DAYBREAK FRONTLINE,DAYBREAK FRONTLINE,136,00:02:19,139.0
+253,hard,770,DAYBREAK FRONTLINE,DAYBREAK FRONTLINE,136,00:02:19,139.0
+253,expert,1102,DAYBREAK FRONTLINE,DAYBREAK FRONTLINE,136,00:02:19,139.0
+253,master,1179,DAYBREAK FRONTLINE,DAYBREAK FRONTLINE,136,00:02:19,139.0
+254,easy,391,未完成讃歌,Incomplete Anthem,188,00:02:36,156.0
+254,normal,636,未完成讃歌,Incomplete Anthem,188,00:02:36,156.0
+254,hard,853,未完成讃歌,Incomplete Anthem,188,00:02:36,156.0
+254,expert,1324,未完成讃歌,Incomplete Anthem,188,00:02:36,156.0
+254,master,1585,未完成讃歌,Incomplete Anthem,188,00:02:36,156.0
+255,easy,317,夜もすがら君想ふ,yomosugara kimi omou,148,00:02:26,146.0
+255,normal,501,夜もすがら君想ふ,yomosugara kimi omou,148,00:02:26,146.0
+255,hard,679,夜もすがら君想ふ,yomosugara kimi omou,148,00:02:26,146.0
+255,expert,1004,夜もすがら君想ふ,yomosugara kimi omou,148,00:02:26,146.0
+255,master,1190,夜もすがら君想ふ,yomosugara kimi omou,148,00:02:26,146.0
+256,easy,211,ダブルラリアット,Double Lariat,138,00:02:22,142.0
+256,normal,338,ダブルラリアット,Double Lariat,138,00:02:22,142.0
+256,hard,678,ダブルラリアット,Double Lariat,138,00:02:22,142.0
+256,expert,936,ダブルラリアット,Double Lariat,138,00:02:22,142.0
+256,master,1115,ダブルラリアット,Double Lariat,138,00:02:22,142.0
+257,easy,251,てらてら,SHOW OFF,190,00:02:15,135.0
+257,normal,433,てらてら,SHOW OFF,190,00:02:15,135.0
+257,hard,809,てらてら,SHOW OFF,190,00:02:15,135.0
+257,expert,1035,てらてら,SHOW OFF,190,00:02:15,135.0
+257,master,1262,てらてら,SHOW OFF,190,00:02:15,135.0
+258,easy,272,深海少女,Shinkai Shoujo,137,00:02:25,145.0
+258,normal,449,深海少女,Shinkai Shoujo,137,00:02:25,145.0
+258,hard,620,深海少女,Shinkai Shoujo,137,00:02:25,145.0
+258,expert,867,深海少女,Shinkai Shoujo,137,00:02:25,145.0
+258,master,994,深海少女,Shinkai Shoujo,137,00:02:25,145.0
+259,easy,259,the WALL,the WALL,183,00:01:51,111.0
+259,normal,407,the WALL,the WALL,183,00:01:51,111.0
+259,hard,633,the WALL,the WALL,183,00:01:51,111.0
+259,expert,815,the WALL,the WALL,183,00:01:51,111.0
+259,master,1019,the WALL,the WALL,183,00:01:51,111.0
+260,easy,131,ラブカ？,Love Ka?,78-135,00:01:43,103.0
+260,normal,215,ラブカ？,Love Ka?,78-135,00:01:43,103.0
+260,hard,517,ラブカ？,Love Ka?,78-135,00:01:43,103.0
+260,expert,710,ラブカ？,Love Ka?,78-135,00:01:43,103.0
+260,master,878,ラブカ？,Love Ka?,78-135,00:01:43,103.0
+261,easy,402,星屑ユートピア,Stardust Utopia,240,00:02:11,131.0
+261,normal,582,星屑ユートピア,Stardust Utopia,240,00:02:11,131.0
+261,hard,780,星屑ユートピア,Stardust Utopia,240,00:02:11,131.0
+261,expert,1183,星屑ユートピア,Stardust Utopia,240,00:02:11,131.0
+261,master,1308,星屑ユートピア,Stardust Utopia,240,00:02:11,131.0
+262,easy,182,帝国少女,Imperial Girl,118,00:02:28,148.0
+262,normal,409,帝国少女,Imperial Girl,118,00:02:28,148.0
+262,hard,684,帝国少女,Imperial Girl,118,00:02:28,148.0
+262,expert,962,帝国少女,Imperial Girl,118,00:02:28,148.0
+262,master,1178,帝国少女,Imperial Girl,118,00:02:28,148.0
+263,easy,132,Highlight,Highlight,130,00:01:37,97.0
+263,normal,266,Highlight,Highlight,130,00:01:37,97.0
+263,hard,414,Highlight,Highlight,130,00:01:37,97.0
+263,expert,596,Highlight,Highlight,130,00:01:37,97.0
+263,master,690,Highlight,Highlight,130,00:01:37,97.0
+264,easy,233,パラソルサイダー,Parasol Cider,176,00:01:31,91.0
+264,normal,311,パラソルサイダー,Parasol Cider,176,00:01:31,91.0
+264,hard,524,パラソルサイダー,Parasol Cider,176,00:01:31,91.0
+264,expert,796,パラソルサイダー,Parasol Cider,176,00:01:31,91.0
+264,master,880,パラソルサイダー,Parasol Cider,176,00:01:31,91.0
+265,easy,268,Change me,Change me,135,00:02:27,147.0
+265,normal,500,Change me,Change me,135,00:02:27,147.0
+265,hard,664,Change me,Change me,135,00:02:27,147.0
+265,expert,1019,Change me,Change me,135,00:02:27,147.0
+265,master,1247,Change me,Change me,135,00:02:27,147.0
+266,easy,197,YY,YY,123,00:02:24,144.0
+266,normal,349,YY,YY,123,00:02:24,144.0
+266,hard,792,YY,YY,123,00:02:24,144.0
+266,expert,976,YY,YY,123,00:02:24,144.0
+266,master,1175,YY,YY,123,00:02:24,144.0
+267,easy,304,仮死化,Kashika,184,00:02:12,132.0
+267,normal,455,仮死化,Kashika,184,00:02:12,132.0
+267,hard,724,仮死化,Kashika,184,00:02:12,132.0
+267,expert,1019,仮死化,Kashika,184,00:02:12,132.0
+267,master,1186,仮死化,Kashika,184,00:02:12,132.0
+268,easy,342,ノンブレス・オブリージュ,Non-breath oblige,148,00:02:09,129.0
+268,normal,459,ノンブレス・オブリージュ,Non-breath oblige,148,00:02:09,129.0
+268,hard,927,ノンブレス・オブリージュ,Non-breath oblige,148,00:02:09,129.0
+268,expert,1071,ノンブレス・オブリージュ,Non-breath oblige,148,00:02:09,129.0
+268,master,1203,ノンブレス・オブリージュ,Non-breath oblige,148,00:02:09,129.0
+269,easy,184,ロンリーユニバース,Lonely Universe,100,00:02:21,141.0
+269,normal,339,ロンリーユニバース,Lonely Universe,100,00:02:21,141.0
+269,hard,621,ロンリーユニバース,Lonely Universe,100,00:02:21,141.0
+269,expert,781,ロンリーユニバース,Lonely Universe,100,00:02:21,141.0
+269,master,999,ロンリーユニバース,Lonely Universe,100,00:02:21,141.0
+270,easy,141,泥中に咲く,Bloom in mud,85,00:02:25,145.0
+270,normal,249,泥中に咲く,Bloom in mud,85,00:02:25,145.0
+270,hard,535,泥中に咲く,Bloom in mud,85,00:02:25,145.0
+270,expert,646,泥中に咲く,Bloom in mud,85,00:02:25,145.0
+270,master,761,泥中に咲く,Bloom in mud,85,00:02:25,145.0
+271,easy,351,あったかいと,AttaKAITO,178,00:02:28,148.0
+271,normal,516,あったかいと,AttaKAITO,178,00:02:28,148.0
+271,hard,789,あったかいと,AttaKAITO,178,00:02:28,148.0
+271,expert,1026,あったかいと,AttaKAITO,178,00:02:28,148.0
+271,master,1376,あったかいと,AttaKAITO,178,00:02:28,148.0
+272,easy,233,ジェヘナ,Gehenna,128,00:02:33,153.0
+272,normal,352,ジェヘナ,Gehenna,128,00:02:33,153.0
+272,hard,702,ジェヘナ,Gehenna,128,00:02:33,153.0
+272,expert,1177,ジェヘナ,Gehenna,128,00:02:33,153.0
+272,master,1253,ジェヘナ,Gehenna,128,00:02:33,153.0
+273,easy,497,フューチャー・イヴ,FUTURE EVE,190,00:02:33,153.0
+273,normal,698,フューチャー・イヴ,FUTURE EVE,190,00:02:33,153.0
+273,hard,1087,フューチャー・イヴ,FUTURE EVE,190,00:02:33,153.0
+273,expert,1462,フューチャー・イヴ,FUTURE EVE,190,00:02:33,153.0
+273,master,1628,フューチャー・イヴ,FUTURE EVE,190,00:02:33,153.0
+274,easy,248,それでもいいんだよ,"Even so, It's OK",132,00:02:08,128.0
+274,normal,367,それでもいいんだよ,"Even so, It's OK",132,00:02:08,128.0
+274,hard,712,それでもいいんだよ,"Even so, It's OK",132,00:02:08,128.0
+274,expert,897,それでもいいんだよ,"Even so, It's OK",132,00:02:08,128.0
+274,master,1009,それでもいいんだよ,"Even so, It's OK",132,00:02:08,128.0
+275,easy,160,パラジクロロベンゼン,paradichlorobenzene,120-125,00:02:29,149.0
+275,normal,446,パラジクロロベンゼン,paradichlorobenzene,120-125,00:02:29,149.0
+275,hard,810,パラジクロロベンゼン,paradichlorobenzene,120-125,00:02:29,149.0
+275,expert,916,パラジクロロベンゼン,paradichlorobenzene,120-125,00:02:29,149.0
+275,master,1063,パラジクロロベンゼン,paradichlorobenzene,120-125,00:02:29,149.0
+276,easy,322,シャンティ,SHANTI,144,00:02:10,130.0
+276,normal,467,シャンティ,SHANTI,144,00:02:10,130.0
+276,hard,844,シャンティ,SHANTI,144,00:02:10,130.0
+276,expert,942,シャンティ,SHANTI,144,00:02:10,130.0
+276,master,1187,シャンティ,SHANTI,144,00:02:10,130.0
+277,easy,220,フォニイ,phony,170,00:02:24,144.0
+277,normal,473,フォニイ,phony,170,00:02:24,144.0
+277,hard,842,フォニイ,phony,170,00:02:24,144.0
+277,expert,1064,フォニイ,phony,170,00:02:24,144.0
+277,master,1244,フォニイ,phony,170,00:02:24,144.0
+278,easy,211,Bad ∞ End ∞ Night,Bad ∞ End ∞ Night,132-204,00:01:58,118.0
+278,normal,397,Bad ∞ End ∞ Night,Bad ∞ End ∞ Night,132-204,00:01:58,118.0
+278,hard,726,Bad ∞ End ∞ Night,Bad ∞ End ∞ Night,132-204,00:01:58,118.0
+278,expert,875,Bad ∞ End ∞ Night,Bad ∞ End ∞ Night,132-204,00:01:58,118.0
+278,master,1018,Bad ∞ End ∞ Night,Bad ∞ End ∞ Night,132-204,00:01:58,118.0
+279,easy,166,こちら、幸福安心委員会です。,This is the Happiness and Peace of Mind Committee,128,00:02:26,146.0
+279,normal,371,こちら、幸福安心委員会です。,This is the Happiness and Peace of Mind Committee,128,00:02:26,146.0
+279,hard,683,こちら、幸福安心委員会です。,This is the Happiness and Peace of Mind Committee,128,00:02:26,146.0
+279,expert,898,こちら、幸福安心委員会です。,This is the Happiness and Peace of Mind Committee,128,00:02:26,146.0
+279,master,1096,こちら、幸福安心委員会です。,This is the Happiness and Peace of Mind Committee,128,00:02:26,146.0
+280,easy,320,虚ろを扇ぐ,Hollow,124,00:02:36,156.0
+280,normal,455,虚ろを扇ぐ,Hollow,124,00:02:36,156.0
+280,hard,677,虚ろを扇ぐ,Hollow,124,00:02:36,156.0
+280,expert,908,虚ろを扇ぐ,Hollow,124,00:02:36,156.0
+280,master,1112,虚ろを扇ぐ,Hollow,124,00:02:36,156.0
+281,easy,299,気まぐれメルシィ,Kimagure Mercy,160,00:02:28,148.0
+281,normal,563,気まぐれメルシィ,Kimagure Mercy,160,00:02:28,148.0
+281,hard,788,気まぐれメルシィ,Kimagure Mercy,160,00:02:28,148.0
+281,expert,1247,気まぐれメルシィ,Kimagure Mercy,160,00:02:28,148.0
+281,master,1465,気まぐれメルシィ,Kimagure Mercy,160,00:02:28,148.0
+282,easy,314,星空オーケストラ,Hoshizora Orchestra,200,00:02:04,124.0
+282,normal,463,星空オーケストラ,Hoshizora Orchestra,200,00:02:04,124.0
+282,hard,777,星空オーケストラ,Hoshizora Orchestra,200,00:02:04,124.0
+282,expert,1057,星空オーケストラ,Hoshizora Orchestra,200,00:02:04,124.0
+282,master,1159,星空オーケストラ,Hoshizora Orchestra,200,00:02:04,124.0
+283,easy,422,レイニースノードロップ,Rainy Snowdrop,192,00:02:31,151.0
+283,normal,552,レイニースノードロップ,Rainy Snowdrop,192,00:02:31,151.0
+283,hard,997,レイニースノードロップ,Rainy Snowdrop,192,00:02:31,151.0
+283,expert,1234,レイニースノードロップ,Rainy Snowdrop,192,00:02:31,151.0
+283,master,1495,レイニースノードロップ,Rainy Snowdrop,192,00:02:31,151.0
+284,easy,339,インビジブル,Invisible,192,00:02:24,144.0
+284,normal,542,インビジブル,Invisible,192,00:02:24,144.0
+284,hard,909,インビジブル,Invisible,192,00:02:24,144.0
+284,expert,1385,インビジブル,Invisible,192,00:02:24,144.0
+284,master,1436,インビジブル,Invisible,192,00:02:24,144.0
+285,easy,429,ÅMARA(大未来電脳),ÅMARA(The Great Intelligence),112-229,00:02:34,154.0
+285,normal,575,ÅMARA(大未来電脳),ÅMARA(The Great Intelligence),112-229,00:02:34,154.0
+285,hard,1031,ÅMARA(大未来電脳),ÅMARA(The Great Intelligence),112-229,00:02:34,154.0
+285,expert,1342,ÅMARA(大未来電脳),ÅMARA(The Great Intelligence),112-229,00:02:34,154.0
+285,master,1589,ÅMARA(大未来電脳),ÅMARA(The Great Intelligence),112-229,00:02:34,154.0
+286,easy,245,"Hello, Worker","Hello, Worker",168,00:01:42,102.0
+286,normal,419,"Hello, Worker","Hello, Worker",168,00:01:42,102.0
+286,hard,523,"Hello, Worker","Hello, Worker",168,00:01:42,102.0
+286,expert,773,"Hello, Worker","Hello, Worker",168,00:01:42,102.0
+286,master,918,"Hello, Worker","Hello, Worker",168,00:01:42,102.0
+287,easy,233,私は、私達は,We are,170,00:01:48,108.0
+287,normal,347,私は、私達は,We are,170,00:01:48,108.0
+287,hard,485,私は、私達は,We are,170,00:01:48,108.0
+287,expert,712,私は、私達は,We are,170,00:01:48,108.0
+287,master,918,私は、私達は,We are,170,00:01:48,108.0
+288,easy,331,アンハッピーリフレイン,Unhappy Refrain,205,00:02:12,132.0
+288,normal,474,アンハッピーリフレイン,Unhappy Refrain,205,00:02:12,132.0
+288,hard,872,アンハッピーリフレイン,Unhappy Refrain,205,00:02:12,132.0
+288,expert,1137,アンハッピーリフレイン,Unhappy Refrain,205,00:02:12,132.0
+288,master,1353,アンハッピーリフレイン,Unhappy Refrain,205,00:02:12,132.0
+289,easy,265,天ノ弱,Amanojaku,101,00:01:49,109.0
+289,normal,334,天ノ弱,Amanojaku,101,00:01:49,109.0
+289,hard,685,天ノ弱,Amanojaku,101,00:01:49,109.0
+289,expert,982,天ノ弱,Amanojaku,101,00:01:49,109.0
+289,master,1131,天ノ弱,Amanojaku,101,00:01:49,109.0
+290,easy,215,どんな結末がお望みだい？,What Sort of Ending Are You Wishing For?,,,
+290,normal,325,どんな結末がお望みだい？,What Sort of Ending Are You Wishing For?,,,
+290,hard,494,どんな結末がお望みだい？,What Sort of Ending Are You Wishing For?,,,
+290,expert,638,どんな結末がお望みだい？,What Sort of Ending Are You Wishing For?,,,
+290,master,835,どんな結末がお望みだい？,What Sort of Ending Are You Wishing For?,,,
+291,easy,397,フェレス,Pheles,220,00:02:19,139.0
+291,normal,630,フェレス,Pheles,220,00:02:19,139.0
+291,hard,937,フェレス,Pheles,220,00:02:19,139.0
+291,expert,1374,フェレス,Pheles,220,00:02:19,139.0
+291,master,1397,フェレス,Pheles,220,00:02:19,139.0
+292,easy,123,いちにのさんで,Ichi Ni no San de,83,00:02:42,162.0
+292,normal,262,いちにのさんで,Ichi Ni no San de,83,00:02:42,162.0
+292,hard,379,いちにのさんで,Ichi Ni no San de,83,00:02:42,162.0
+292,expert,595,いちにのさんで,Ichi Ni no San de,83,00:02:42,162.0
+292,master,715,いちにのさんで,Ichi Ni no San de,83,00:02:42,162.0
+293,easy,131,アイロニ,Irony,90,00:02:24,144.0
+293,normal,261,アイロニ,Irony,90,00:02:24,144.0
+293,hard,605,アイロニ,Irony,90,00:02:24,144.0
+293,expert,861,アイロニ,Irony,90,00:02:24,144.0
+293,master,943,アイロニ,Irony,90,00:02:24,144.0
+294,easy,141,それがあなたの幸せとしても,Sorega Anata No Shiawase To Shitemo,71-77,00:02:07,127.0
+294,normal,263,それがあなたの幸せとしても,Sorega Anata No Shiawase To Shitemo,71-77,00:02:07,127.0
+294,hard,460,それがあなたの幸せとしても,Sorega Anata No Shiawase To Shitemo,71-77,00:02:07,127.0
+294,expert,615,それがあなたの幸せとしても,Sorega Anata No Shiawase To Shitemo,71-77,00:02:07,127.0
+294,master,814,それがあなたの幸せとしても,Sorega Anata No Shiawase To Shitemo,71-77,00:02:07,127.0
+295,easy,199,フロート・プランナー,Float Planner,138,00:01:43,103.0
+295,normal,344,フロート・プランナー,Float Planner,138,00:01:43,103.0
+295,hard,445,フロート・プランナー,Float Planner,138,00:01:43,103.0
+295,expert,685,フロート・プランナー,Float Planner,138,00:01:43,103.0
+295,master,832,フロート・プランナー,Float Planner,138,00:01:43,103.0
+296,easy,202,カンタレラ,Cantarella,144,00:02:05,125.0
+296,normal,426,カンタレラ,Cantarella,144,00:02:05,125.0
+296,hard,644,カンタレラ,Cantarella,144,00:02:05,125.0
+296,expert,870,カンタレラ,Cantarella,144,00:02:05,125.0
+296,master,1063,カンタレラ,Cantarella,144,00:02:05,125.0
+297,easy,214,p.h.,p.h.,132,00:01:51,111.0
+297,normal,391,p.h.,p.h.,132,00:01:51,111.0
+297,hard,646,p.h.,p.h.,132,00:01:51,111.0
+297,expert,739,p.h.,p.h.,132,00:01:51,111.0
+297,master,872,p.h.,p.h.,132,00:01:51,111.0
+298,easy,315,ネトゲ廃人シュプレヒコール,ONLINE GAME ADDICTS SPRECHCHOR,175,00:02:28,148.0
+298,normal,634,ネトゲ廃人シュプレヒコール,ONLINE GAME ADDICTS SPRECHCHOR,175,00:02:28,148.0
+298,hard,865,ネトゲ廃人シュプレヒコール,ONLINE GAME ADDICTS SPRECHCHOR,175,00:02:28,148.0
+298,expert,1156,ネトゲ廃人シュプレヒコール,ONLINE GAME ADDICTS SPRECHCHOR,175,00:02:28,148.0
+298,master,1463,ネトゲ廃人シュプレヒコール,ONLINE GAME ADDICTS SPRECHCHOR,175,00:02:28,148.0
+299,easy,316,エゴイスト,EGOIST,180,00:02:27,147.0
+299,normal,612,エゴイスト,EGOIST,180,00:02:27,147.0
+299,hard,923,エゴイスト,EGOIST,180,00:02:27,147.0
+299,expert,1303,エゴイスト,EGOIST,180,00:02:27,147.0
+299,master,1548,エゴイスト,EGOIST,180,00:02:27,147.0
+300,easy,169,ザムザ,Samsa,121,00:01:54,114.0
+300,normal,251,ザムザ,Samsa,121,00:01:54,114.0
+300,hard,694,ザムザ,Samsa,121,00:01:54,114.0
+300,expert,779,ザムザ,Samsa,121,00:01:54,114.0
+300,master,937,ザムザ,Samsa,121,00:01:54,114.0
+301,easy,520,私の恋はヘルファイア,My love is Hellfire,200,00:02:30,150.0
+301,normal,566,私の恋はヘルファイア,My love is Hellfire,200,00:02:30,150.0
+301,hard,1184,私の恋はヘルファイア,My love is Hellfire,200,00:02:30,150.0
+301,expert,1491,私の恋はヘルファイア,My love is Hellfire,200,00:02:30,150.0
+301,master,1638,私の恋はヘルファイア,My love is Hellfire,200,00:02:30,150.0
+302,easy,321,フレー,Hurray,168,00:02:18,138.0
+302,normal,561,フレー,Hurray,168,00:02:18,138.0
+302,hard,750,フレー,Hurray,168,00:02:18,138.0
+302,expert,1067,フレー,Hurray,168,00:02:18,138.0
+302,master,1328,フレー,Hurray,168,00:02:18,138.0
+303,easy,323,リンちゃんなう！,Rin-chan Now!,200,00:02:28,148.0
+303,normal,632,リンちゃんなう！,Rin-chan Now!,200,00:02:28,148.0
+303,hard,855,リンちゃんなう！,Rin-chan Now!,200,00:02:28,148.0
+303,expert,1098,リンちゃんなう！,Rin-chan Now!,200,00:02:28,148.0
+303,master,1409,リンちゃんなう！,Rin-chan Now!,200,00:02:28,148.0
+304,easy,207,Iなんです,I am you,92.5 (185),00:01:46,106.0
+304,normal,321,Iなんです,I am you,92.5 (185),00:01:46,106.0
+304,hard,631,Iなんです,I am you,92.5 (185),00:01:46,106.0
+304,expert,910,Iなんです,I am you,92.5 (185),00:01:46,106.0
+304,master,1066,Iなんです,I am you,92.5 (185),00:01:46,106.0
+305,easy,183,ストロボラスト,STROBE LAST,120,00:02:12,132.0
+305,normal,298,ストロボラスト,STROBE LAST,120,00:02:12,132.0
+305,hard,489,ストロボラスト,STROBE LAST,120,00:02:12,132.0
+305,expert,726,ストロボラスト,STROBE LAST,120,00:02:12,132.0
+305,master,866,ストロボラスト,STROBE LAST,120,00:02:12,132.0
+306,easy,240,1925,1925,145,00:02:22,142.0
+306,normal,347,1925,1925,145,00:02:22,142.0
+306,hard,714,1925,1925,145,00:02:22,142.0
+306,expert,887,1925,1925,145,00:02:22,142.0
+306,master,1117,1925,1925,145,00:02:22,142.0
+307,easy,276,おこちゃま戦争,OKOCHAMA SENSO,175,00:02:26,146.0
+307,normal,413,おこちゃま戦争,OKOCHAMA SENSO,175,00:02:26,146.0
+307,hard,861,おこちゃま戦争,OKOCHAMA SENSO,175,00:02:26,146.0
+307,expert,1259,おこちゃま戦争,OKOCHAMA SENSO,175,00:02:26,146.0
+307,master,1394,おこちゃま戦争,OKOCHAMA SENSO,175,00:02:26,146.0
+308,easy,359,ももいろの鍵,The peachy key,165,00:02:12,132.0
+308,normal,476,ももいろの鍵,The peachy key,165,00:02:12,132.0
+308,hard,713,ももいろの鍵,The peachy key,165,00:02:12,132.0
+308,expert,1073,ももいろの鍵,The peachy key,165,00:02:12,132.0
+308,master,1187,ももいろの鍵,The peachy key,165,00:02:12,132.0
+309,easy,265,Afterglow,Afterglow,68.75-183,00:02:26,146.0
+309,normal,330,Afterglow,Afterglow,68.75-183,00:02:26,146.0
+309,hard,453,Afterglow,Afterglow,68.75-183,00:02:26,146.0
+309,expert,727,Afterglow,Afterglow,68.75-183,00:02:26,146.0
+309,master,844,Afterglow,Afterglow,68.75-183,00:02:26,146.0
+310,easy,361,Flyway,Flyway,190,00:02:09,129.0
+310,normal,491,Flyway,Flyway,190,00:02:09,129.0
+310,hard,733,Flyway,Flyway,190,00:02:09,129.0
+310,expert,1011,Flyway,Flyway,190,00:02:09,129.0
+310,master,1088,Flyway,Flyway,190,00:02:09,129.0
+311,easy,162,夜明けと蛍,Dawn and Fireflies,80,00:02:25,145.0
+311,normal,273,夜明けと蛍,Dawn and Fireflies,80,00:02:25,145.0
+311,hard,457,夜明けと蛍,Dawn and Fireflies,80,00:02:25,145.0
+311,expert,691,夜明けと蛍,Dawn and Fireflies,80,00:02:25,145.0
+311,master,852,夜明けと蛍,Dawn and Fireflies,80,00:02:25,145.0
+312,easy,336,ココロ,kokoro,110-140,00:02:21,141.0
+312,normal,453,ココロ,kokoro,110-140,00:02:21,141.0
+312,hard,630,ココロ,kokoro,110-140,00:02:21,141.0
+312,expert,945,ココロ,kokoro,110-140,00:02:21,141.0
+312,master,1090,ココロ,kokoro,110-140,00:02:21,141.0
+313,easy,193,FREELY TOMORROW,FREELY TOMORROW,129,00:02:18,138.0
+313,normal,373,FREELY TOMORROW,FREELY TOMORROW,129,00:02:18,138.0
+313,hard,642,FREELY TOMORROW,FREELY TOMORROW,129,00:02:18,138.0
+313,expert,905,FREELY TOMORROW,FREELY TOMORROW,129,00:02:18,138.0
+313,master,1121,FREELY TOMORROW,FREELY TOMORROW,129,00:02:18,138.0
+314,easy,419,陽だまりのセツナ,Hidamari no Setsuna,217,00:01:55,115.0
+314,normal,517,陽だまりのセツナ,Hidamari no Setsuna,217,00:01:55,115.0
+314,hard,713,陽だまりのセツナ,Hidamari no Setsuna,217,00:01:55,115.0
+314,expert,932,陽だまりのセツナ,Hidamari no Setsuna,217,00:01:55,115.0
+314,master,1105,陽だまりのセツナ,Hidamari no Setsuna,217,00:01:55,115.0
+315,easy,469,What's up? Pop!,What's up? Pop!,170-230,00:02:40,160.0
+315,normal,731,What's up? Pop!,What's up? Pop!,170-230,00:02:40,160.0
+315,hard,1175,What's up? Pop!,What's up? Pop!,170-230,00:02:40,160.0
+315,expert,1804,What's up? Pop!,What's up? Pop!,170-230,00:02:40,160.0
+315,master,2362,What's up? Pop!,What's up? Pop!,170-230,00:02:40,160.0
+316,easy,384,ひつじがいっぴき,One Sheep,200,00:02:09,129.0
+316,normal,539,ひつじがいっぴき,One Sheep,200,00:02:09,129.0
+316,hard,838,ひつじがいっぴき,One Sheep,200,00:02:09,129.0
+316,expert,1120,ひつじがいっぴき,One Sheep,200,00:02:09,129.0
+316,master,1305,ひつじがいっぴき,One Sheep,200,00:02:09,129.0
+317,easy,374,魔法みたいなミュージック！,Music Like Magic!,210,00:02:20,140.0
+317,normal,431,魔法みたいなミュージック！,Music Like Magic!,210,00:02:20,140.0
+317,hard,744,魔法みたいなミュージック！,Music Like Magic!,210,00:02:20,140.0
+317,expert,1080,魔法みたいなミュージック！,Music Like Magic!,210,00:02:20,140.0
+317,master,1271,魔法みたいなミュージック！,Music Like Magic!,210,00:02:20,140.0
+318,easy,252,Sharing The World,Sharing The World,129,00:02:30,150.0
+318,normal,384,Sharing The World,Sharing The World,129,00:02:30,150.0
+318,hard,712,Sharing The World,Sharing The World,129,00:02:30,150.0
+318,expert,937,Sharing The World,Sharing The World,129,00:02:30,150.0
+318,master,1122,Sharing The World,Sharing The World,129,00:02:30,150.0
+319,easy,212,Decade,Decade,127,00:02:24,144.0
+319,normal,334,Decade,Decade,127,00:02:24,144.0
+319,hard,618,Decade,Decade,127,00:02:24,144.0
+319,expert,839,Decade,Decade,127,00:02:24,144.0
+319,master,1057,Decade,Decade,127,00:02:24,144.0
+320,easy,166,Booo!,Booo!,220,00:01:37,97.0
+320,normal,427,Booo!,Booo!,220,00:01:37,97.0
+320,hard,599,Booo!,Booo!,220,00:01:37,97.0
+320,expert,823,Booo!,Booo!,220,00:01:37,97.0
+320,master,860,Booo!,Booo!,220,00:01:37,97.0
+321,easy,396,アトラクトライト,Attract Light,196,00:02:25,145.0
+321,normal,691,アトラクトライト,Attract Light,196,00:02:25,145.0
+321,hard,878,アトラクトライト,Attract Light,196,00:02:25,145.0
+321,expert,1295,アトラクトライト,Attract Light,196,00:02:25,145.0
+321,master,1455,アトラクトライト,Attract Light,196,00:02:25,145.0
+322,easy,287,絶え間なく藍色,Uninterrupted Indigo,125,00:02:23,143.0
+322,normal,403,絶え間なく藍色,Uninterrupted Indigo,125,00:02:23,143.0
+322,hard,682,絶え間なく藍色,Uninterrupted Indigo,125,00:02:23,143.0
+322,expert,1002,絶え間なく藍色,Uninterrupted Indigo,125,00:02:23,143.0
+322,master,1089,絶え間なく藍色,Uninterrupted Indigo,125,00:02:23,143.0
+323,easy,415,快晴,Good Weather,172,00:02:31,151.0
+323,normal,582,快晴,Good Weather,172,00:02:31,151.0
+323,hard,959,快晴,Good Weather,172,00:02:31,151.0
+323,expert,1286,快晴,Good Weather,172,00:02:31,151.0
+323,master,1533,快晴,Good Weather,172,00:02:31,151.0
+324,easy,255,箱庭のコラル,Coral,138,00:02:09,129.0
+324,normal,387,箱庭のコラル,Coral,138,00:02:09,129.0
+324,hard,638,箱庭のコラル,Coral,138,00:02:09,129.0
+324,expert,862,箱庭のコラル,Coral,138,00:02:09,129.0
+324,master,981,箱庭のコラル,Coral,138,00:02:09,129.0
+325,easy,129,豚になってyeah yeah,Becoming Pigs Yeah Yeah,115,00:02:01,121.0
+325,normal,259,豚になってyeah yeah,Becoming Pigs Yeah Yeah,115,00:02:01,121.0
+325,hard,432,豚になってyeah yeah,Becoming Pigs Yeah Yeah,115,00:02:01,121.0
+325,expert,705,豚になってyeah yeah,Becoming Pigs Yeah Yeah,115,00:02:01,121.0
+325,master,778,豚になってyeah yeah,Becoming Pigs Yeah Yeah,115,00:02:01,121.0
+326,easy,312,天使の翼。,Tenshi no Tsubasa。,125,00:02:49,169.0
+326,normal,476,天使の翼。,Tenshi no Tsubasa。,125,00:02:49,169.0
+326,hard,885,天使の翼。,Tenshi no Tsubasa。,125,00:02:49,169.0
+326,expert,1072,天使の翼。,Tenshi no Tsubasa。,125,00:02:49,169.0
+326,master,1340,天使の翼。,Tenshi no Tsubasa。,125,00:02:49,169.0
+327,easy,413,SnowMix♪,SnowMix♪,185,00:02:38,158.0
+327,normal,549,SnowMix♪,SnowMix♪,185,00:02:38,158.0
+327,hard,939,SnowMix♪,SnowMix♪,185,00:02:38,158.0
+327,expert,1321,SnowMix♪,SnowMix♪,185,00:02:38,158.0
+327,master,1441,SnowMix♪,SnowMix♪,185,00:02:38,158.0
+328,easy,497,星界ちゃんと可不ちゃんのおつかい合騒曲,Sekai-Chan and Kafu-Chan's Otsukai Gassoukyoku,220,00:02:34,154.0
+328,normal,574,星界ちゃんと可不ちゃんのおつかい合騒曲,Sekai-Chan and Kafu-Chan's Otsukai Gassoukyoku,220,00:02:34,154.0
+328,hard,951,星界ちゃんと可不ちゃんのおつかい合騒曲,Sekai-Chan and Kafu-Chan's Otsukai Gassoukyoku,220,00:02:34,154.0
+328,expert,1491,星界ちゃんと可不ちゃんのおつかい合騒曲,Sekai-Chan and Kafu-Chan's Otsukai Gassoukyoku,220,00:02:34,154.0
+328,master,1626,星界ちゃんと可不ちゃんのおつかい合騒曲,Sekai-Chan and Kafu-Chan's Otsukai Gassoukyoku,220,00:02:34,154.0
+329,easy,451,ヤミナベ!!!!,YAMINABE!!!!,174-300,00:02:09,129.0
+329,normal,596,ヤミナベ!!!!,YAMINABE!!!!,174-300,00:02:09,129.0
+329,hard,1121,ヤミナベ!!!!,YAMINABE!!!!,174-300,00:02:09,129.0
+329,expert,1539,ヤミナベ!!!!,YAMINABE!!!!,174-300,00:02:09,129.0
+329,master,2015,ヤミナベ!!!!,YAMINABE!!!!,174-300,00:02:09,129.0
+330,easy,254,インタビュア,Interviewer,125,00:02:25,145.0
+330,normal,305,インタビュア,Interviewer,125,00:02:25,145.0
+330,hard,546,インタビュア,Interviewer,125,00:02:25,145.0
+330,expert,1006,インタビュア,Interviewer,125,00:02:25,145.0
+330,master,1097,インタビュア,Interviewer,125,00:02:25,145.0
+331,easy,339,39,39,175,00:02:23,143.0
+331,normal,539,39,39,175,00:02:23,143.0
+331,hard,839,39,39,175,00:02:23,143.0
+331,expert,1139,39,39,175,00:02:23,143.0
+331,master,1339,39,39,175,00:02:23,143.0
+332,easy,154,エピローグに君はいない,Epilogue without you,85,00:01:53,113.0
+332,normal,221,エピローグに君はいない,Epilogue without you,85,00:01:53,113.0
+332,hard,406,エピローグに君はいない,Epilogue without you,85,00:01:53,113.0
+332,expert,596,エピローグに君はいない,Epilogue without you,85,00:01:53,113.0
+332,master,625,エピローグに君はいない,Epilogue without you,85,00:01:53,113.0
+333,easy,449,Mr. Showtime,Mr. Showtime,218,00:02:18,138.0
+333,normal,762,Mr. Showtime,Mr. Showtime,218,00:02:18,138.0
+333,hard,1067,Mr. Showtime,Mr. Showtime,218,00:02:18,138.0
+333,expert,1341,Mr. Showtime,Mr. Showtime,218,00:02:18,138.0
+333,master,1497,Mr. Showtime,Mr. Showtime,218,00:02:18,138.0
+334,easy,309,Vampire's ∞ pathoS,Vampire's ∞ pathoS,134,00:02:04,124.0
+334,normal,401,Vampire's ∞ pathoS,Vampire's ∞ pathoS,134,00:02:04,124.0
+334,hard,761,Vampire's ∞ pathoS,Vampire's ∞ pathoS,134,00:02:04,124.0
+334,expert,992,Vampire's ∞ pathoS,Vampire's ∞ pathoS,134,00:02:04,124.0
+334,master,1100,Vampire's ∞ pathoS,Vampire's ∞ pathoS,134,00:02:04,124.0
+335,easy,400,トラッシュ・アンド・トラッシュ！,TRASH and TRASH!,177-220,00:02:18,138.0
+335,normal,483,トラッシュ・アンド・トラッシュ！,TRASH and TRASH!,177-220,00:02:18,138.0
+335,hard,693,トラッシュ・アンド・トラッシュ！,TRASH and TRASH!,177-220,00:02:18,138.0
+335,expert,1022,トラッシュ・アンド・トラッシュ！,TRASH and TRASH!,177-220,00:02:18,138.0
+335,master,1181,トラッシュ・アンド・トラッシュ！,TRASH and TRASH!,177-220,00:02:18,138.0
+336,easy,225,Be The MUSIC!,Be The MUSIC!,128,00:02:35,155.0
+336,normal,446,Be The MUSIC!,Be The MUSIC!,128,00:02:35,155.0
+336,hard,870,Be The MUSIC!,Be The MUSIC!,128,00:02:35,155.0
+336,expert,1121,Be The MUSIC!,Be The MUSIC!,128,00:02:35,155.0
+336,master,1247,Be The MUSIC!,Be The MUSIC!,128,00:02:35,155.0
+337,easy,321,METEOR,METEOR,170,00:02:19,139.0
+337,normal,482,METEOR,METEOR,170,00:02:19,139.0
+337,hard,827,METEOR,METEOR,170,00:02:19,139.0
+337,expert,1160,METEOR,METEOR,170,00:02:19,139.0
+337,master,1323,METEOR,METEOR,170,00:02:19,139.0
+338,easy,249,Where shall we go?,Where shall we go?,119,00:01:59,119.0
+338,normal,344,Where shall we go?,Where shall we go?,119,00:01:59,119.0
+338,hard,452,Where shall we go?,Where shall we go?,119,00:01:59,119.0
+338,expert,594,Where shall we go?,Where shall we go?,119,00:01:59,119.0
+338,master,735,Where shall we go?,Where shall we go?,119,00:01:59,119.0
+339,easy,294,glow,glow,85,00:02:38,158.0
+339,normal,359,glow,glow,85,00:02:38,158.0
+339,hard,644,glow,glow,85,00:02:38,158.0
+339,expert,875,glow,glow,85,00:02:38,158.0
+339,master,987,glow,glow,85,00:02:38,158.0
+340,easy,372,とても素敵な六月でした,It was a very nice June,210,00:02:34,154.0
+340,normal,524,とても素敵な六月でした,It was a very nice June,210,00:02:34,154.0
+340,hard,889,とても素敵な六月でした,It was a very nice June,210,00:02:34,154.0
+340,expert,1273,とても素敵な六月でした,It was a very nice June,210,00:02:34,154.0
+340,master,1491,とても素敵な六月でした,It was a very nice June,210,00:02:34,154.0
+341,easy,305,難聴系男子が倒せない,"Can't Defeat ""Take No Notice Boys""",150,00:02:23,143.0
+341,normal,394,難聴系男子が倒せない,"Can't Defeat ""Take No Notice Boys""",150,00:02:23,143.0
+341,hard,737,難聴系男子が倒せない,"Can't Defeat ""Take No Notice Boys""",150,00:02:23,143.0
+341,expert,1028,難聴系男子が倒せない,"Can't Defeat ""Take No Notice Boys""",150,00:02:23,143.0
+341,master,1234,難聴系男子が倒せない,"Can't Defeat ""Take No Notice Boys""",150,00:02:23,143.0
+342,easy,272,Blue Star,Blue Star,132,00:02:27,147.0
+342,normal,448,Blue Star,Blue Star,132,00:02:27,147.0
+342,hard,688,Blue Star,Blue Star,132,00:02:27,147.0
+342,expert,1046,Blue Star,Blue Star,132,00:02:27,147.0
+342,master,1163,Blue Star,Blue Star,132,00:02:27,147.0
+343,easy,217,スノーマン,Snowman,127,00:02:24,144.0
+343,normal,403,スノーマン,Snowman,127,00:02:24,144.0
+343,hard,726,スノーマン,Snowman,127,00:02:24,144.0
+343,expert,1001,スノーマン,Snowman,127,00:02:24,144.0
+343,master,1243,スノーマン,Snowman,127,00:02:24,144.0
+344,easy,448,脳内革命ガール,Brain Revolution Girl,240,00:02:20,140.0
+344,normal,534,脳内革命ガール,Brain Revolution Girl,240,00:02:20,140.0
+344,hard,1005,脳内革命ガール,Brain Revolution Girl,240,00:02:20,140.0
+344,expert,1189,脳内革命ガール,Brain Revolution Girl,240,00:02:20,140.0
+344,master,1269,脳内革命ガール,Brain Revolution Girl,240,00:02:20,140.0
+345,easy,364,演劇,Engeki,176,00:02:05,125.0
+345,normal,384,演劇,Engeki,176,00:02:05,125.0
+345,hard,729,演劇,Engeki,176,00:02:05,125.0
+345,expert,983,演劇,Engeki,176,00:02:05,125.0
+345,master,984,演劇,Engeki,176,00:02:05,125.0
+346,easy,271,嗚呼、素晴らしきニャン生,"Ah, It's a Wonderful Cat Life",194,00:02:30,150.0
+346,normal,460,嗚呼、素晴らしきニャン生,"Ah, It's a Wonderful Cat Life",194,00:02:30,150.0
+346,hard,870,嗚呼、素晴らしきニャン生,"Ah, It's a Wonderful Cat Life",194,00:02:30,150.0
+346,expert,1125,嗚呼、素晴らしきニャン生,"Ah, It's a Wonderful Cat Life",194,00:02:30,150.0
+346,master,1374,嗚呼、素晴らしきニャン生,"Ah, It's a Wonderful Cat Life",194,00:02:30,150.0
+347,easy,216,円尾坂の仕立屋,The Tailor of Enbizaka,180,00:02:00,120.0
+347,normal,510,円尾坂の仕立屋,The Tailor of Enbizaka,180,00:02:00,120.0
+347,hard,688,円尾坂の仕立屋,The Tailor of Enbizaka,180,00:02:00,120.0
+347,expert,842,円尾坂の仕立屋,The Tailor of Enbizaka,180,00:02:00,120.0
+347,master,1007,円尾坂の仕立屋,The Tailor of Enbizaka,180,00:02:00,120.0
+348,easy,177,悪徳のジャッジメント,Judgment of Corruption,140,00:02:07,127.0
+348,normal,340,悪徳のジャッジメント,Judgment of Corruption,140,00:02:07,127.0
+348,hard,555,悪徳のジャッジメント,Judgment of Corruption,140,00:02:07,127.0
+348,expert,777,悪徳のジャッジメント,Judgment of Corruption,140,00:02:07,127.0
+348,master,983,悪徳のジャッジメント,Judgment of Corruption,140,00:02:07,127.0
+349,easy,172,悪食娘コンチータ,Evil Food Eater Conchita,160,00:01:42,102.0
+349,normal,325,悪食娘コンチータ,Evil Food Eater Conchita,160,00:01:42,102.0
+349,hard,565,悪食娘コンチータ,Evil Food Eater Conchita,160,00:01:42,102.0
+349,expert,791,悪食娘コンチータ,Evil Food Eater Conchita,160,00:01:42,102.0
+349,master,851,悪食娘コンチータ,Evil Food Eater Conchita,160,00:01:42,102.0
+350,easy,191,眠らせ姫からの贈り物,Gift from the Princess who Brought Sleep,126,00:02:15,135.0
+350,normal,304,眠らせ姫からの贈り物,Gift from the Princess who Brought Sleep,126,00:02:15,135.0
+350,hard,609,眠らせ姫からの贈り物,Gift from the Princess who Brought Sleep,126,00:02:15,135.0
+350,expert,904,眠らせ姫からの贈り物,Gift from the Princess who Brought Sleep,126,00:02:15,135.0
+350,master,1003,眠らせ姫からの贈り物,Gift from the Princess who Brought Sleep,126,00:02:15,135.0
+351,easy,255,相生,Aioi,140,00:02:41,161.0
+351,normal,493,相生,Aioi,140,00:02:41,161.0
+351,hard,712,相生,Aioi,140,00:02:41,161.0
+351,expert,879,相生,Aioi,140,00:02:41,161.0
+351,master,1232,相生,Aioi,140,00:02:41,161.0
+352,easy,221,命ばっかり,It's just life,128,00:02:10,130.0
+352,normal,356,命ばっかり,It's just life,128,00:02:10,130.0
+352,hard,708,命ばっかり,It's just life,128,00:02:10,130.0
+352,expert,1037,命ばっかり,It's just life,128,00:02:10,130.0
+352,master,1092,命ばっかり,It's just life,128,00:02:10,130.0
+353,easy,165,キティ,kitty,145,00:01:54,114.0
+353,normal,298,キティ,kitty,145,00:01:54,114.0
+353,hard,706,キティ,kitty,145,00:01:54,114.0
+353,expert,982,キティ,kitty,145,00:01:54,114.0
+353,master,982,キティ,kitty,145,00:01:54,114.0
+354,easy,418,セツナトリップ,Setsuna Trip,145,00:02:35,155.0
+354,normal,524,セツナトリップ,Setsuna Trip,145,00:02:35,155.0
+354,hard,938,セツナトリップ,Setsuna Trip,145,00:02:35,155.0
+354,expert,1275,セツナトリップ,Setsuna Trip,145,00:02:35,155.0
+354,master,1370,セツナトリップ,Setsuna Trip,145,00:02:35,155.0
+355,easy,536,白い雪のプリンセスは,The Snow White Princess Is...,200,00:02:20,140.0
+355,normal,695,白い雪のプリンセスは,The Snow White Princess Is...,200,00:02:20,140.0
+355,hard,908,白い雪のプリンセスは,The Snow White Princess Is...,200,00:02:20,140.0
+355,expert,1273,白い雪のプリンセスは,The Snow White Princess Is...,200,00:02:20,140.0
+355,master,1478,白い雪のプリンセスは,The Snow White Princess Is...,200,00:02:20,140.0
+356,easy,204,リアライズ,Realize,150,00:01:34,94.0
+356,normal,241,リアライズ,Realize,150,00:01:34,94.0
+356,hard,465,リアライズ,Realize,150,00:01:34,94.0
+356,expert,744,リアライズ,Realize,150,00:01:34,94.0
+356,master,851,リアライズ,Realize,150,00:01:34,94.0
+357,easy,320,ブループラネット,Blue Planet,186,00:02:16,136.0
+357,normal,478,ブループラネット,Blue Planet,186,00:02:16,136.0
+357,hard,962,ブループラネット,Blue Planet,186,00:02:16,136.0
+357,expert,1287,ブループラネット,Blue Planet,186,00:02:16,136.0
+357,master,1357,ブループラネット,Blue Planet,186,00:02:16,136.0
+358,easy,136,心做し,kokoronashi,84,00:02:18,138.0
+358,normal,234,心做し,kokoronashi,84,00:02:18,138.0
+358,hard,456,心做し,kokoronashi,84,00:02:18,138.0
+358,expert,676,心做し,kokoronashi,84,00:02:18,138.0
+358,master,832,心做し,kokoronashi,84,00:02:18,138.0
+359,easy,284,名も無き革命,Namo Naki Kakumei,185,00:02:02,122.0
+359,normal,458,名も無き革命,Namo Naki Kakumei,185,00:02:02,122.0
+359,hard,698,名も無き革命,Namo Naki Kakumei,185,00:02:02,122.0
+359,expert,995,名も無き革命,Namo Naki Kakumei,185,00:02:02,122.0
+359,master,1099,名も無き革命,Namo Naki Kakumei,185,00:02:02,122.0
+360,easy,257,太陽系デスコ,Solar System Disco,150,00:02:26,146.0
+360,normal,489,太陽系デスコ,Solar System Disco,150,00:02:26,146.0
+360,hard,651,太陽系デスコ,Solar System Disco,150,00:02:26,146.0
+360,expert,1018,太陽系デスコ,Solar System Disco,150,00:02:26,146.0
+360,master,1188,太陽系デスコ,Solar System Disco,150,00:02:26,146.0
+361,easy,351,きゅうくらりん,Kyu-kurarin,220,00:01:49,109.0
+361,normal,427,きゅうくらりん,Kyu-kurarin,220,00:01:49,109.0
+361,hard,768,きゅうくらりん,Kyu-kurarin,220,00:01:49,109.0
+361,expert,1141,きゅうくらりん,Kyu-kurarin,220,00:01:49,109.0
+361,master,1148,きゅうくらりん,Kyu-kurarin,220,00:01:49,109.0
+362,easy,254,Wonder Style,Wonder Style,128,00:02:16,136.0
+362,normal,412,Wonder Style,Wonder Style,128,00:02:16,136.0
+362,hard,524,Wonder Style,Wonder Style,128,00:02:16,136.0
+362,expert,888,Wonder Style,Wonder Style,128,00:02:16,136.0
+362,master,1013,Wonder Style,Wonder Style,128,00:02:16,136.0
+363,easy,195,UNDERWATER,UNDERWATER,145,00:02:28,148.0
+363,normal,393,UNDERWATER,UNDERWATER,145,00:02:28,148.0
+363,hard,565,UNDERWATER,UNDERWATER,145,00:02:28,148.0
+363,expert,971,UNDERWATER,UNDERWATER,145,00:02:28,148.0
+363,master,1062,UNDERWATER,UNDERWATER,145,00:02:28,148.0
+364,easy,397,エターナルアリア,Eternal Aria,184,00:02:19,139.0
+364,normal,712,エターナルアリア,Eternal Aria,184,00:02:19,139.0
+364,hard,1004,エターナルアリア,Eternal Aria,184,00:02:19,139.0
+364,expert,1272,エターナルアリア,Eternal Aria,184,00:02:19,139.0
+364,master,1364,エターナルアリア,Eternal Aria,184,00:02:19,139.0
+365,easy,358,恋は戦争,Love is War,175 (87.5),00:02:23,143.0
+365,normal,543,恋は戦争,Love is War,175 (87.5),00:02:23,143.0
+365,hard,687,恋は戦争,Love is War,175 (87.5),00:02:23,143.0
+365,expert,1081,恋は戦争,Love is War,175 (87.5),00:02:23,143.0
+365,master,1262,恋は戦争,Love is War,175 (87.5),00:02:23,143.0
+366,easy,326,NEO,NEO,190,00:02:06,126.0
+366,normal,446,NEO,NEO,190,00:02:06,126.0
+366,hard,629,NEO,NEO,190,00:02:06,126.0
+366,expert,939,NEO,NEO,190,00:02:06,126.0
+366,master,988,NEO,NEO,190,00:02:06,126.0
+367,easy,297,すきなことだけでいいです,All I Need are Things I Like,140,00:02:35,155.0
+367,normal,419,すきなことだけでいいです,All I Need are Things I Like,140,00:02:35,155.0
+367,hard,683,すきなことだけでいいです,All I Need are Things I Like,140,00:02:35,155.0
+367,expert,1081,すきなことだけでいいです,All I Need are Things I Like,140,00:02:35,155.0
+367,master,1223,すきなことだけでいいです,All I Need are Things I Like,140,00:02:35,155.0
+368,easy,328,アイムマイン,I'm Mine,135,00:02:36,156.0
+368,normal,489,アイムマイン,I'm Mine,135,00:02:36,156.0
+368,hard,764,アイムマイン,I'm Mine,135,00:02:36,156.0
+368,expert,1058,アイムマイン,I'm Mine,135,00:02:36,156.0
+368,master,1189,アイムマイン,I'm Mine,135,00:02:36,156.0
+369,easy,273,メランコリック,Melancholic,140,00:02:27,147.0
+369,normal,369,メランコリック,Melancholic,140,00:02:27,147.0
+369,hard,610,メランコリック,Melancholic,140,00:02:27,147.0
+369,expert,917,メランコリック,Melancholic,140,00:02:27,147.0
+369,master,1100,メランコリック,Melancholic,140,00:02:27,147.0
+370,easy,459,人生,JINSEI [Our Life],142-185,00:02:28,148.0
+370,normal,630,人生,JINSEI [Our Life],142-185,00:02:28,148.0
+370,hard,1057,人生,JINSEI [Our Life],142-185,00:02:28,148.0
+370,expert,1441,人生,JINSEI [Our Life],142-185,00:02:28,148.0
+370,master,2242,人生,JINSEI [Our Life],142-185,00:02:28,148.0
+372,easy,532,天樂,Tengaku,116,00:02:31,151.0
+372,normal,642,天樂,Tengaku,116,00:02:31,151.0
+372,hard,1126,天樂,Tengaku,116,00:02:31,151.0
+372,expert,1396,天樂,Tengaku,116,00:02:31,151.0
+372,master,1554,天樂,Tengaku,116,00:02:31,151.0
+373,easy,407,下剋上,Retainer Supplanting His Lord,185,00:02:35,155.0
+373,normal,457,下剋上,Retainer Supplanting His Lord,185,00:02:35,155.0
+373,hard,908,下剋上,Retainer Supplanting His Lord,185,00:02:35,155.0
+373,expert,1228,下剋上,Retainer Supplanting His Lord,185,00:02:35,155.0
+373,master,1245,下剋上,Retainer Supplanting His Lord,185,00:02:35,155.0
+374,easy,255,チームメイト,Teammates,180,00:01:52,112.0
+374,normal,380,チームメイト,Teammates,180,00:01:52,112.0
+374,hard,612,チームメイト,Teammates,180,00:01:52,112.0
+374,expert,803,チームメイト,Teammates,180,00:01:52,112.0
+374,master,1090,チームメイト,Teammates,180,00:01:52,112.0
+375,easy,178,星を繋ぐ,Hoshi wo Tsunagu,174,00:01:36,96.0
+375,normal,301,星を繋ぐ,Hoshi wo Tsunagu,174,00:01:36,96.0
+375,hard,544,星を繋ぐ,Hoshi wo Tsunagu,174,00:01:36,96.0
+375,expert,753,星を繋ぐ,Hoshi wo Tsunagu,174,00:01:36,96.0
+375,master,821,星を繋ぐ,Hoshi wo Tsunagu,174,00:01:36,96.0
+376,easy,171,我儘姫,Selfish princess,116.19-126,00:02:21,141.0
+376,normal,374,我儘姫,Selfish princess,116.19-126,00:02:21,141.0
+376,hard,683,我儘姫,Selfish princess,116.19-126,00:02:21,141.0
+376,expert,1040,我儘姫,Selfish princess,116.19-126,00:02:21,141.0
+376,master,1188,我儘姫,Selfish princess,116.19-126,00:02:21,141.0
+377,easy,276,悪役にキスシーンを,Kiss the Villain,124,00:02:34,154.0
+377,normal,413,悪役にキスシーンを,Kiss the Villain,124,00:02:34,154.0
+377,hard,679,悪役にキスシーンを,Kiss the Villain,124,00:02:34,154.0
+377,expert,998,悪役にキスシーンを,Kiss the Villain,124,00:02:34,154.0
+377,master,1188,悪役にキスシーンを,Kiss the Villain,124,00:02:34,154.0
+378,easy,313,スロウダウナー,SlowDowner,194,00:02:23,143.0
+378,normal,461,スロウダウナー,SlowDowner,194,00:02:23,143.0
+378,hard,702,スロウダウナー,SlowDowner,194,00:02:23,143.0
+378,expert,1054,スロウダウナー,SlowDowner,194,00:02:23,143.0
+378,master,1418,スロウダウナー,SlowDowner,194,00:02:23,143.0
+379,easy,320,ずんだパーリナイ,Zunda Party Night,150-170,00:02:46,166.0
+379,normal,588,ずんだパーリナイ,Zunda Party Night,150-170,00:02:46,166.0
+379,hard,947,ずんだパーリナイ,Zunda Party Night,150-170,00:02:46,166.0
+379,expert,1407,ずんだパーリナイ,Zunda Party Night,150-170,00:02:46,166.0
+379,master,1522,ずんだパーリナイ,Zunda Party Night,150-170,00:02:46,166.0
+380,easy,372,スターダストメドレー,Stardust Medley,170,00:02:23,143.0
+380,normal,554,スターダストメドレー,Stardust Medley,170,00:02:23,143.0
+380,hard,922,スターダストメドレー,Stardust Medley,170,00:02:23,143.0
+380,expert,1215,スターダストメドレー,Stardust Medley,170,00:02:23,143.0
+380,master,1366,スターダストメドレー,Stardust Medley,170,00:02:23,143.0
+381,easy,286,新人類,shinjinrui,144,00:02:36,156.0
+381,normal,526,新人類,shinjinrui,144,00:02:36,156.0
+381,hard,943,新人類,shinjinrui,144,00:02:36,156.0
+381,expert,1285,新人類,shinjinrui,144,00:02:36,156.0
+381,master,1298,新人類,shinjinrui,144,00:02:36,156.0
+382,easy,110,心拍ペアリング,Shinpaku Pairing,134,00:01:27,87.0
+382,normal,218,心拍ペアリング,Shinpaku Pairing,134,00:01:27,87.0
+382,hard,357,心拍ペアリング,Shinpaku Pairing,134,00:01:27,87.0
+382,expert,575,心拍ペアリング,Shinpaku Pairing,134,00:01:27,87.0
+382,master,696,心拍ペアリング,Shinpaku Pairing,134,00:01:27,87.0
+383,easy,179,purpose,purpose,130,00:01:48,108.0
+383,normal,297,purpose,purpose,130,00:01:48,108.0
+383,hard,538,purpose,purpose,130,00:01:48,108.0
+383,expert,720,purpose,purpose,130,00:01:48,108.0
+383,master,812,purpose,purpose,130,00:01:48,108.0
+384,easy,150,トワイライトライト,Twilight Light,88,00:01:46,106.0
+384,normal,219,トワイライトライト,Twilight Light,88,00:01:46,106.0
+384,hard,408,トワイライトライト,Twilight Light,88,00:01:46,106.0
+384,expert,520,トワイライトライト,Twilight Light,88,00:01:46,106.0
+384,master,619,トワイライトライト,Twilight Light,88,00:01:46,106.0
+385,easy,266,神っぽいな,God-ish,142,00:02:27,147.0
+385,normal,352,神っぽいな,God-ish,142,00:02:27,147.0
+385,hard,781,神っぽいな,God-ish,142,00:02:27,147.0
+385,expert,1035,神っぽいな,God-ish,142,00:02:27,147.0
+385,master,1162,神っぽいな,God-ish,142,00:02:27,147.0
+386,easy,269,キラピピ★キラピカ,Kirapipi☆Kirapika,160,00:01:42,102.0
+386,normal,394,キラピピ★キラピカ,Kirapipi☆Kirapika,160,00:01:42,102.0
+386,hard,909,キラピピ★キラピカ,Kirapipi☆Kirapika,160,00:01:42,102.0
+386,expert,909,キラピピ★キラピカ,Kirapipi☆Kirapika,160,00:01:42,102.0
+386,master,909,キラピピ★キラピカ,Kirapipi☆Kirapika,160,00:01:42,102.0
+387,easy,212,Hello Builder,Hello Builder,160,00:01:52,112.0
+387,normal,363,Hello Builder,Hello Builder,160,00:01:52,112.0
+387,hard,619,Hello Builder,Hello Builder,160,00:01:52,112.0
+387,expert,847,Hello Builder,Hello Builder,160,00:01:52,112.0
+387,master,997,Hello Builder,Hello Builder,160,00:01:52,112.0
+388,append,4500,初音ミクの激唱,The Intense Voice of Hatsune Miku,,,
+390,easy,268,Dear,Dear,135,00:02:30,150.0
+390,normal,435,Dear,Dear,135,00:02:30,150.0
+390,hard,751,Dear,Dear,135,00:02:30,150.0
+390,expert,1032,Dear,Dear,135,00:02:30,150.0
+390,master,1233,Dear,Dear,135,00:02:30,150.0
+391,easy,317,キュートなカノジョ,Cute Na Kanojo,160,00:02:12,132.0
+391,normal,416,キュートなカノジョ,Cute Na Kanojo,160,00:02:12,132.0
+391,hard,590,キュートなカノジョ,Cute Na Kanojo,160,00:02:12,132.0
+391,expert,1006,キュートなカノジョ,Cute Na Kanojo,160,00:02:12,132.0
+391,master,1208,キュートなカノジョ,Cute Na Kanojo,160,00:02:12,132.0
+392,easy,228,春嵐,spring storm,140,00:02:20,140.0
+392,normal,450,春嵐,spring storm,140,00:02:20,140.0
+392,hard,798,春嵐,spring storm,140,00:02:20,140.0
+392,expert,1095,春嵐,spring storm,140,00:02:20,140.0
+392,master,1184,春嵐,spring storm,140,00:02:20,140.0
+393,easy,215,Un-Lock,Un-Lock,130,00:02:19,139.0
+393,normal,366,Un-Lock,Un-Lock,130,00:02:19,139.0
+393,hard,598,Un-Lock,Un-Lock,130,00:02:19,139.0
+393,expert,894,Un-Lock,Un-Lock,130,00:02:19,139.0
+393,master,1096,Un-Lock,Un-Lock,130,00:02:19,139.0
+394,easy,142,ボトルケーキ,Bottle Cake,107,00:01:55,115.0
+394,normal,232,ボトルケーキ,Bottle Cake,107,00:01:55,115.0
+394,hard,450,ボトルケーキ,Bottle Cake,107,00:01:55,115.0
+394,expert,640,ボトルケーキ,Bottle Cake,107,00:01:55,115.0
+394,master,759,ボトルケーキ,Bottle Cake,107,00:01:55,115.0
+395,easy,337,サマータイムレコード,Summertime Record,178,00:02:29,149.0
+395,normal,528,サマータイムレコード,Summertime Record,178,00:02:29,149.0
+395,hard,815,サマータイムレコード,Summertime Record,178,00:02:29,149.0
+395,expert,1107,サマータイムレコード,Summertime Record,178,00:02:29,149.0
+395,master,1404,サマータイムレコード,Summertime Record,178,00:02:29,149.0
+396,easy,210,東京テディベア,Tokyo Teddy Bear,204,00:02:15,135.0
+396,normal,488,東京テディベア,Tokyo Teddy Bear,204,00:02:15,135.0
+396,hard,859,東京テディベア,Tokyo Teddy Bear,204,00:02:15,135.0
+396,expert,1172,東京テディベア,Tokyo Teddy Bear,204,00:02:15,135.0
+396,master,1449,東京テディベア,Tokyo Teddy Bear,204,00:02:15,135.0
+397,easy,252,フィラメントフィーバー,filament fever,114-229,00:01:54,114.0
+397,normal,345,フィラメントフィーバー,filament fever,114-229,00:01:54,114.0
+397,hard,648,フィラメントフィーバー,filament fever,114-229,00:01:54,114.0
+397,expert,864,フィラメントフィーバー,filament fever,114-229,00:01:54,114.0
+397,master,952,フィラメントフィーバー,filament fever,114-229,00:01:54,114.0
+398,easy,153,Beyond the way,Beyond the way,125,00:01:56,116.0
+398,normal,313,Beyond the way,Beyond the way,125,00:01:56,116.0
+398,hard,539,Beyond the way,Beyond the way,125,00:01:56,116.0
+398,expert,737,Beyond the way,Beyond the way,125,00:01:56,116.0
+398,master,900,Beyond the way,Beyond the way,125,00:01:56,116.0
+399,easy,292,Disco No.39,Disco No.39,145,00:02:14,134.0
+399,normal,465,Disco No.39,Disco No.39,145,00:02:14,134.0
+399,hard,739,Disco No.39,Disco No.39,145,00:02:14,134.0
+399,expert,950,Disco No.39,Disco No.39,145,00:02:14,134.0
+399,master,1115,Disco No.39,Disco No.39,145,00:02:14,134.0
+400,easy,139,我らステインバスターズ！,We are the Stain Busters!,125,00:01:44,104.0
+400,normal,252,我らステインバスターズ！,We are the Stain Busters!,125,00:01:44,104.0
+400,hard,504,我らステインバスターズ！,We are the Stain Busters!,125,00:01:44,104.0
+400,expert,797,我らステインバスターズ！,We are the Stain Busters!,125,00:01:44,104.0
+400,master,810,我らステインバスターズ！,We are the Stain Busters!,125,00:01:44,104.0
+401,easy,211,まにまに,manimani,174,00:01:53,113.0
+401,normal,428,まにまに,manimani,174,00:01:53,113.0
+401,hard,689,まにまに,manimani,174,00:01:53,113.0
+401,expert,893,まにまに,manimani,174,00:01:53,113.0
+401,master,1014,まにまに,manimani,174,00:01:53,113.0
+402,easy,307,エンヴィーベイビー,Envy Baby,171,00:02:17,137.0
+402,normal,505,エンヴィーベイビー,Envy Baby,171,00:02:17,137.0
+402,hard,675,エンヴィーベイビー,Envy Baby,171,00:02:17,137.0
+402,expert,969,エンヴィーベイビー,Envy Baby,171,00:02:17,137.0
+402,master,1251,エンヴィーベイビー,Envy Baby,171,00:02:17,137.0
+403,easy,133,番凩,TSUGAIKOGARASHI,90-128,00:02:05,125.0
+403,normal,336,番凩,TSUGAIKOGARASHI,90-128,00:02:05,125.0
+403,hard,512,番凩,TSUGAIKOGARASHI,90-128,00:02:05,125.0
+403,expert,716,番凩,TSUGAIKOGARASHI,90-128,00:02:05,125.0
+403,master,892,番凩,TSUGAIKOGARASHI,90-128,00:02:05,125.0
+404,easy,149,blender,blender,103,00:02:16,136.0
+404,normal,331,blender,blender,103,00:02:16,136.0
+404,hard,524,blender,blender,103,00:02:16,136.0
+404,expert,812,blender,blender,103,00:02:16,136.0
+404,master,781,blender,blender,103,00:02:16,136.0
+405,easy,241,MOTTO!!!,MOTTO!!!,130,00:02:23,143.0
+405,normal,298,MOTTO!!!,MOTTO!!!,130,00:02:23,143.0
+405,hard,556,MOTTO!!!,MOTTO!!!,130,00:02:23,143.0
+405,expert,881,MOTTO!!!,MOTTO!!!,130,00:02:23,143.0
+405,master,1067,MOTTO!!!,MOTTO!!!,130,00:02:23,143.0
+406,easy,266,ARQETYPE,ARQETYPE,240,00:01:39,99.0
+406,normal,369,ARQETYPE,ARQETYPE,240,00:01:39,99.0
+406,hard,723,ARQETYPE,ARQETYPE,240,00:01:39,99.0
+406,expert,827,ARQETYPE,ARQETYPE,240,00:01:39,99.0
+406,master,951,ARQETYPE,ARQETYPE,240,00:01:39,99.0
+407,easy,300,初めての恋が終わる時,When First Love Ends,100-180,00:02:14,134.0
+407,normal,394,初めての恋が終わる時,When First Love Ends,100-180,00:02:14,134.0
+407,hard,649,初めての恋が終わる時,When First Love Ends,100-180,00:02:14,134.0
+407,expert,822,初めての恋が終わる時,When First Love Ends,100-180,00:02:14,134.0
+407,master,995,初めての恋が終わる時,When First Love Ends,100-180,00:02:14,134.0
+408,easy,290,CIRCUS PANIC!!!,CIRCUS PANIC!!!,136-166,00:02:18,138.0
+408,normal,428,CIRCUS PANIC!!!,CIRCUS PANIC!!!,136-166,00:02:18,138.0
+408,hard,754,CIRCUS PANIC!!!,CIRCUS PANIC!!!,136-166,00:02:18,138.0
+408,expert,1083,CIRCUS PANIC!!!,CIRCUS PANIC!!!,136-166,00:02:18,138.0
+408,master,1239,CIRCUS PANIC!!!,CIRCUS PANIC!!!,136-166,00:02:18,138.0
+409,easy,125,25時の情熱,Passion at 25:00,86,00:01:59,119.0
+409,normal,225,25時の情熱,Passion at 25:00,86,00:01:59,119.0
+409,hard,525,25時の情熱,Passion at 25:00,86,00:01:59,119.0
+409,expert,625,25時の情熱,Passion at 25:00,86,00:01:59,119.0
+409,master,725,25時の情熱,Passion at 25:00,86,00:01:59,119.0
+410,easy,296,マーシャル・マキシマイザー,Marshall Maximizer,190,00:01:35,95.0
+410,normal,352,マーシャル・マキシマイザー,Marshall Maximizer,190,00:01:35,95.0
+410,hard,522,マーシャル・マキシマイザー,Marshall Maximizer,190,00:01:35,95.0
+410,expert,694,マーシャル・マキシマイザー,Marshall Maximizer,190,00:01:35,95.0
+410,master,895,マーシャル・マキシマイザー,Marshall Maximizer,190,00:01:35,95.0
+411,easy,228,世界を照らすテトラッド,Tonal Twinkle Tetrad,155,00:01:57,117.0
+411,normal,356,世界を照らすテトラッド,Tonal Twinkle Tetrad,155,00:01:57,117.0
+411,hard,679,世界を照らすテトラッド,Tonal Twinkle Tetrad,155,00:01:57,117.0
+411,expert,850,世界を照らすテトラッド,Tonal Twinkle Tetrad,155,00:01:57,117.0
+411,master,1072,世界を照らすテトラッド,Tonal Twinkle Tetrad,155,00:01:57,117.0
+412,easy,297,デビルじゃないもん,(Not) A Devil,154,00:02:01,121.0
+412,normal,562,デビルじゃないもん,(Not) A Devil,154,00:02:01,121.0
+412,hard,631,デビルじゃないもん,(Not) A Devil,154,00:02:01,121.0
+412,expert,854,デビルじゃないもん,(Not) A Devil,154,00:02:01,121.0
+412,master,879,デビルじゃないもん,(Not) A Devil,154,00:02:01,121.0
+413,easy,311,さよならプリンセス,Lose The Princess,195,00:01:59,119.0
+413,normal,401,さよならプリンセス,Lose The Princess,195,00:01:59,119.0
+413,hard,709,さよならプリンセス,Lose The Princess,195,00:01:59,119.0
+413,expert,812,さよならプリンセス,Lose The Princess,195,00:01:59,119.0
+413,master,1131,さよならプリンセス,Lose The Princess,195,00:01:59,119.0
+414,easy,339,HERO,HERO,190,00:02:02,122.0
+414,normal,390,HERO,HERO,190,00:02:02,122.0
+414,hard,751,HERO,HERO,190,00:02:02,122.0
+414,expert,1194,HERO,HERO,190,00:02:02,122.0
+414,master,1278,HERO,HERO,190,00:02:02,122.0
+415,easy,165,ラッキー☆オーブ,Lucky☆Orb,126,00:02:00,120.0
+415,normal,220,ラッキー☆オーブ,Lucky☆Orb,126,00:02:00,120.0
+415,hard,505,ラッキー☆オーブ,Lucky☆Orb,126,00:02:00,120.0
+415,expert,802,ラッキー☆オーブ,Lucky☆Orb,126,00:02:00,120.0
+415,master,919,ラッキー☆オーブ,Lucky☆Orb,126,00:02:00,120.0
+416,easy,295,limbo,limbo,199,00:01:42,102.0
+416,normal,384,limbo,limbo,199,00:01:42,102.0
+416,hard,608,limbo,limbo,199,00:01:42,102.0
+416,expert,900,limbo,limbo,199,00:01:42,102.0
+416,master,958,limbo,limbo,199,00:01:42,102.0
+417,easy,147,くうになる,Kuu Ni Naru,166,00:01:49,109.0
+417,normal,277,くうになる,Kuu Ni Naru,166,00:01:49,109.0
+417,hard,581,くうになる,Kuu Ni Naru,166,00:01:49,109.0
+417,expert,769,くうになる,Kuu Ni Naru,166,00:01:49,109.0
+417,master,945,くうになる,Kuu Ni Naru,166,00:01:49,109.0
+418,easy,149,金木犀,Osmanthus,123,00:02:03,123.0
+418,normal,292,金木犀,Osmanthus,123,00:02:03,123.0
+418,hard,556,金木犀,Osmanthus,123,00:02:03,123.0
+418,expert,814,金木犀,Osmanthus,123,00:02:03,123.0
+418,master,899,金木犀,Osmanthus,123,00:02:03,123.0
+420,easy,297,imaginary love story,imaginary love story,175,00:02:08,128.0
+420,normal,479,imaginary love story,imaginary love story,175,00:02:08,128.0
+420,hard,662,imaginary love story,imaginary love story,175,00:02:08,128.0
+420,expert,1019,imaginary love story,imaginary love story,175,00:02:08,128.0
+420,master,1214,imaginary love story,imaginary love story,175,00:02:08,128.0
+421,easy,149,CR詠ZY,CRAZY,122,00:01:41,101.0
+421,normal,340,CR詠ZY,CRAZY,122,00:01:41,101.0
+421,hard,434,CR詠ZY,CRAZY,122,00:01:41,101.0
+421,expert,615,CR詠ZY,CRAZY,122,00:01:41,101.0
+421,master,728,CR詠ZY,CRAZY,122,00:01:41,101.0
+422,easy,217,JUMPIN’ OVER !,JUMPIN' OVER !,170,00:01:49,109.0
+422,normal,340,JUMPIN’ OVER !,JUMPIN' OVER !,170,00:01:49,109.0
+422,hard,598,JUMPIN’ OVER !,JUMPIN' OVER !,170,00:01:49,109.0
+422,expert,858,JUMPIN’ OVER !,JUMPIN' OVER !,170,00:01:49,109.0
+422,master,863,JUMPIN’ OVER !,JUMPIN' OVER !,170,00:01:49,109.0
+423,easy,296,レグルス,Regulus,146,00:02:07,127.0
+423,normal,387,レグルス,Regulus,146,00:02:07,127.0
+423,hard,680,レグルス,Regulus,146,00:02:07,127.0
+423,expert,949,レグルス,Regulus,146,00:02:07,127.0
+423,master,1014,レグルス,Regulus,146,00:02:07,127.0
+424,easy,351,インテグラル,Integral,192,00:01:57,117.0
+424,normal,479,インテグラル,Integral,192,00:01:57,117.0
+424,hard,701,インテグラル,Integral,192,00:01:57,117.0
+424,expert,868,インテグラル,Integral,192,00:01:57,117.0
+424,master,868,インテグラル,Integral,192,00:01:57,117.0
+425,easy,405,Cool Me Down,Cool Me Down,174,00:02:29,149.0
+425,normal,544,Cool Me Down,Cool Me Down,174,00:02:29,149.0
+425,hard,874,Cool Me Down,Cool Me Down,174,00:02:29,149.0
+425,expert,1159,Cool Me Down,Cool Me Down,174,00:02:29,149.0
+425,master,1250,Cool Me Down,Cool Me Down,174,00:02:29,149.0
+426,easy,234,On&On,On&On,126,00:01:55,115.0
+426,normal,245,On&On,On&On,126,00:01:55,115.0
+426,hard,503,On&On,On&On,126,00:01:55,115.0
+426,expert,712,On&On,On&On,126,00:01:55,115.0
+426,master,859,On&On,On&On,126,00:01:55,115.0
+427,easy,165,幽光、1/fのゆらめき,"A Glimmer, 1/f fluctuation",193,00:01:31,91.0
+427,normal,285,幽光、1/fのゆらめき,"A Glimmer, 1/f fluctuation",193,00:01:31,91.0
+427,hard,567,幽光、1/fのゆらめき,"A Glimmer, 1/f fluctuation",193,00:01:31,91.0
+427,expert,718,幽光、1/fのゆらめき,"A Glimmer, 1/f fluctuation",193,00:01:31,91.0
+427,master,877,幽光、1/fのゆらめき,"A Glimmer, 1/f fluctuation",193,00:01:31,91.0
+428,easy,228,ときめきジェットコースター,Tokimeki Jet Coaster,180,00:02:05,125.0
+428,normal,369,ときめきジェットコースター,Tokimeki Jet Coaster,180,00:02:05,125.0
+428,hard,587,ときめきジェットコースター,Tokimeki Jet Coaster,180,00:02:05,125.0
+428,expert,1016,ときめきジェットコースター,Tokimeki Jet Coaster,180,00:02:05,125.0
+428,master,1234,ときめきジェットコースター,Tokimeki Jet Coaster,180,00:02:05,125.0
+429,easy,208,はぐ,Hug,120,00:02:09,129.0
+429,normal,348,はぐ,Hug,120,00:02:09,129.0
+429,hard,576,はぐ,Hug,120,00:02:09,129.0
+429,expert,851,はぐ,Hug,120,00:02:09,129.0
+429,master,983,はぐ,Hug,120,00:02:09,129.0
+430,easy,204,『んっあっあっ。』,"""Hmm,Ah,Ah.""",123,00:02:08,128.0
+430,normal,338,『んっあっあっ。』,"""Hmm,Ah,Ah.""",123,00:02:08,128.0
+430,hard,495,『んっあっあっ。』,"""Hmm,Ah,Ah.""",123,00:02:08,128.0
+430,expert,742,『んっあっあっ。』,"""Hmm,Ah,Ah.""",123,00:02:08,128.0
+430,master,1071,『んっあっあっ。』,"""Hmm,Ah,Ah.""",123,00:02:08,128.0
+431,easy,236,flos,flos,118,00:02:05,125.0
+431,normal,294,flos,flos,118,00:02:05,125.0
+431,hard,543,flos,flos,118,00:02:05,125.0
+431,expert,694,flos,flos,118,00:02:05,125.0
+431,master,893,flos,flos,118,00:02:05,125.0
+432,easy,155,強風オールバック,Kyo-Fu All Back,135,00:02:17,137.0
+432,normal,361,強風オールバック,Kyo-Fu All Back,135,00:02:17,137.0
+432,hard,478,強風オールバック,Kyo-Fu All Back,135,00:02:17,137.0
+432,expert,714,強風オールバック,Kyo-Fu All Back,135,00:02:17,137.0
+432,master,955,強風オールバック,Kyo-Fu All Back,135,00:02:17,137.0
+433,easy,217,ヒアソビ,Play-With-Fire,134,00:02:12,132.0
+433,normal,382,ヒアソビ,Play-With-Fire,134,00:02:12,132.0
+433,hard,655,ヒアソビ,Play-With-Fire,134,00:02:12,132.0
+433,expert,1053,ヒアソビ,Play-With-Fire,134,00:02:12,132.0
+433,master,1116,ヒアソビ,Play-With-Fire,134,00:02:12,132.0
+434,easy,106,1000年生きてる,living millennium,100,00:01:48,108.0
+434,normal,236,1000年生きてる,living millennium,100,00:01:48,108.0
+434,hard,500,1000年生きてる,living millennium,100,00:01:48,108.0
+434,expert,673,1000年生きてる,living millennium,100,00:01:48,108.0
+434,master,757,1000年生きてる,living millennium,100,00:01:48,108.0
+435,easy,317,リレイアウター,Relayouter,23-151,00:02:33,153.0
+435,normal,440,リレイアウター,Relayouter,23-151,00:02:33,153.0
+435,hard,738,リレイアウター,Relayouter,23-151,00:02:33,153.0
+435,expert,960,リレイアウター,Relayouter,23-151,00:02:33,153.0
+435,master,1203,リレイアウター,Relayouter,23-151,00:02:33,153.0
+436,easy,174,古書屋敷殺人事件,Kosho Yashiki Satsujin Jiken,140,00:02:02,122.0
+436,normal,409,古書屋敷殺人事件,Kosho Yashiki Satsujin Jiken,140,00:02:02,122.0
+436,hard,615,古書屋敷殺人事件,Kosho Yashiki Satsujin Jiken,140,00:02:02,122.0
+436,expert,823,古書屋敷殺人事件,Kosho Yashiki Satsujin Jiken,140,00:02:02,122.0
+436,master,974,古書屋敷殺人事件,Kosho Yashiki Satsujin Jiken,140,00:02:02,122.0
+437,easy,189,え？あぁ、そう。,"E? Ah,sou.",192,00:01:50,110.0
+437,normal,378,え？あぁ、そう。,"E? Ah,sou.",192,00:01:50,110.0
+437,hard,521,え？あぁ、そう。,"E? Ah,sou.",192,00:01:50,110.0
+437,expert,838,え？あぁ、そう。,"E? Ah,sou.",192,00:01:50,110.0
+437,master,1028,え？あぁ、そう。,"E? Ah,sou.",192,00:01:50,110.0
+438,easy,237,ハイドアンド・シーク,Hide and Seek,138,00:02:05,125.0
+438,normal,321,ハイドアンド・シーク,Hide and Seek,138,00:02:05,125.0
+438,hard,532,ハイドアンド・シーク,Hide and Seek,138,00:02:05,125.0
+438,expert,764,ハイドアンド・シーク,Hide and Seek,138,00:02:05,125.0
+438,master,898,ハイドアンド・シーク,Hide and Seek,138,00:02:05,125.0
+439,easy,414,一千光年,KLY,192,00:01:56,116.0
+439,normal,410,一千光年,KLY,192,00:01:56,116.0
+439,hard,804,一千光年,KLY,192,00:01:56,116.0
+439,expert,941,一千光年,KLY,192,00:01:56,116.0
+439,master,1141,一千光年,KLY,192,00:01:56,116.0
+440,easy,395,ショウタイム×オーディエンス,Showtime×Audience,220,00:02:02,122.0
+440,normal,544,ショウタイム×オーディエンス,Showtime×Audience,220,00:02:02,122.0
+440,hard,756,ショウタイム×オーディエンス,Showtime×Audience,220,00:02:02,122.0
+440,expert,1091,ショウタイム×オーディエンス,Showtime×Audience,220,00:02:02,122.0
+440,master,1220,ショウタイム×オーディエンス,Showtime×Audience,220,00:02:02,122.0
+441,easy,163,酔いどれ知らず,Yoidore Shirazu,115,00:02:16,136.0
+441,normal,240,酔いどれ知らず,Yoidore Shirazu,115,00:02:16,136.0
+441,hard,612,酔いどれ知らず,Yoidore Shirazu,115,00:02:16,136.0
+441,expert,865,酔いどれ知らず,Yoidore Shirazu,115,00:02:16,136.0
+441,master,1048,酔いどれ知らず,Yoidore Shirazu,115,00:02:16,136.0
+442,easy,139,すれすれ,Suresure,86,00:01:37,97.0
+442,normal,169,すれすれ,Suresure,86,00:01:37,97.0
+442,hard,360,すれすれ,Suresure,86,00:01:37,97.0
+442,expert,521,すれすれ,Suresure,86,00:01:37,97.0
+442,master,595,すれすれ,Suresure,86,00:01:37,97.0
+443,easy,349,林檎売りの泡沫少女,The Transient Apple Salesgirl,225.2,00:02:09,129.0
+443,normal,428,林檎売りの泡沫少女,The Transient Apple Salesgirl,225.2,00:02:09,129.0
+443,hard,656,林檎売りの泡沫少女,The Transient Apple Salesgirl,225.2,00:02:09,129.0
+443,expert,1009,林檎売りの泡沫少女,The Transient Apple Salesgirl,225.2,00:02:09,129.0
+443,master,1048,林檎売りの泡沫少女,The Transient Apple Salesgirl,225.2,00:02:09,129.0
+444,easy,256,心泥夢(syndrome),syndrome,123,00:02:41,161.0
+444,normal,396,心泥夢(syndrome),syndrome,123,00:02:41,161.0
+444,hard,879,心泥夢(syndrome),syndrome,123,00:02:41,161.0
+444,expert,1221,心泥夢(syndrome),syndrome,123,00:02:41,161.0
+444,master,1383,心泥夢(syndrome),syndrome,123,00:02:41,161.0
+445,easy,191,Twilight Melody,Twilight Melody,165,00:02:16,136.0
+445,normal,493,Twilight Melody,Twilight Melody,165,00:02:16,136.0
+445,hard,734,Twilight Melody,Twilight Melody,165,00:02:16,136.0
+445,expert,943,Twilight Melody,Twilight Melody,165,00:02:16,136.0
+445,master,1128,Twilight Melody,Twilight Melody,165,00:02:16,136.0
+446,easy,231,オーバーコード,O-Barcode,120,00:02:40,160.0
+446,normal,369,オーバーコード,O-Barcode,120,00:02:40,160.0
+446,hard,707,オーバーコード,O-Barcode,120,00:02:40,160.0
+446,expert,1113,オーバーコード,O-Barcode,120,00:02:40,160.0
+446,master,1253,オーバーコード,O-Barcode,120,00:02:40,160.0
+447,easy,329,folern,folern,200,00:02:21,141.0
+447,normal,479,folern,folern,200,00:02:21,141.0
+447,hard,861,folern,folern,200,00:02:21,141.0
+447,expert,1392,folern,folern,200,00:02:21,141.0
+447,master,1486,folern,folern,200,00:02:21,141.0
+448,easy,408,Sage,Sage,145,00:02:30,150.0
+448,normal,595,Sage,Sage,145,00:02:30,150.0
+448,hard,956,Sage,Sage,145,00:02:30,150.0
+448,expert,1259,Sage,Sage,145,00:02:30,150.0
+448,master,1352,Sage,Sage,145,00:02:30,150.0
+449,easy,579,MarbleBlue.,MarbleBlue.,198,00:02:43,163.0
+449,normal,729,MarbleBlue.,MarbleBlue.,198,00:02:43,163.0
+449,hard,1109,MarbleBlue.,MarbleBlue.,198,00:02:43,163.0
+449,expert,1437,MarbleBlue.,MarbleBlue.,198,00:02:43,163.0
+449,master,1460,MarbleBlue.,MarbleBlue.,198,00:02:43,163.0
+450,easy,303,オペラ！スペースオペラ！,Opera! Space Opera!,198,00:02:06,126.0
+450,normal,478,オペラ！スペースオペラ！,Opera! Space Opera!,198,00:02:06,126.0
+450,hard,725,オペラ！スペースオペラ！,Opera! Space Opera!,198,00:02:06,126.0
+450,expert,986,オペラ！スペースオペラ！,Opera! Space Opera!,198,00:02:06,126.0
+450,master,1198,オペラ！スペースオペラ！,Opera! Space Opera!,198,00:02:06,126.0
+451,easy,194,熱異常,Heat abnormal,183,00:02:02,122.0
+451,normal,428,熱異常,Heat abnormal,183,00:02:02,122.0
+451,hard,696,熱異常,Heat abnormal,183,00:02:02,122.0
+451,expert,978,熱異常,Heat abnormal,183,00:02:02,122.0
+451,master,1197,熱異常,Heat abnormal,183,00:02:02,122.0
+452,easy,236,サイバーパンクデッドボーイ,CYBER PUNK DEAD BOY,157,00:02:02,122.0
+452,normal,370,サイバーパンクデッドボーイ,CYBER PUNK DEAD BOY,157,00:02:02,122.0
+452,hard,699,サイバーパンクデッドボーイ,CYBER PUNK DEAD BOY,157,00:02:02,122.0
+452,expert,917,サイバーパンクデッドボーイ,CYBER PUNK DEAD BOY,157,00:02:02,122.0
+452,master,1014,サイバーパンクデッドボーイ,CYBER PUNK DEAD BOY,157,00:02:02,122.0
+454,easy,198,えれくとりっく・えんじぇぅ,Electric Angel,150,00:02:06,126.0
+454,normal,417,えれくとりっく・えんじぇぅ,Electric Angel,150,00:02:06,126.0
+454,hard,663,えれくとりっく・えんじぇぅ,Electric Angel,150,00:02:06,126.0
+454,expert,927,えれくとりっく・えんじぇぅ,Electric Angel,150,00:02:06,126.0
+454,master,1176,えれくとりっく・えんじぇぅ,Electric Angel,150,00:02:06,126.0
+455,easy,141,ド屑,DOKUZU,115,00:02:00,120.0
+455,normal,229,ド屑,DOKUZU,115,00:02:00,120.0
+455,hard,597,ド屑,DOKUZU,115,00:02:00,120.0
+455,expert,844,ド屑,DOKUZU,115,00:02:00,120.0
+455,master,817,ド屑,DOKUZU,115,00:02:00,120.0
+456,easy,245,幾望の月,Kibou no tsuki,138,00:02:05,125.0
+456,normal,316,幾望の月,Kibou no tsuki,138,00:02:05,125.0
+456,hard,610,幾望の月,Kibou no tsuki,138,00:02:05,125.0
+456,expert,892,幾望の月,Kibou no tsuki,138,00:02:05,125.0
+456,master,998,幾望の月,Kibou no tsuki,138,00:02:05,125.0
+457,easy,193,Supernova,Supernova,105,00:02:10,130.0
+457,normal,281,Supernova,Supernova,105,00:02:10,130.0
+457,hard,504,Supernova,Supernova,105,00:02:10,130.0
+457,expert,750,Supernova,Supernova,105,00:02:10,130.0
+457,master,890,Supernova,Supernova,105,00:02:10,130.0
+458,easy,195,抜錨,Weigh anchor,140,00:02:05,125.0
+458,normal,317,抜錨,Weigh anchor,140,00:02:05,125.0
+458,hard,711,抜錨,Weigh anchor,140,00:02:05,125.0
+458,expert,831,抜錨,Weigh anchor,140,00:02:05,125.0
+458,master,954,抜錨,Weigh anchor,140,00:02:05,125.0
+460,easy,154,LEADER,LEADER,140,00:01:50,110.0
+460,normal,265,LEADER,LEADER,140,00:01:50,110.0
+460,hard,508,LEADER,LEADER,140,00:01:50,110.0
+460,expert,763,LEADER,LEADER,140,00:01:50,110.0
+460,master,940,LEADER,LEADER,140,00:01:50,110.0
+461,easy,279,おどロボ,Odorobo,145,00:02:44,164.0
+461,normal,452,おどロボ,Odorobo,145,00:02:44,164.0
+461,hard,885,おどロボ,Odorobo,145,00:02:44,164.0
+461,expert,1266,おどロボ,Odorobo,145,00:02:44,164.0
+461,master,1339,おどロボ,Odorobo,145,00:02:44,164.0
+462,easy,318,レッドランドマーカー,Red Land Marker,174,00:02:07,127.0
+462,normal,418,レッドランドマーカー,Red Land Marker,174,00:02:07,127.0
+462,hard,718,レッドランドマーカー,Red Land Marker,174,00:02:07,127.0
+462,expert,1018,レッドランドマーカー,Red Land Marker,174,00:02:07,127.0
+462,master,1105,レッドランドマーカー,Red Land Marker,174,00:02:07,127.0
+463,easy,178,ハッピーチートデー,Happy Cheat Day,124,00:02:03,123.0
+463,normal,266,ハッピーチートデー,Happy Cheat Day,124,00:02:03,123.0
+463,hard,507,ハッピーチートデー,Happy Cheat Day,124,00:02:03,123.0
+463,expert,645,ハッピーチートデー,Happy Cheat Day,124,00:02:03,123.0
+463,master,817,ハッピーチートデー,Happy Cheat Day,124,00:02:03,123.0
+464,easy,208,Intergalactic Bound,Intergalactic Bound,140,00:02:06,126.0
+464,normal,484,Intergalactic Bound,Intergalactic Bound,140,00:02:06,126.0
+464,hard,526,Intergalactic Bound,Intergalactic Bound,140,00:02:06,126.0
+464,expert,918,Intergalactic Bound,Intergalactic Bound,140,00:02:06,126.0
+464,master,996,Intergalactic Bound,Intergalactic Bound,140,00:02:06,126.0
+465,easy,441,嬢王,JOUOU,150-200,00:02:23,143.0
+465,normal,555,嬢王,JOUOU,150-200,00:02:23,143.0
+465,hard,994,嬢王,JOUOU,150-200,00:02:23,143.0
+465,expert,1266,嬢王,JOUOU,150-200,00:02:23,143.0
+465,master,1456,嬢王,JOUOU,150-200,00:02:23,143.0
+466,easy,192,ガーネットの涙,TEARS OF GARNET,139,00:01:59,119.0
+466,normal,304,ガーネットの涙,TEARS OF GARNET,139,00:01:59,119.0
+466,hard,504,ガーネットの涙,TEARS OF GARNET,139,00:01:59,119.0
+466,expert,774,ガーネットの涙,TEARS OF GARNET,139,00:01:59,119.0
+466,master,904,ガーネットの涙,TEARS OF GARNET,139,00:01:59,119.0
+467,easy,174,あいのうた,AI no UTA,139,00:02:03,123.0
+467,normal,308,あいのうた,AI no UTA,139,00:02:03,123.0
+467,hard,581,あいのうた,AI no UTA,139,00:02:03,123.0
+467,expert,950,あいのうた,AI no UTA,139,00:02:03,123.0
+467,master,1064,あいのうた,AI no UTA,139,00:02:03,123.0
+468,easy,308,十六歳の心臓,Teenager's Heartbeat,190,00:02:16,136.0
+468,normal,585,十六歳の心臓,Teenager's Heartbeat,190,00:02:16,136.0
+468,hard,797,十六歳の心臓,Teenager's Heartbeat,190,00:02:16,136.0
+468,expert,1162,十六歳の心臓,Teenager's Heartbeat,190,00:02:16,136.0
+468,master,1470,十六歳の心臓,Teenager's Heartbeat,190,00:02:16,136.0
+469,easy,196,ラグトレイン,Lagtrain,147,00:02:07,127.0
+469,normal,393,ラグトレイン,Lagtrain,147,00:02:07,127.0
+469,hard,503,ラグトレイン,Lagtrain,147,00:02:07,127.0
+469,expert,705,ラグトレイン,Lagtrain,147,00:02:07,127.0
+469,master,920,ラグトレイン,Lagtrain,147,00:02:07,127.0
+470,easy,139,ハジメテノオト,Hajimete no Oto,100,00:02:10,130.0
+470,normal,239,ハジメテノオト,Hajimete no Oto,100,00:02:10,130.0
+470,hard,339,ハジメテノオト,Hajimete no Oto,100,00:02:10,130.0
+470,expert,539,ハジメテノオト,Hajimete no Oto,100,00:02:10,130.0
+470,master,639,ハジメテノオト,Hajimete no Oto,100,00:02:10,130.0
+471,easy,134,ULTRA C,ULTRA C,128,00:01:37,97.0
+471,normal,238,ULTRA C,ULTRA C,128,00:01:37,97.0
+471,hard,500,ULTRA C,ULTRA C,128,00:01:37,97.0
+471,expert,651,ULTRA C,ULTRA C,128,00:01:37,97.0
+471,master,769,ULTRA C,ULTRA C,128,00:01:37,97.0
+472,easy,402,成敗いたAAAAAす！,SEIBAIITAAAAASU!,180,00:02:13,133.0
+472,normal,462,成敗いたAAAAAす！,SEIBAIITAAAAASU!,180,00:02:13,133.0
+472,hard,724,成敗いたAAAAAす！,SEIBAIITAAAAASU!,180,00:02:13,133.0
+472,expert,1022,成敗いたAAAAAす！,SEIBAIITAAAAASU!,180,00:02:13,133.0
+472,master,1199,成敗いたAAAAAす！,SEIBAIITAAAAASU!,180,00:02:13,133.0
+473,easy,254,マインドブランド,Mind Brand,156,00:02:05,125.0
+473,normal,336,マインドブランド,Mind Brand,156,00:02:05,125.0
+473,hard,678,マインドブランド,Mind Brand,156,00:02:05,125.0
+473,expert,764,マインドブランド,Mind Brand,156,00:02:05,125.0
+473,master,1023,マインドブランド,Mind Brand,156,00:02:05,125.0
+474,easy,286,キラー,KILLER,196,00:01:38,98.0
+474,normal,344,キラー,KILLER,196,00:01:38,98.0
+474,hard,628,キラー,KILLER,196,00:01:38,98.0
+474,expert,825,キラー,KILLER,196,00:01:38,98.0
+474,master,1013,キラー,KILLER,196,00:01:38,98.0
+475,easy,211,ちがう!!!,We Are Different !!! (or Same),181,00:01:58,118.0
+475,normal,355,ちがう!!!,We Are Different !!! (or Same),181,00:01:58,118.0
+475,hard,735,ちがう!!!,We Are Different !!! (or Same),181,00:01:58,118.0
+475,expert,930,ちがう!!!,We Are Different !!! (or Same),181,00:01:58,118.0
+475,master,1074,ちがう!!!,We Are Different !!! (or Same),181,00:01:58,118.0
+476,easy,128,Shadow Shadow,Shadow Shadow,135,00:02:09,129.0
+476,normal,306,Shadow Shadow,Shadow Shadow,135,00:02:09,129.0
+476,hard,422,Shadow Shadow,Shadow Shadow,135,00:02:09,129.0
+476,expert,601,Shadow Shadow,Shadow Shadow,135,00:02:09,129.0
+476,master,783,Shadow Shadow,Shadow Shadow,135,00:02:09,129.0
+477,easy,223,モザイクロール (Reloaded),Mozaik Role (Reloaded),148,00:02:04,124.0
+477,normal,417,モザイクロール (Reloaded),Mozaik Role (Reloaded),148,00:02:04,124.0
+477,hard,634,モザイクロール (Reloaded),Mozaik Role (Reloaded),148,00:02:04,124.0
+477,expert,871,モザイクロール (Reloaded),Mozaik Role (Reloaded),148,00:02:04,124.0
+477,master,876,モザイクロール (Reloaded),Mozaik Role (Reloaded),148,00:02:04,124.0
+478,easy,193,フューエル,FUEL,156,00:01:40,100.0
+478,normal,312,フューエル,FUEL,156,00:01:40,100.0
+478,hard,515,フューエル,FUEL,156,00:01:40,100.0
+478,expert,698,フューエル,FUEL,156,00:01:40,100.0
+478,master,930,フューエル,FUEL,156,00:01:40,100.0
+480,easy,262,おちゃめ機能,Mischievous Function,150,00:02:05,125.0
+480,normal,425,おちゃめ機能,Mischievous Function,150,00:02:05,125.0
+480,hard,656,おちゃめ機能,Mischievous Function,150,00:02:05,125.0
+480,expert,933,おちゃめ機能,Mischievous Function,150,00:02:05,125.0
+480,master,1171,おちゃめ機能,Mischievous Function,150,00:02:05,125.0
+481,easy,211,明鏡止水,Clear and Serene,150,00:02:03,123.0
+481,normal,331,明鏡止水,Clear and Serene,150,00:02:03,123.0
+481,hard,557,明鏡止水,Clear and Serene,150,00:02:03,123.0
+481,expert,728,明鏡止水,Clear and Serene,150,00:02:03,123.0
+481,master,938,明鏡止水,Clear and Serene,150,00:02:03,123.0
+482,easy,285,だめにんげんだ!,Dameningenda!,179,00:02:02,122.0
+482,normal,419,だめにんげんだ!,Dameningenda!,179,00:02:02,122.0
+482,hard,706,だめにんげんだ!,Dameningenda!,179,00:02:02,122.0
+482,expert,917,だめにんげんだ!,Dameningenda!,179,00:02:02,122.0
+482,master,976,だめにんげんだ!,Dameningenda!,179,00:02:02,122.0
+483,easy,157,アコトバ,A Word,125,00:02:10,130.0
+483,normal,291,アコトバ,A Word,125,00:02:10,130.0
+483,hard,475,アコトバ,A Word,125,00:02:10,130.0
+483,expert,664,アコトバ,A Word,125,00:02:10,130.0
+483,master,857,アコトバ,A Word,125,00:02:10,130.0
+484,easy,227,Henceforth,,158,00:02:06,126.0
+484,normal,366,Henceforth,,158,00:02:06,126.0
+484,hard,572,Henceforth,,158,00:02:06,126.0
+484,expert,916,Henceforth,,158,00:02:06,126.0
+484,master,1057,Henceforth,,158,00:02:06,126.0
+485,easy,196,だんだん早くなる,Getting Faster and Faster,88-160,00:02:21,141.0
+485,normal,419,だんだん早くなる,Getting Faster and Faster,88-160,00:02:21,141.0
+485,hard,521,だんだん早くなる,Getting Faster and Faster,88-160,00:02:21,141.0
+485,expert,851,だんだん早くなる,Getting Faster and Faster,88-160,00:02:21,141.0
+485,master,918,だんだん早くなる,Getting Faster and Faster,88-160,00:02:21,141.0
+486,easy,337,おぎゃりないざー,Ogyarinizer,140-310,00:02:07,127.0
+486,normal,501,おぎゃりないざー,Ogyarinizer,140-310,00:02:07,127.0
+486,hard,1054,おぎゃりないざー,Ogyarinizer,140-310,00:02:07,127.0
+486,expert,1387,おぎゃりないざー,Ogyarinizer,140-310,00:02:07,127.0
+486,master,1637,おぎゃりないざー,Ogyarinizer,140-310,00:02:07,127.0
+487,easy,474,ダイジョブですか？,ARE YOU OK?,155-254,00:02:07,127.0
+487,normal,530,ダイジョブですか？,ARE YOU OK?,155-254,00:02:07,127.0
+487,hard,1073,ダイジョブですか？,ARE YOU OK?,155-254,00:02:07,127.0
+487,expert,1495,ダイジョブですか？,ARE YOU OK?,155-254,00:02:07,127.0
+487,master,1674,ダイジョブですか？,ARE YOU OK?,155-254,00:02:07,127.0
+488,easy,579,メモリア,Memoria,205,00:02:40,160.0
+488,normal,778,メモリア,Memoria,205,00:02:40,160.0
+488,hard,1324,メモリア,Memoria,205,00:02:40,160.0
+488,expert,1637,メモリア,Memoria,205,00:02:40,160.0
+488,master,1771,メモリア,Memoria,205,00:02:40,160.0
+489,easy,329,熱風,hot wind,192,00:01:52,112.0
+489,normal,400,熱風,hot wind,192,00:01:52,112.0
+489,hard,674,熱風,hot wind,192,00:01:52,112.0
+489,expert,871,熱風,hot wind,192,00:01:52,112.0
+489,master,925,熱風,hot wind,192,00:01:52,112.0
+490,easy,214,ルーマー,,140,00:02:03,123.0
+490,normal,355,ルーマー,,140,00:02:03,123.0
+490,hard,561,ルーマー,,140,00:02:03,123.0
+490,expert,863,ルーマー,,140,00:02:03,123.0
+490,master,1015,ルーマー,,140,00:02:03,123.0
+491,easy,204,キャットラビング,Cat Loving,163,00:01:56,116.0
+491,normal,323,キャットラビング,Cat Loving,163,00:01:56,116.0
+491,hard,624,キャットラビング,Cat Loving,163,00:01:56,116.0
+491,expert,934,キャットラビング,Cat Loving,163,00:01:56,116.0
+491,master,1053,キャットラビング,Cat Loving,163,00:01:56,116.0
+492,easy,242,私は雨,I'm the Rain,144,00:02:05,125.0
+492,normal,289,私は雨,I'm the Rain,144,00:02:05,125.0
+492,hard,506,私は雨,I'm the Rain,144,00:02:05,125.0
+492,expert,823,私は雨,I'm the Rain,144,00:02:05,125.0
+492,master,918,私は雨,I'm the Rain,144,00:02:05,125.0
+493,easy,221,きょうもハレバレ,Kyou mo harebare,134,00:02:01,121.0
+493,normal,290,きょうもハレバレ,Kyou mo harebare,134,00:02:01,121.0
+493,hard,623,きょうもハレバレ,Kyou mo harebare,134,00:02:01,121.0
+493,expert,793,きょうもハレバレ,Kyou mo harebare,134,00:02:01,121.0
+493,master,1033,きょうもハレバレ,Kyou mo harebare,134,00:02:01,121.0
+494,easy,224,ポッピンキャンディ☆フィーバー！,Poppin' Candy☆Fever!,190,00:02:08,128.0
+494,normal,392,ポッピンキャンディ☆フィーバー！,Poppin' Candy☆Fever!,190,00:02:08,128.0
+494,hard,715,ポッピンキャンディ☆フィーバー！,Poppin' Candy☆Fever!,190,00:02:08,128.0
+494,expert,1140,ポッピンキャンディ☆フィーバー！,Poppin' Candy☆Fever!,190,00:02:08,128.0
+494,master,1323,ポッピンキャンディ☆フィーバー！,Poppin' Candy☆Fever!,190,00:02:08,128.0
+495,easy,172,スーパーヒーロー,Super Hero,132,00:01:55,115.0
+495,normal,338,スーパーヒーロー,Super Hero,132,00:01:55,115.0
+495,hard,728,スーパーヒーロー,Super Hero,132,00:01:55,115.0
+495,expert,904,スーパーヒーロー,Super Hero,132,00:01:55,115.0
+495,master,909,スーパーヒーロー,Super Hero,132,00:01:55,115.0
+496,easy,275,シルバーコレクター,Silver Collector,180,00:02:12,132.0
+496,normal,484,シルバーコレクター,Silver Collector,180,00:02:12,132.0
+496,hard,735,シルバーコレクター,Silver Collector,180,00:02:12,132.0
+496,expert,1113,シルバーコレクター,Silver Collector,180,00:02:12,132.0
+496,master,1178,シルバーコレクター,Silver Collector,180,00:02:12,132.0
+497,easy,305,烈火,Blazing,132,00:02:19,139.0
+497,normal,354,烈火,Blazing,132,00:02:19,139.0
+497,hard,574,烈火,Blazing,132,00:02:19,139.0
+497,expert,786,烈火,Blazing,132,00:02:19,139.0
+497,master,948,烈火,Blazing,132,00:02:19,139.0
+498,easy,206,はしる! とおく! とどく!,,182,00:01:48,108.0
+498,normal,369,はしる! とおく! とどく!,,182,00:01:48,108.0
+498,hard,538,はしる! とおく! とどく!,,182,00:01:48,108.0
+498,expert,742,はしる! とおく! とどく!,,182,00:01:48,108.0
+498,master,957,はしる! とおく! とどく!,,182,00:01:48,108.0
+499,easy,400,混沌ブギ,,190,00:02:04,124.0
+499,normal,507,混沌ブギ,,190,00:02:04,124.0
+499,hard,683,混沌ブギ,,190,00:02:04,124.0
+499,expert,962,混沌ブギ,,190,00:02:04,124.0
+499,master,1189,混沌ブギ,,190,00:02:04,124.0
+500,easy,152,余花にみとれて,Yokanimitorete,83,00:02:10,130.0
+500,normal,217,余花にみとれて,Yokanimitorete,83,00:02:10,130.0
+500,hard,389,余花にみとれて,Yokanimitorete,83,00:02:10,130.0
+500,expert,599,余花にみとれて,Yokanimitorete,83,00:02:10,130.0
+500,master,613,余花にみとれて,Yokanimitorete,83,00:02:10,130.0
+501,easy,250,Bad Apple!! feat.SEKAI,Bad Apple!! feat.SEKAI,138,00:02:26,146.0
+501,normal,477,Bad Apple!! feat.SEKAI,Bad Apple!! feat.SEKAI,138,00:02:26,146.0
+501,hard,679,Bad Apple!! feat.SEKAI,Bad Apple!! feat.SEKAI,138,00:02:26,146.0
+501,expert,883,Bad Apple!! feat.SEKAI,Bad Apple!! feat.SEKAI,138,00:02:26,146.0
+501,master,1181,Bad Apple!! feat.SEKAI,Bad Apple!! feat.SEKAI,138,00:02:26,146.0
+502,easy,295,"Help me, ERINNNNNN!!","Help me, ERINNNNNN!!",185,00:02:25,145.0
+502,normal,517,"Help me, ERINNNNNN!!","Help me, ERINNNNNN!!",185,00:02:25,145.0
+502,hard,994,"Help me, ERINNNNNN!!","Help me, ERINNNNNN!!",185,00:02:25,145.0
+502,expert,1168,"Help me, ERINNNNNN!!","Help me, ERINNNNNN!!",185,00:02:25,145.0
+502,master,1318,"Help me, ERINNNNNN!!","Help me, ERINNNNNN!!",185,00:02:25,145.0
+503,easy,401,超最終鬼畜妹フランドール・Ｓ,Chou Saishuu Kichiku Imouto Flandre S,210,00:02:03,123.0
+503,normal,448,超最終鬼畜妹フランドール・Ｓ,Chou Saishuu Kichiku Imouto Flandre S,210,00:02:03,123.0
+503,hard,857,超最終鬼畜妹フランドール・Ｓ,Chou Saishuu Kichiku Imouto Flandre S,210,00:02:03,123.0
+503,expert,1175,超最終鬼畜妹フランドール・Ｓ,Chou Saishuu Kichiku Imouto Flandre S,210,00:02:03,123.0
+503,master,1270,超最終鬼畜妹フランドール・Ｓ,Chou Saishuu Kichiku Imouto Flandre S,210,00:02:03,123.0
+504,easy,180,I know 愛脳.,I know I know.,150,00:02:01,121.0
+504,normal,385,I know 愛脳.,I know I know.,150,00:02:01,121.0
+504,hard,749,I know 愛脳.,I know I know.,150,00:02:01,121.0
+504,expert,1016,I know 愛脳.,I know I know.,150,00:02:01,121.0
+504,master,1119,I know 愛脳.,I know I know.,150,00:02:01,121.0
+505,easy,162,コールボーイ,Call Boy,109,00:02:04,124.0
+505,normal,279,コールボーイ,Call Boy,109,00:02:04,124.0
+505,hard,461,コールボーイ,Call Boy,109,00:02:04,124.0
+505,expert,809,コールボーイ,Call Boy,109,00:02:04,124.0
+505,master,836,コールボーイ,Call Boy,109,00:02:04,124.0
+506,easy,239,QUEEN,QUEEN,170,00:02:23,143.0
+506,normal,521,QUEEN,QUEEN,170,00:02:23,143.0
+506,hard,776,QUEEN,QUEEN,170,00:02:23,143.0
+506,expert,1164,QUEEN,QUEEN,170,00:02:23,143.0
+506,master,1385,QUEEN,QUEEN,170,00:02:23,143.0
+507,easy,181,エンパープル,Empurple,136,00:02:05,125.0
+507,normal,288,エンパープル,Empurple,136,00:02:05,125.0
+507,hard,549,エンパープル,Empurple,136,00:02:05,125.0
+507,expert,813,エンパープル,Empurple,136,00:02:05,125.0
+507,master,877,エンパープル,Empurple,136,00:02:05,125.0
+508,easy,234,ヘイヴン,,144,00:01:56,116.0
+508,normal,312,ヘイヴン,,144,00:01:56,116.0
+508,hard,595,ヘイヴン,,144,00:01:56,116.0
+508,expert,875,ヘイヴン,,144,00:01:56,116.0
+508,master,977,ヘイヴン,,144,00:01:56,116.0
+509,easy,260,ライアーダンサー,,170,00:02:03,123.0
+509,normal,337,ライアーダンサー,,170,00:02:03,123.0
+509,hard,678,ライアーダンサー,,170,00:02:03,123.0
+509,expert,892,ライアーダンサー,,170,00:02:03,123.0
+509,master,1224,ライアーダンサー,,170,00:02:03,123.0
+510,easy,176,失敗作少女,,120,00:02:05,125.0
+510,normal,222,失敗作少女,,120,00:02:05,125.0
+510,hard,596,失敗作少女,,120,00:02:05,125.0
+510,expert,805,失敗作少女,,120,00:02:05,125.0
+510,master,986,失敗作少女,,120,00:02:05,125.0
+511,easy,214,如月アテンション,KISARAGI ATTENTION,190,00:01:58,118.0
+511,normal,455,如月アテンション,KISARAGI ATTENTION,190,00:01:58,118.0
+511,hard,755,如月アテンション,KISARAGI ATTENTION,190,00:01:58,118.0
+511,expert,855,如月アテンション,KISARAGI ATTENTION,190,00:01:58,118.0
+511,master,1155,如月アテンション,KISARAGI ATTENTION,190,00:01:58,118.0
+512,easy,367,合成するミライ,Synthesize You,170,00:02:15,135.0
+512,normal,467,合成するミライ,Synthesize You,170,00:02:15,135.0
+512,hard,764,合成するミライ,Synthesize You,170,00:02:15,135.0
+512,expert,969,合成するミライ,Synthesize You,170,00:02:15,135.0
+512,master,1094,合成するミライ,Synthesize You,170,00:02:15,135.0
+513,easy,158,CH4NGE,,115,00:02:15,135.0
+513,normal,300,CH4NGE,,115,00:02:15,135.0
+513,hard,417,CH4NGE,,115,00:02:15,135.0
+513,expert,789,CH4NGE,,115,00:02:15,135.0
+513,master,1101,CH4NGE,,115,00:02:15,135.0
+515,easy,284,イガク,Medicine,170,00:02:00,120.0
+515,normal,497,イガク,Medicine,170,00:02:00,120.0
+515,hard,648,イガク,Medicine,170,00:02:00,120.0
+515,expert,892,イガク,Medicine,170,00:02:00,120.0
+515,master,1226,イガク,Medicine,170,00:02:00,120.0
+516,easy,166,あちこちデートさん,Achikochi Date-san,46-107,00:02:02,122.0
+516,normal,221,あちこちデートさん,Achikochi Date-san,46-107,00:02:02,122.0
+516,hard,433,あちこちデートさん,Achikochi Date-san,46-107,00:02:02,122.0
+516,expert,693,あちこちデートさん,Achikochi Date-san,46-107,00:02:02,122.0
+516,master,829,あちこちデートさん,Achikochi Date-san,46-107,00:02:02,122.0
+517,easy,218,メリーゴーラウンド,merry-go-round,116,00:02:18,138.0
+517,normal,375,メリーゴーラウンド,merry-go-round,116,00:02:18,138.0
+517,hard,609,メリーゴーラウンド,merry-go-round,116,00:02:18,138.0
+517,expert,874,メリーゴーラウンド,merry-go-round,116,00:02:18,138.0
+517,master,1024,メリーゴーラウンド,merry-go-round,116,00:02:18,138.0
+518,easy,303,みかぼし,Star of Heaven,188,00:02:11,131.0
+518,normal,435,みかぼし,Star of Heaven,188,00:02:11,131.0
+518,hard,771,みかぼし,Star of Heaven,188,00:02:11,131.0
+518,expert,984,みかぼし,Star of Heaven,188,00:02:11,131.0
+518,master,1114,みかぼし,Star of Heaven,188,00:02:11,131.0
+519,easy,176,夏夜ノ唄,Natsuyo No Uta,103,00:02:02,122.0
+519,normal,321,夏夜ノ唄,Natsuyo No Uta,103,00:02:02,122.0
+519,hard,388,夏夜ノ唄,Natsuyo No Uta,103,00:02:02,122.0
+519,expert,695,夏夜ノ唄,Natsuyo No Uta,103,00:02:02,122.0
+519,master,787,夏夜ノ唄,Natsuyo No Uta,103,00:02:02,122.0
+520,easy,274,透明エレジー,,220,00:02:03,123.0
+520,normal,349,透明エレジー,,220,00:02:03,123.0
+520,hard,633,透明エレジー,,220,00:02:03,123.0
+520,expert,848,透明エレジー,,220,00:02:03,123.0
+520,master,1058,透明エレジー,,220,00:02:03,123.0
+521,easy,247,オーバーライド,,204,00:02:00,120.0
+521,normal,369,オーバーライド,,204,00:02:00,120.0
+521,hard,700,オーバーライド,,204,00:02:00,120.0
+521,expert,1004,オーバーライド,,204,00:02:00,120.0
+521,master,1265,オーバーライド,,204,00:02:00,120.0
+522,easy,174,WAVE,WAVE,130,00:01:57,117.0
+522,normal,244,WAVE,WAVE,130,00:01:57,117.0
+522,hard,497,WAVE,WAVE,130,00:01:57,117.0
+522,expert,794,WAVE,WAVE,130,00:01:57,117.0
+522,master,837,WAVE,WAVE,130,00:01:57,117.0
+523,easy,307,きみとぼくのレゾナンス,Resonance Between You and Me.,130-160,00:02:12,132.0
+523,normal,407,きみとぼくのレゾナンス,Resonance Between You and Me.,130-160,00:02:12,132.0
+523,hard,591,きみとぼくのレゾナンス,Resonance Between You and Me.,130-160,00:02:12,132.0
+523,expert,896,きみとぼくのレゾナンス,Resonance Between You and Me.,130-160,00:02:12,132.0
+523,master,1115,きみとぼくのレゾナンス,Resonance Between You and Me.,130-160,00:02:12,132.0
+524,easy,171,それでも僕らは歌うことをやめない,"Still, we never stop singing",182,00:01:38,98.0
+524,normal,300,それでも僕らは歌うことをやめない,"Still, we never stop singing",182,00:01:38,98.0
+524,hard,609,それでも僕らは歌うことをやめない,"Still, we never stop singing",182,00:01:38,98.0
+524,expert,705,それでも僕らは歌うことをやめない,"Still, we never stop singing",182,00:01:38,98.0
+524,master,814,それでも僕らは歌うことをやめない,"Still, we never stop singing",182,00:01:38,98.0
+525,easy,239,アンテナ39,Antenna 39,147,00:02:05,125.0
+525,normal,439,アンテナ39,Antenna 39,147,00:02:05,125.0
+525,hard,639,アンテナ39,Antenna 39,147,00:02:05,125.0
+525,expert,1039,アンテナ39,Antenna 39,147,00:02:05,125.0
+525,master,1139,アンテナ39,Antenna 39,147,00:02:05,125.0
+526,easy,137,彗星ノ銀河,Comet Galaxy,85,00:02:04,124.0
+526,normal,189,彗星ノ銀河,Comet Galaxy,85,00:02:04,124.0
+526,hard,469,彗星ノ銀河,Comet Galaxy,85,00:02:04,124.0
+526,expert,688,彗星ノ銀河,Comet Galaxy,85,00:02:04,124.0
+526,master,699,彗星ノ銀河,Comet Galaxy,85,00:02:04,124.0
+527,easy,156,Unpoison,Unpoison,119,00:02:02,122.0
+527,normal,275,Unpoison,Unpoison,119,00:02:02,122.0
+527,hard,553,Unpoison,Unpoison,119,00:02:02,122.0
+527,expert,714,Unpoison,Unpoison,119,00:02:02,122.0
+527,master,897,Unpoison,Unpoison,119,00:02:02,122.0
+529,easy,169,カルチャ,culture,172,00:01:49,109.0
+529,normal,327,カルチャ,culture,172,00:01:49,109.0
+529,hard,512,カルチャ,culture,172,00:01:49,109.0
+529,expert,797,カルチャ,culture,172,00:01:49,109.0
+529,master,1037,カルチャ,culture,172,00:01:49,109.0
+530,easy,274,キャットフード,Cat Food,174,00:02:02,122.0
+530,normal,427,キャットフード,Cat Food,174,00:02:02,122.0
+530,hard,602,キャットフード,Cat Food,174,00:02:02,122.0
+530,expert,895,キャットフード,Cat Food,174,00:02:02,122.0
+530,master,1107,キャットフード,Cat Food,174,00:02:02,122.0
+531,easy,271,メズマライザー,Mesmerizer,185,00:02:06,126.0
+531,normal,440,メズマライザー,Mesmerizer,185,00:02:06,126.0
+531,hard,761,メズマライザー,Mesmerizer,185,00:02:06,126.0
+531,expert,1218,メズマライザー,Mesmerizer,185,00:02:06,126.0
+531,master,1451,メズマライザー,Mesmerizer,185,00:02:06,126.0
+532,easy,112,レイヤーノート,Layer Note,78,00:02:08,128.0
+532,normal,213,レイヤーノート,Layer Note,78,00:02:08,128.0
+532,hard,391,レイヤーノート,Layer Note,78,00:02:08,128.0
+532,expert,563,レイヤーノート,Layer Note,78,00:02:08,128.0
+532,master,679,レイヤーノート,Layer Note,78,00:02:08,128.0
+533,easy,208,転生林檎,Reincarnation Apple,145,00:01:53,113.0
+533,normal,307,転生林檎,Reincarnation Apple,145,00:01:53,113.0
+533,hard,641,転生林檎,Reincarnation Apple,145,00:01:53,113.0
+533,expert,851,転生林檎,Reincarnation Apple,145,00:01:53,113.0
+533,master,879,転生林檎,Reincarnation Apple,145,00:01:53,113.0
+534,easy,356,ワールド・ランプシェード [reunion],,193,00:02:09,129.0
+534,normal,512,ワールド・ランプシェード [reunion],,193,00:02:09,129.0
+534,hard,724,ワールド・ランプシェード [reunion],,193,00:02:09,129.0
+534,expert,895,ワールド・ランプシェード [reunion],,193,00:02:09,129.0
+534,master,1155,ワールド・ランプシェード [reunion],,193,00:02:09,129.0
+536,easy,238,Fire◎Flower (Rerec),,153-175,00:01:44,104.0
+536,normal,403,Fire◎Flower (Rerec),,153-175,00:01:44,104.0
+536,hard,568,Fire◎Flower (Rerec),,153-175,00:01:44,104.0
+536,expert,734,Fire◎Flower (Rerec),,153-175,00:01:44,104.0
+536,master,863,Fire◎Flower (Rerec),,153-175,00:01:44,104.0
+537,easy,194,花に風,,148,00:02:08,128.0
+537,normal,289,花に風,,148,00:02:08,128.0
+537,hard,625,花に風,,148,00:02:08,128.0
+537,expert,755,花に風,,148,00:02:08,128.0
+537,master,960,花に風,,148,00:02:08,128.0
+538,easy,222,オールセーブチャレンジ,,171,00:01:36,96.0
+538,normal,347,オールセーブチャレンジ,,171,00:01:36,96.0
+538,hard,630,オールセーブチャレンジ,,171,00:01:36,96.0
+538,expert,795,オールセーブチャレンジ,,171,00:01:36,96.0
+538,master,918,オールセーブチャレンジ,,171,00:01:36,96.0
+539,easy,172,イレヴンス,,128,00:01:38,98.0
+539,normal,235,イレヴンス,,128,00:01:38,98.0
+539,hard,419,イレヴンス,,128,00:01:38,98.0
+539,expert,677,イレヴンス,,128,00:01:38,98.0
+539,master,699,イレヴンス,,128,00:01:38,98.0
+540,easy,128,虚無さん,,115,00:01:34,94.0
+540,normal,251,虚無さん,,115,00:01:34,94.0
+540,hard,526,虚無さん,,115,00:01:34,94.0
+540,expert,650,虚無さん,,115,00:01:34,94.0
+540,master,899,虚無さん,,115,00:01:34,94.0
+541,easy,322,メインキャラクター,Main Character,192,00:01:55,115.0
+541,normal,388,メインキャラクター,Main Character,192,00:01:55,115.0
+541,hard,655,メインキャラクター,Main Character,192,00:01:55,115.0
+541,expert,951,メインキャラクター,Main Character,192,00:01:55,115.0
+541,master,1043,メインキャラクター,Main Character,192,00:01:55,115.0
+542,easy,221,Blackjack,Blackjack,114,00:02:10,130.0
+542,normal,321,Blackjack,Blackjack,114,00:02:10,130.0
+542,hard,621,Blackjack,Blackjack,114,00:02:10,130.0
+542,expert,921,Blackjack,Blackjack,114,00:02:10,130.0
+542,master,1021,Blackjack,Blackjack,114,00:02:10,130.0
+543,easy,461,生命性シンドロウム,Birthright Syndrome,225-270,00:02:13,133.0
+543,normal,617,生命性シンドロウム,Birthright Syndrome,225-270,00:02:13,133.0
+543,hard,871,生命性シンドロウム,Birthright Syndrome,225-270,00:02:13,133.0
+543,expert,1299,生命性シンドロウム,Birthright Syndrome,225-270,00:02:13,133.0
+543,master,1493,生命性シンドロウム,Birthright Syndrome,225-270,00:02:13,133.0
+544,easy,312,妄想アスパルテーム,mousou aspartame,170,00:01:59,119.0
+544,normal,410,妄想アスパルテーム,mousou aspartame,170,00:01:59,119.0
+544,hard,577,妄想アスパルテーム,mousou aspartame,170,00:01:59,119.0
+544,expert,828,妄想アスパルテーム,mousou aspartame,170,00:01:59,119.0
+544,master,1134,妄想アスパルテーム,mousou aspartame,170,00:01:59,119.0
+545,easy,239,脳天,Noten,144,00:01:56,116.0
+545,normal,297,脳天,Noten,144,00:01:56,116.0
+545,hard,489,脳天,Noten,144,00:01:56,116.0
+545,expert,901,脳天,Noten,144,00:01:56,116.0
+545,master,975,脳天,Noten,144,00:01:56,116.0
+546,easy,263,その音が鳴るなら,Sono Oto ga Narunara,213,00:01:50,110.0
+546,normal,382,その音が鳴るなら,Sono Oto ga Narunara,213,00:01:50,110.0
+546,hard,686,その音が鳴るなら,Sono Oto ga Narunara,213,00:01:50,110.0
+546,expert,952,その音が鳴るなら,Sono Oto ga Narunara,213,00:01:50,110.0
+546,master,958,その音が鳴るなら,Sono Oto ga Narunara,213,00:01:50,110.0
+547,easy,147,終焉逃避行,,147,00:01:40,100.0
+547,normal,278,終焉逃避行,,147,00:01:40,100.0
+547,hard,522,終焉逃避行,,147,00:01:40,100.0
+547,expert,721,終焉逃避行,,147,00:01:40,100.0
+547,master,816,終焉逃避行,,147,00:01:40,100.0
+548,easy,230,ぼくのかみさま,Bokuno Kamisama,140,00:02:04,124.0
+548,normal,350,ぼくのかみさま,Bokuno Kamisama,140,00:02:04,124.0
+548,hard,486,ぼくのかみさま,Bokuno Kamisama,140,00:02:04,124.0
+548,expert,792,ぼくのかみさま,Bokuno Kamisama,140,00:02:04,124.0
+548,master,876,ぼくのかみさま,Bokuno Kamisama,140,00:02:04,124.0
+549,easy,282,化けの花,BAKENOHANA,180,00:01:58,118.0
+549,normal,346,化けの花,BAKENOHANA,180,00:01:58,118.0
+549,hard,579,化けの花,BAKENOHANA,180,00:01:58,118.0
+549,expert,875,化けの花,BAKENOHANA,180,00:01:58,118.0
+549,master,1003,化けの花,BAKENOHANA,180,00:01:58,118.0
+551,easy,249,ロストアンブレラ,,137,00:02:02,122.0
+551,normal,280,ロストアンブレラ,,137,00:02:02,122.0
+551,hard,629,ロストアンブレラ,,137,00:02:02,122.0
+551,expert,804,ロストアンブレラ,,137,00:02:02,122.0
+551,master,926,ロストアンブレラ,,137,00:02:02,122.0
+552,easy,396,M@GICAL☆CURE! LOVE ♥ SHOT!,M@GICAL☆CURE! LOVE ♥ SHOT!,192,00:02:09,129.0
+552,normal,581,M@GICAL☆CURE! LOVE ♥ SHOT!,M@GICAL☆CURE! LOVE ♥ SHOT!,192,00:02:09,129.0
+552,hard,828,M@GICAL☆CURE! LOVE ♥ SHOT!,M@GICAL☆CURE! LOVE ♥ SHOT!,192,00:02:09,129.0
+552,expert,980,M@GICAL☆CURE! LOVE ♥ SHOT!,M@GICAL☆CURE! LOVE ♥ SHOT!,192,00:02:09,129.0
+552,master,1215,M@GICAL☆CURE! LOVE ♥ SHOT!,M@GICAL☆CURE! LOVE ♥ SHOT!,192,00:02:09,129.0
+553,easy,212,パリィ,Parry,140,00:02:04,124.0
+553,normal,293,パリィ,Parry,140,00:02:04,124.0
+553,hard,689,パリィ,Parry,140,00:02:04,124.0
+553,expert,963,パリィ,Parry,140,00:02:04,124.0
+553,master,1024,パリィ,Parry,140,00:02:04,124.0
+554,easy,248,snooze,,150,00:02:07,127.0
+554,normal,416,snooze,,150,00:02:07,127.0
+554,hard,798,snooze,,150,00:02:07,127.0
+554,expert,961,snooze,,150,00:02:07,127.0
+554,master,1142,snooze,,150,00:02:07,127.0
+555,easy,297,フュージョン,Fusion,188,00:02:04,124.0
+555,normal,436,フュージョン,Fusion,188,00:02:04,124.0
+555,hard,808,フュージョン,Fusion,188,00:02:04,124.0
+555,expert,1056,フュージョン,Fusion,188,00:02:04,124.0
+555,master,1184,フュージョン,Fusion,188,00:02:04,124.0
+556,easy,190,サイハテ,,146,00:02:10,130.0
+556,normal,465,サイハテ,,146,00:02:10,130.0
+556,hard,675,サイハテ,,146,00:02:10,130.0
+556,expert,840,サイハテ,,146,00:02:10,130.0
+556,master,999,サイハテ,,146,00:02:10,130.0
+557,easy,145,花溺れ,,128,00:02:06,126.0
+557,normal,231,花溺れ,,128,00:02:06,126.0
+557,hard,520,花溺れ,,128,00:02:06,126.0
+557,expert,780,花溺れ,,128,00:02:06,126.0
+557,master,895,花溺れ,,128,00:02:06,126.0
+558,easy,229,のだ,,142,00:02:01,121.0
+558,normal,377,のだ,,142,00:02:01,121.0
+558,hard,592,のだ,,142,00:02:01,121.0
+558,expert,918,のだ,,142,00:02:01,121.0
+558,master,927,のだ,,142,00:02:01,121.0
+559,easy,245,おどりゃんせ,,172,00:02:11,131.0
+559,normal,437,おどりゃんせ,,172,00:02:11,131.0
+559,hard,732,おどりゃんせ,,172,00:02:11,131.0
+559,expert,1100,おどりゃんせ,,172,00:02:11,131.0
+559,master,1303,おどりゃんせ,,172,00:02:11,131.0
+560,easy,157,アイリッド,,124,00:02:02,122.0
+560,normal,250,アイリッド,,124,00:02:02,122.0
+560,hard,572,アイリッド,,124,00:02:02,122.0
+560,expert,813,アイリッド,,124,00:02:02,122.0
+560,master,960,アイリッド,,124,00:02:02,122.0
+561,easy,227,プロトディスコ,,140,00:02:09,129.0
+561,normal,317,プロトディスコ,,140,00:02:09,129.0
+561,hard,562,プロトディスコ,,140,00:02:09,129.0
+561,expert,913,プロトディスコ,,140,00:02:09,129.0
+561,master,1057,プロトディスコ,,140,00:02:09,129.0
+562,easy,291,アンヘル,,184,00:02:05,125.0
+562,normal,382,アンヘル,,184,00:02:05,125.0
+562,hard,652,アンヘル,,184,00:02:05,125.0
+562,expert,917,アンヘル,,184,00:02:05,125.0
+562,master,1187,アンヘル,,184,00:02:05,125.0
+564,easy,227,そこに在る、光。,The Light That Dwells Here,132,00:01:37,97.0
+564,normal,228,そこに在る、光。,The Light That Dwells Here,132,00:01:37,97.0
+564,hard,301,そこに在る、光。,The Light That Dwells Here,132,00:01:37,97.0
+564,expert,403,そこに在る、光。,The Light That Dwells Here,132,00:01:37,97.0
+564,master,408,そこに在る、光。,The Light That Dwells Here,132,00:01:37,97.0
+565,easy,151,夏に透明,,128,00:02:01,121.0
+565,normal,288,夏に透明,,128,00:02:01,121.0
+565,hard,553,夏に透明,,128,00:02:01,121.0
+565,expert,691,夏に透明,,128,00:02:01,121.0
+565,master,788,夏に透明,,128,00:02:01,121.0
+566,easy,204,パンダヒーロー,,190,00:01:40,100.0
+566,normal,317,パンダヒーロー,,190,00:01:40,100.0
+566,hard,738,パンダヒーロー,,190,00:01:40,100.0
+566,expert,820,パンダヒーロー,,190,00:01:40,100.0
+566,master,1003,パンダヒーロー,,190,00:01:40,100.0
+567,easy,330,結ンデ開イテ羅刹ト骸,,169.33,00:02:10,130.0
+567,normal,502,結ンデ開イテ羅刹ト骸,,169.33,00:02:10,130.0
+567,hard,656,結ンデ開イテ羅刹ト骸,,169.33,00:02:10,130.0
+567,expert,826,結ンデ開イテ羅刹ト骸,,169.33,00:02:10,130.0
+567,master,903,結ンデ開イテ羅刹ト骸,,169.33,00:02:10,130.0
+569,easy,262,シークレット・シーカー,,180,00:01:54,114.0
+569,normal,474,シークレット・シーカー,,180,00:01:54,114.0
+569,hard,672,シークレット・シーカー,,180,00:01:54,114.0
+569,expert,894,シークレット・シーカー,,180,00:01:54,114.0
+569,master,1019,シークレット・シーカー,,180,00:01:54,114.0
+570,easy,148,スター,,143,00:01:51,111.0
+570,normal,296,スター,,143,00:01:51,111.0
+570,hard,567,スター,,143,00:01:51,111.0
+570,expert,799,スター,,143,00:01:51,111.0
+570,master,889,スター,,143,00:01:51,111.0
+571,easy,220,偽物人間40号,,112,00:02:07,127.0
+571,normal,307,偽物人間40号,,112,00:02:07,127.0
+571,hard,454,偽物人間40号,,112,00:02:07,127.0
+571,expert,775,偽物人間40号,,112,00:02:07,127.0
+571,master,823,偽物人間40号,,112,00:02:07,127.0
+572,easy,122,飾って,,90,00:02:06,126.0
+572,normal,199,飾って,,90,00:02:06,126.0
+572,hard,349,飾って,,90,00:02:06,126.0
+572,expert,515,飾って,,90,00:02:06,126.0
+572,master,520,飾って,,90,00:02:06,126.0
+573,easy,357,はじまりの未来,The Future of Beginning,156,00:02:14,134.0
+573,normal,439,はじまりの未来,The Future of Beginning,156,00:02:14,134.0
+573,hard,758,はじまりの未来,The Future of Beginning,156,00:02:14,134.0
+573,expert,972,はじまりの未来,The Future of Beginning,156,00:02:14,134.0
+573,master,1111,はじまりの未来,The Future of Beginning,156,00:02:14,134.0
+574,easy,246,SToRY,SToRY,192,00:01:37,97.0
+574,normal,334,SToRY,SToRY,192,00:01:37,97.0
+574,hard,557,SToRY,SToRY,192,00:01:37,97.0
+574,expert,705,SToRY,SToRY,192,00:01:37,97.0
+574,master,784,SToRY,SToRY,192,00:01:37,97.0
+575,easy,155,FUN!!,FUN!!,186,00:01:35,95.0
+575,normal,322,FUN!!,FUN!!,186,00:01:35,95.0
+575,hard,476,FUN!!,FUN!!,186,00:01:35,95.0
+575,expert,622,FUN!!,FUN!!,186,00:01:35,95.0
+575,master,744,FUN!!,FUN!!,186,00:01:35,95.0
+576,easy,136,ファイアダンス,Fire Dance,140,00:01:32,92.0
+576,normal,252,ファイアダンス,Fire Dance,140,00:01:32,92.0
+576,hard,483,ファイアダンス,Fire Dance,140,00:01:32,92.0
+576,expert,606,ファイアダンス,Fire Dance,140,00:01:32,92.0
+576,master,680,ファイアダンス,Fire Dance,140,00:01:32,92.0
+577,easy,121,スマイル*シンフォニー,Smile Symphony,122,00:01:34,94.0
+577,normal,216,スマイル*シンフォニー,Smile Symphony,122,00:01:34,94.0
+577,hard,360,スマイル*シンフォニー,Smile Symphony,122,00:01:34,94.0
+577,expert,594,スマイル*シンフォニー,Smile Symphony,122,00:01:34,94.0
+577,master,667,スマイル*シンフォニー,Smile Symphony,122,00:01:34,94.0
+578,easy,187,ハローセカイ,"Hello, SEKAI",148-152,00:01:45,105.0
+578,normal,320,ハローセカイ,"Hello, SEKAI",148-152,00:01:45,105.0
+578,hard,451,ハローセカイ,"Hello, SEKAI",148-152,00:01:45,105.0
+578,expert,621,ハローセカイ,"Hello, SEKAI",148-152,00:01:45,105.0
+578,master,759,ハローセカイ,"Hello, SEKAI",148-152,00:01:45,105.0
+579,easy,246,Worlders,Worlders,137.5,00:02:13,133.0
+579,normal,329,Worlders,Worlders,137.5,00:02:13,133.0
+579,hard,794,Worlders,Worlders,137.5,00:02:13,133.0
+579,expert,924,Worlders,Worlders,137.5,00:02:13,133.0
+579,master,1060,Worlders,Worlders,137.5,00:02:13,133.0
+580,easy,186,三日月ステップ,,167,00:02:02,122.0
+580,normal,325,三日月ステップ,,167,00:02:02,122.0
+580,hard,547,三日月ステップ,,167,00:02:02,122.0
+580,expert,891,三日月ステップ,,167,00:02:02,122.0
+580,master,969,三日月ステップ,,167,00:02:02,122.0
+581,easy,284,厨病激発ボーイ,,180-190,00:02:11,131.0
+581,normal,438,厨病激発ボーイ,,180-190,00:02:11,131.0
+581,hard,730,厨病激発ボーイ,,180-190,00:02:11,131.0
+581,expert,1118,厨病激発ボーイ,,180-190,00:02:11,131.0
+581,master,1355,厨病激発ボーイ,,180-190,00:02:11,131.0
+582,easy,192,アンチユー,,129,00:01:59,119.0
+582,normal,247,アンチユー,,129,00:01:59,119.0
+582,hard,453,アンチユー,,129,00:01:59,119.0
+582,expert,610,アンチユー,,129,00:01:59,119.0
+582,master,820,アンチユー,,129,00:01:59,119.0
+583,easy,150,アクセラレイト,,170,00:01:42,102.0
+583,normal,321,アクセラレイト,,170,00:01:42,102.0
+583,hard,637,アクセラレイト,,170,00:01:42,102.0
+583,expert,810,アクセラレイト,,170,00:01:42,102.0
+583,master,917,アクセラレイト,,170,00:01:42,102.0
+585,easy,260,ペンタトニック,,161,00:01:46,106.0
+585,normal,289,ペンタトニック,,161,00:01:46,106.0
+585,hard,503,ペンタトニック,,161,00:01:46,106.0
+585,expert,733,ペンタトニック,,161,00:01:46,106.0
+585,master,1103,ペンタトニック,,161,00:01:46,106.0
+587,easy,271,ルルブ,,200,00:02:05,125.0
+587,normal,480,ルルブ,,200,00:02:05,125.0
+587,hard,850,ルルブ,,200,00:02:05,125.0
+587,expert,1143,ルルブ,,200,00:02:05,125.0
+587,master,1296,ルルブ,,200,00:02:05,125.0
+588,easy,385,プラネットヒーロー,,200,00:02:01,121.0
+588,normal,519,プラネットヒーロー,,200,00:02:01,121.0
+588,hard,893,プラネットヒーロー,,200,00:02:01,121.0
+588,expert,1128,プラネットヒーロー,,200,00:02:01,121.0
+588,master,1467,プラネットヒーロー,,200,00:02:01,121.0
+589,easy,196,バレリーコ,,150,00:02:09,129.0
+589,normal,471,バレリーコ,,150,00:02:09,129.0
+589,hard,711,バレリーコ,,150,00:02:09,129.0
+589,expert,965,バレリーコ,,150,00:02:09,129.0
+589,master,1115,バレリーコ,,150,00:02:09,129.0
+590,easy,255,マンハッタン,,140,00:02:11,131.0
+590,normal,463,マンハッタン,,140,00:02:11,131.0
+590,hard,709,マンハッタン,,140,00:02:11,131.0
+590,expert,901,マンハッタン,,140,00:02:11,131.0
+590,master,1247,マンハッタン,,140,00:02:11,131.0
+591,easy,282,吉原ラメント 再来盤,,192,00:02:16,136.0
+591,normal,498,吉原ラメント 再来盤,,192,00:02:16,136.0
+591,hard,862,吉原ラメント 再来盤,,192,00:02:16,136.0
+591,expert,1135,吉原ラメント 再来盤,,192,00:02:16,136.0
+591,master,1108,吉原ラメント 再来盤,,192,00:02:16,136.0
+592,easy,385,クイーンオブハート,,235,00:02:04,124.0
+592,normal,582,クイーンオブハート,,235,00:02:04,124.0
+592,hard,875,クイーンオブハート,,235,00:02:04,124.0
+592,expert,1189,クイーンオブハート,,235,00:02:04,124.0
+592,master,1212,クイーンオブハート,,235,00:02:04,124.0
+593,easy,249,クリスタルスノウ,CrystalSnow,135,00:01:45,105.0
+593,normal,278,クリスタルスノウ,CrystalSnow,135,00:01:45,105.0
+593,hard,507,クリスタルスノウ,CrystalSnow,135,00:01:45,105.0
+593,expert,694,クリスタルスノウ,CrystalSnow,135,00:01:45,105.0
+593,master,773,クリスタルスノウ,CrystalSnow,135,00:01:45,105.0
+594,easy,115,Call!!,,108,00:01:42,102.0
+594,normal,260,Call!!,,108,00:01:42,102.0
+594,hard,413,Call!!,,108,00:01:42,102.0
+594,expert,549,Call!!,,108,00:01:42,102.0
+594,master,765,Call!!,,108,00:01:42,102.0
+595,easy,222,エンヴィキャットウォーク,,160-190,00:02:12,132.0
+595,normal,363,エンヴィキャットウォーク,,160-190,00:02:12,132.0
+595,hard,806,エンヴィキャットウォーク,,160-190,00:02:12,132.0
+595,expert,932,エンヴィキャットウォーク,,160-190,00:02:12,132.0
+595,master,1222,エンヴィキャットウォーク,,160-190,00:02:12,132.0
+596,easy,310,D/N/A,,150,00:02:09,129.0
+596,normal,417,D/N/A,,150,00:02:09,129.0
+596,hard,740,D/N/A,,150,00:02:09,129.0
+596,expert,913,D/N/A,,150,00:02:09,129.0
+596,master,1276,D/N/A,,150,00:02:09,129.0
+597,easy,118,その絵の名前は,,86,00:02:05,125.0
+597,normal,232,その絵の名前は,,86,00:02:05,125.0
+597,hard,377,その絵の名前は,,86,00:02:05,125.0
+597,expert,514,その絵の名前は,,86,00:02:05,125.0
+597,master,555,その絵の名前は,,86,00:02:05,125.0
+601,easy,206,ルマ,,154,00:02:08,128.0
+601,normal,368,ルマ,,154,00:02:08,128.0
+601,hard,577,ルマ,,154,00:02:08,128.0
+601,expert,899,ルマ,,154,00:02:08,128.0
+601,master,1143,ルマ,,154,00:02:08,128.0
+603,easy,189,ドレミファロンド,,125,00:02:10,130.0
+603,normal,331,ドレミファロンド,,125,00:02:10,130.0
+603,hard,543,ドレミファロンド,,125,00:02:10,130.0
+603,expert,690,ドレミファロンド,,125,00:02:10,130.0
+603,master,961,ドレミファロンド,,125,00:02:10,130.0
+604,easy,239,Packaged,,125,00:02:09,129.0
+604,normal,439,Packaged,,125,00:02:09,129.0
+604,hard,539,Packaged,,125,00:02:09,129.0
+604,expert,739,Packaged,,125,00:02:09,129.0
+604,master,839,Packaged,,125,00:02:09,129.0
+605,easy,272,Sympathy,,184,00:01:37,97.0
+605,normal,349,Sympathy,,184,00:01:37,97.0
+605,hard,582,Sympathy,,184,00:01:37,97.0
+605,expert,723,Sympathy,,184,00:01:37,97.0
+605,master,860,Sympathy,,184,00:01:37,97.0
+606,easy,284,スーサイドパレヱド,,176,00:01:55,115.0
+606,normal,336,スーサイドパレヱド,,176,00:01:55,115.0
+606,hard,615,スーサイドパレヱド,,176,00:01:55,115.0
+606,expert,918,スーサイドパレヱド,,176,00:01:55,115.0
+606,master,1063,スーサイドパレヱド,,176,00:01:55,115.0
+607,easy,181,回る空うさぎ,,120,00:02:12,132.0
+607,normal,274,回る空うさぎ,,120,00:02:12,132.0
+607,hard,402,回る空うさぎ,,120,00:02:12,132.0
+607,expert,607,回る空うさぎ,,120,00:02:12,132.0
+607,master,607,回る空うさぎ,,120,00:02:12,132.0
+608,easy,356,星宙メランコリア,,196,00:02:03,123.0
+608,normal,632,星宙メランコリア,,196,00:02:03,123.0
+608,hard,647,星宙メランコリア,,196,00:02:03,123.0
+608,expert,1004,星宙メランコリア,,196,00:02:03,123.0
+608,master,1166,星宙メランコリア,,196,00:02:03,123.0
+619,easy,186,Connecting,,91,00:02:02,122.0
+619,normal,279,Connecting,,91,00:02:02,122.0
+619,hard,482,Connecting,,91,00:02:02,122.0
+619,expert,616,Connecting,,91,00:02:02,122.0
+619,master,792,Connecting,,91,00:02:02,122.0
+620,easy,275,紗痲,,160,00:02:10,130.0
+620,normal,360,紗痲,,160,00:02:10,130.0
+620,hard,761,紗痲,,160,00:02:10,130.0
+620,expert,1088,紗痲,,160,00:02:10,130.0
+620,master,1192,紗痲,,160,00:02:10,130.0
+621,easy,290,東京サマーセッション,,160,00:02:12,132.0
+621,normal,399,東京サマーセッション,,160,00:02:12,132.0
+621,hard,781,東京サマーセッション,,160,00:02:12,132.0
+621,expert,892,東京サマーセッション,,160,00:02:12,132.0
+621,master,1073,東京サマーセッション,,160,00:02:12,132.0
+622,easy,383,超ナイト・オブ・ナイツ,,193,00:02:11,131.0
+622,normal,446,超ナイト・オブ・ナイツ,,193,00:02:11,131.0
+622,hard,813,超ナイト・オブ・ナイツ,,193,00:02:11,131.0
+622,expert,1201,超ナイト・オブ・ナイツ,,193,00:02:11,131.0
+622,master,1403,超ナイト・オブ・ナイツ,,193,00:02:11,131.0
+623,easy,265,とうほう☆ワンダーランド,,200,00:01:52,112.0
+623,normal,345,とうほう☆ワンダーランド,,200,00:01:52,112.0
+623,hard,552,とうほう☆ワンダーランド,,200,00:01:52,112.0
+623,expert,806,とうほう☆ワンダーランド,,200,00:01:52,112.0
+623,master,1086,とうほう☆ワンダーランド,,200,00:01:52,112.0
+624,easy,199,チルノのパーフェクトさんすう学園,,179,00:02:07,127.0
+624,normal,399,チルノのパーフェクトさんすう学園,,179,00:02:07,127.0
+624,hard,699,チルノのパーフェクトさんすう学園,,179,00:02:07,127.0
+624,expert,999,チルノのパーフェクトさんすう学園,,179,00:02:07,127.0
+624,master,1199,チルノのパーフェクトさんすう学園,,179,00:02:07,127.0
+625,easy,236,このふざけた素晴らしき世界は、僕の為にある,,152,00:02:03,123.0
+625,normal,397,このふざけた素晴らしき世界は、僕の為にある,,152,00:02:03,123.0
+625,hard,721,このふざけた素晴らしき世界は、僕の為にある,,152,00:02:03,123.0
+625,expert,946,このふざけた素晴らしき世界は、僕の為にある,,152,00:02:03,123.0
+625,master,1093,このふざけた素晴らしき世界は、僕の為にある,,152,00:02:03,123.0
+626,easy,202,フィッシュアンドTips,,160,00:02:03,123.0
+626,normal,415,フィッシュアンドTips,,160,00:02:03,123.0
+626,hard,603,フィッシュアンドTips,,160,00:02:03,123.0
+626,expert,833,フィッシュアンドTips,,160,00:02:03,123.0
+626,master,1052,フィッシュアンドTips,,160,00:02:03,123.0
+627,easy,169,テトリス,,170,00:01:34,94.0
+627,normal,288,テトリス,,170,00:01:34,94.0
+627,hard,481,テトリス,,170,00:01:34,94.0
+627,expert,653,テトリス,,170,00:01:34,94.0
+627,master,814,テトリス,,170,00:01:34,94.0
+628,easy,223,モニタリング,,132,00:02:13,133.0
+628,normal,342,モニタリング,,132,00:02:13,133.0
+628,hard,738,モニタリング,,132,00:02:13,133.0
+628,expert,901,モニタリング,,132,00:02:13,133.0
+628,master,973,モニタリング,,132,00:02:13,133.0
+629,easy,188,8.32,,110,00:02:01,121.0
+629,normal,337,8.32,,110,00:02:01,121.0
+629,hard,476,8.32,,110,00:02:01,121.0
+629,expert,659,8.32,,110,00:02:01,121.0
+629,master,832,8.32,,110,00:02:01,121.0
+632,easy,206,Surges,,137,00:02:14,134.0
+632,normal,289,Surges,,137,00:02:14,134.0
+632,hard,535,Surges,,137,00:02:14,134.0
+632,expert,950,Surges,,137,00:02:14,134.0
+632,master,1043,Surges,,137,00:02:14,134.0
+633,easy,435,庭師のおはなしによると,,198-317,00:01:57,117.0
+633,normal,543,庭師のおはなしによると,,198-317,00:01:57,117.0
+633,hard,827,庭師のおはなしによると,,198-317,00:01:57,117.0
+633,expert,1121,庭師のおはなしによると,,198-317,00:01:57,117.0
+633,master,1185,庭師のおはなしによると,,198-317,00:01:57,117.0
+634,easy,154,光線歌,,144,00:01:59,119.0
+634,normal,302,光線歌,,144,00:01:59,119.0
+634,hard,460,光線歌,,144,00:01:59,119.0
+634,expert,700,光線歌,,144,00:01:59,119.0
+634,master,889,光線歌,,144,00:01:59,119.0
+635,easy,178,ありのままのストーリーを,,181,00:01:48,108.0
+635,normal,295,ありのままのストーリーを,,181,00:01:48,108.0
+635,hard,795,ありのままのストーリーを,,181,00:01:48,108.0
+635,expert,892,ありのままのストーリーを,,181,00:01:48,108.0
+635,master,938,ありのままのストーリーを,,181,00:01:48,108.0
+636,easy,283,エクスプロウル,,164,00:02:04,124.0
+636,normal,367,エクスプロウル,,164,00:02:04,124.0
+636,hard,762,エクスプロウル,,164,00:02:04,124.0
+636,expert,1024,エクスプロウル,,164,00:02:04,124.0
+636,master,1102,エクスプロウル,,164,00:02:04,124.0
+637,easy,332,笑えたらえーやん！,,174,00:02:04,124.0
+637,normal,365,笑えたらえーやん！,,174,00:02:04,124.0
+637,hard,542,笑えたらえーやん！,,174,00:02:04,124.0
+637,expert,878,笑えたらえーやん！,,174,00:02:04,124.0
+637,master,1090,笑えたらえーやん！,,174,00:02:04,124.0
+638,easy,215,花弁、それにまつわる音声,,108,00:02:11,131.0
+638,normal,286,花弁、それにまつわる音声,,108,00:02:11,131.0
+638,hard,529,花弁、それにまつわる音声,,108,00:02:11,131.0
+638,expert,883,花弁、それにまつわる音声,,108,00:02:11,131.0
+638,master,952,花弁、それにまつわる音声,,108,00:02:11,131.0
+639,easy,124,マリオネットダンサー,,112,00:02:07,127.0
+639,normal,301,マリオネットダンサー,,112,00:02:07,127.0
+639,hard,553,マリオネットダンサー,,112,00:02:07,127.0
+639,expert,860,マリオネットダンサー,,112,00:02:07,127.0
+639,master,1030,マリオネットダンサー,,112,00:02:07,127.0
+644,easy,181,生きる,,112,00:01:41,101.0
+644,normal,165,生きる,,112,00:01:41,101.0
+644,hard,379,生きる,,112,00:01:41,101.0
+644,expert,536,生きる,,112,00:01:41,101.0
+644,master,704,生きる,,112,00:01:41,101.0
+645,easy,312,深海シティアンダーグラウンド,,170,00:02:09,129.0
+645,normal,365,深海シティアンダーグラウンド,,170,00:02:09,129.0
+645,hard,556,深海シティアンダーグラウンド,,170,00:02:09,129.0
+645,expert,872,深海シティアンダーグラウンド,,170,00:02:09,129.0
+645,master,1162,深海シティアンダーグラウンド,,170,00:02:09,129.0
+646,easy,280,透明なパレット,,210,00:01:50,110.0
+646,normal,467,透明なパレット,,210,00:01:50,110.0
+646,hard,703,透明なパレット,,210,00:01:50,110.0
+646,expert,852,透明なパレット,,210,00:01:50,110.0
+646,master,1027,透明なパレット,,210,00:01:50,110.0
+647,easy,393,SAN値直葬,,168,00:02:29,149.0
+647,normal,536,SAN値直葬,,168,00:02:29,149.0
+647,hard,857,SAN値直葬,,168,00:02:29,149.0
+647,expert,1365,SAN値直葬,,168,00:02:29,149.0
+647,master,1821,SAN値直葬,,168,00:02:29,149.0
+648,easy,292,Life Will Change,Life Will Change,145,00:02:06,126.0
+648,normal,364,Life Will Change,Life Will Change,145,00:02:06,126.0
+648,hard,636,Life Will Change,Life Will Change,145,00:02:06,126.0
+648,expert,973,Life Will Change,Life Will Change,145,00:02:06,126.0
+648,master,1118,Life Will Change,Life Will Change,145,00:02:06,126.0
+649,easy,137,サヨナラ天国また来て地獄,,113,00:01:49,109.0
+649,normal,267,サヨナラ天国また来て地獄,,113,00:01:49,109.0
+649,hard,430,サヨナラ天国また来て地獄,,113,00:01:49,109.0
+649,expert,723,サヨナラ天国また来て地獄,,113,00:01:49,109.0
+649,master,864,サヨナラ天国また来て地獄,,113,00:01:49,109.0
+650,easy,204,あの夏が飽和する。,,90,00:02:06,126.0
+650,normal,249,あの夏が飽和する。,,90,00:02:06,126.0
+650,hard,497,あの夏が飽和する。,,90,00:02:06,126.0
+650,expert,626,あの夏が飽和する。,,90,00:02:06,126.0
+650,master,789,あの夏が飽和する。,,90,00:02:06,126.0
+651,easy,235,ホワイトハッピー,,160,00:02:07,127.0
+651,normal,371,ホワイトハッピー,,160,00:02:07,127.0
+651,hard,617,ホワイトハッピー,,160,00:02:07,127.0
+651,expert,939,ホワイトハッピー,,160,00:02:07,127.0
+651,master,1044,ホワイトハッピー,,160,00:02:07,127.0
+652,easy,260,カレシのジュード,,165,00:02:15,135.0
+652,normal,411,カレシのジュード,,165,00:02:15,135.0
+652,hard,659,カレシのジュード,,165,00:02:15,135.0
+652,expert,1184,カレシのジュード,,165,00:02:15,135.0
+652,master,1271,カレシのジュード,,165,00:02:15,135.0
+653,easy,246,パメラ,,148,00:02:13,133.0
+653,normal,320,パメラ,,148,00:02:13,133.0
+653,hard,571,パメラ,,148,00:02:13,133.0
+653,expert,877,パメラ,,148,00:02:13,133.0
+653,master,1039,パメラ,,148,00:02:13,133.0
+654,easy,306,ラストラス,Lustrous,148,00:02:13,133.0
+654,normal,443,ラストラス,Lustrous,148,00:02:13,133.0
+654,hard,628,ラストラス,Lustrous,148,00:02:13,133.0
+654,expert,769,ラストラス,Lustrous,148,00:02:13,133.0
+654,master,1331,ラストラス,Lustrous,148,00:02:13,133.0
+655,easy,272,リリィララ,,130,00:02:03,123.0
+655,normal,335,リリィララ,,130,00:02:03,123.0
+655,hard,607,リリィララ,,130,00:02:03,123.0
+655,expert,810,リリィララ,,130,00:02:03,123.0
+655,master,903,リリィララ,,130,00:02:03,123.0
+656,easy,265,ブラッドドール,,150,00:02:02,122.0
+656,normal,370,ブラッドドール,,150,00:02:02,122.0
+656,hard,581,ブラッドドール,,150,00:02:02,122.0
+656,expert,795,ブラッドドール,,150,00:02:02,122.0
+656,master,1058,ブラッドドール,,150,00:02:02,122.0
+659,easy,190,あなたの空が泣くのなら,,88,00:02:07,127.0
+659,normal,275,あなたの空が泣くのなら,,88,00:02:07,127.0
+659,hard,355,あなたの空が泣くのなら,,88,00:02:07,127.0
+659,expert,478,あなたの空が泣くのなら,,88,00:02:07,127.0
+659,master,682,あなたの空が泣くのなら,,88,00:02:07,127.0
+663,easy,377,ヴィーナス,,192,00:02:13,133.0
+663,normal,478,ヴィーナス,,192,00:02:13,133.0
+663,hard,779,ヴィーナス,,192,00:02:13,133.0
+663,expert,1124,ヴィーナス,,192,00:02:13,133.0
+663,master,1266,ヴィーナス,,192,00:02:13,133.0
+664,easy,272,人マニア,,150,00:02:09,129.0
+664,normal,427,人マニア,,150,00:02:09,129.0
+664,hard,686,人マニア,,150,00:02:09,129.0
+664,expert,1000,人マニア,,150,00:02:09,129.0
+664,master,1049,人マニア,,150,00:02:09,129.0
+665,easy,258,ロケットサイダー,,198,00:02:12,132.0
+665,normal,499,ロケットサイダー,,198,00:02:12,132.0
+665,hard,698,ロケットサイダー,,198,00:02:12,132.0
+665,expert,1110,ロケットサイダー,,198,00:02:12,132.0
+665,master,1350,ロケットサイダー,,198,00:02:12,132.0
+666,easy,558,少女A,,260,00:02:15,135.0
+666,normal,656,少女A,,260,00:02:15,135.0
+666,hard,951,少女A,,260,00:02:15,135.0
+666,expert,1265,少女A,,260,00:02:15,135.0
+666,master,1312,少女A,,260,00:02:15,135.0
+667,easy,145,㋰責任集合体,,135,00:02:01,121.0
+667,normal,313,㋰責任集合体,,135,00:02:01,121.0
+667,hard,552,㋰責任集合体,,135,00:02:01,121.0
+667,expert,762,㋰責任集合体,,135,00:02:01,121.0
+667,master,937,㋰責任集合体,,135,00:02:01,121.0
+668,easy,385,ネクラチューンサーカス,,164-254,00:02:06,126.0
+668,normal,644,ネクラチューンサーカス,,164-254,00:02:06,126.0
+668,hard,1032,ネクラチューンサーカス,,164-254,00:02:06,126.0
+668,expert,1380,ネクラチューンサーカス,,164-254,00:02:06,126.0
+668,master,1913,ネクラチューンサーカス,,164-254,00:02:06,126.0
+669,easy,237,げんてん,,160,00:02:11,131.0
+669,normal,327,げんてん,,160,00:02:11,131.0
+669,hard,752,げんてん,,160,00:02:11,131.0
+669,expert,1021,げんてん,,160,00:02:11,131.0
+669,master,1138,げんてん,,160,00:02:11,131.0
+672,easy,327,ハウトゥー世界征服,,151,00:02:01,121.0
+672,normal,354,ハウトゥー世界征服,,151,00:02:01,121.0
+672,hard,704,ハウトゥー世界征服,,151,00:02:01,121.0
+672,expert,803,ハウトゥー世界征服,,151,00:02:01,121.0
+672,master,935,ハウトゥー世界征服,,151,00:02:01,121.0
+674,master,3638,MASTER高難易度楽曲メドレー,,,,
+675,append,5197,プロセカULTIMATE楽曲メドレー,,,,
+676,append,4181,周年記念高難易度書き下ろし楽曲メドレー,,,,
+677,easy,310,アベリア,,183,00:02:00,120.0
+677,normal,488,アベリア,,183,00:02:00,120.0
+677,hard,710,アベリア,,183,00:02:00,120.0
+677,expert,865,アベリア,,183,00:02:00,120.0
+677,master,1238,アベリア,,183,00:02:00,120.0
+678,easy,186,金時計,,,,
+678,normal,289,金時計,,,,
+678,hard,566,金時計,,,,
+678,expert,747,金時計,,,,
+678,master,830,金時計,,,,
+1,append,1353,Tell Your World,Tell Your World,150,00:02:03,123.0
+6,append,1351,ヒバナ -Reloaded-,HIBANA -Reloaded-,200,00:01:35,95.0
+64,append,1553,ステラ,Stella,197,00:02:13,133.0
+99,append,1518,モア！ジャンプ！モア！,MORE! JUMP! MORE!,202,00:02:03,123.0
+213,append,1433,ヴァンパイア,The Vampire,164,00:02:21,141.0
+126,append,992,シネマ,Cinema,124,00:01:46,106.0
+291,append,1744,フェレス,Pheles,220,00:02:19,139.0
+127,append,1631,トンデモワンダーズ,Tondemo-Wonderz,172-180,00:02:04,124.0
+134,append,1159,テレキャスタービーボーイ,Telecaster b boy,182,00:01:38,98.0
+304,append,1572,Iなんです,I am you,92.5 (185),00:01:46,106.0
+272,append,1633,ジェヘナ,Gehenna,128,00:02:33,153.0
+366,append,1365,NEO,NEO,190,00:02:06,126.0
+128,append,1894,Brand New Day,Brand New Day,185,00:02:11,131.0
+116,append,1216,アイディスマイル,IDSMILE,171,00:02:15,135.0
+172,append,832,Happy Halloween,Happy Halloween,120,00:02:03,123.0
+95,append,1269,威風堂々,Ifuudoudou,130,00:02:25,145.0
+93,append,1446,青く駆けろ！,Aoku Kakero!,190,00:02:01,121.0
+52,append,703,potatoになっていく,Becoming Potatoes,116,00:01:47,107.0
+439,append,1496,一千光年,KLY,192,00:01:56,116.0
+19,append,1000,シャルル,Charles,145,00:01:44,104.0
+447,append,1794,folern,folern,200,00:02:21,141.0
+448,append,1812,Sage,Sage,145,00:02:30,150.0
+449,append,2500,MarbleBlue.,MarbleBlue.,198,00:02:43,163.0
+154,append,1643,地球最後の告白を,Chikyuu Saigo no Kokuhaku wo,140-190,00:02:08,128.0
+253,append,1352,DAYBREAK FRONTLINE,DAYBREAK FRONTLINE,136,00:02:19,139.0
+188,append,1318,心予報,Heart Forecast,143,00:02:13,133.0
+469,append,1038,ラグトレイン,Lagtrain,147,00:02:07,127.0
+423,append,1268,レグルス,Regulus,146,00:02:07,127.0
+465,append,1972,嬢王,JOUOU,150-200,00:02:23,143.0
+124,append,1039,みくみくにしてあげる♪【してやんよ】,Mikumiku Ni Shiteageru [Shiteyanyo],160,00:01:41,101.0
+198,append,1233,グッバイ宣言,Goodbye Declaration,170,00:02:06,126.0
+150,append,997,トキヲ・ファンカ,TOKIO FUNKA,96-120,00:01:47,107.0
+441,append,1120,酔いどれ知らず,Yoidore Shirazu,115,00:02:16,136.0
+396,append,2024,東京テディベア,Tokyo Teddy Bear,204,00:02:15,135.0
+310,append,1396,Flyway,Flyway,190,00:02:09,129.0
+89,append,1028,Color of Drops,Color of Drops,152,00:01:54,114.0
+486,append,2050,おぎゃりないざー,Ogyarinizer,140-310,00:02:07,127.0
+44,append,1020,Hand in Hand,Hand in Hand,128,00:02:03,123.0
+138,append,1388,KING,KING,166,00:02:15,135.0
+501,append,1328,Bad Apple!! feat.SEKAI,Bad Apple!! feat.SEKAI,138,00:02:26,146.0
+502,append,1564,"Help me, ERINNNNNN!!","Help me, ERINNNNNN!!",185,00:02:25,145.0
+503,append,1914,超最終鬼畜妹フランドール・Ｓ,Chou Saishuu Kichiku Imouto Flandre S,210,00:02:03,123.0
+156,append,852,Beat Eater,Beat Eater,137,00:01:39,99.0
+450,append,1403,オペラ！スペースオペラ！,Opera! Space Opera!,198,00:02:06,126.0
+187,append,1045,ロウワー,Lower one's eyes,132,00:01:47,107.0
+244,append,1049,Awake Now,Awake Now,117,00:02:01,121.0
+457,append,1016,Supernova,Supernova,105,00:02:10,130.0
+375,append,1035,星を繋ぐ,Hoshi wo Tsunagu,174,00:01:36,96.0
+507,append,1126,エンパープル,Empurple,136,00:02:05,125.0
+151,append,1070,泡沫未来,The Bubble Future,179,00:01:44,104.0
+120,append,1212,いかないで,Do not go,191,00:01:55,115.0
+487,append,2555,ダイジョブですか？,ARE YOU OK?,155-254,00:02:07,127.0
+266,append,1249,YY,YY,123,00:02:24,144.0
+41,append,1126,スイートマジック,Sweet Magic,123,00:02:29,149.0
+169,append,1300,少女レイ,Shoujo Rei,150,00:02:39,159.0
+474,append,1267,キラー,KILLER,196,00:01:38,98.0
+171,append,1915,カゲロウデイズ,Kagerou Daze,200,00:02:23,143.0
+224,append,1388,88☆彡,88☆彡,175,00:02:07,127.0
+248,append,1490,バグ,bug,186,00:02:08,128.0
+174,append,1015,いーあるふぁんくらぶ,"1,2, FanClub",145,00:02:05,125.0
+339,append,855,glow,glow,85,00:02:38,158.0
+489,append,1207,熱風,hot wind,192,00:01:52,112.0
+182,append,1189,Flyer!,Flyer!,188,00:02:03,123.0
+488,append,2117,メモリア,Memoria,205,00:02:40,160.0
+193,append,817,ワールドワイドワンダー,Worldwide Wander,142,00:01:37,97.0
+543,append,2357,生命性シンドロウム,Birthright Syndrome,225-270,00:02:13,133.0
+194,append,1092,妄想感傷代償連盟,DSCF,110,00:02:21,141.0
+76,append,945,セカイ,SEKAI,133,00:01:52,112.0
+548,append,989,ぼくのかみさま,Bokuno Kamisama,140,00:02:04,124.0
+105,append,1054,ワンスアポンアドリーム,once upon a dream,132,00:01:52,112.0
+558,append,1346,のだ,,142,00:02:01,121.0
+280,append,1233,虚ろを扇ぐ,Hollow,124,00:02:36,156.0
+499,append,1615,混沌ブギ,,190,00:02:04,124.0
+554,append,1429,snooze,,150,00:02:07,127.0
+149,append,1020,カナデトモスソラ,Kanadetomosusora,158,00:01:54,114.0
+562,append,1503,アンヘル,,184,00:02:05,125.0
+10,append,1205,ハッピーシンセサイザ,Happy Synthesizer,127,00:02:13,133.0
+561,append,1404,プロトディスコ,,140,00:02:09,129.0
+2,append,1040,ロキ,ROKI,150,00:01:47,107.0
+227,append,1406,ONESELF,ONESELF,160-170,00:02:09,129.0
+267,append,1328,仮死化,Kashika,184,00:02:12,132.0
+132,append,1001,「１」,「1」,145-150,00:01:38,98.0
+141,append,1254,群青讃歌,Gunjo Sanka,168,00:01:39,99.0
+220,append,1792,ドーナツホール 2024,DONUT HOLE,252,00:02:18,138.0
+77,append,1170,ワーワーワールド,Wah Wah World,160,00:01:49,109.0
+555,append,1555,フュージョン,Fusion,188,00:02:04,124.0
+100,append,1102,ECHO,ECHO,140,00:01:39,99.0
+211,append,1270,イフ,IF,135,00:02:10,130.0
+292,append,791,いちにのさんで,Ichi Ni no San de,83,00:02:42,162.0
+605,append,1043,Sympathy,,184,00:01:37,97.0
+606,append,1493,スーサイドパレヱド,,176,00:01:55,115.0
+69,append,999,フラジール,Fragile,127,00:02:04,124.0
+160,append,1163,ショウタイム・ルーラー,Showtime Ruler,204,00:01:48,108.0
+398,append,1017,Beyond the way,Beyond the way,125,00:01:56,116.0
+101,append,1335,RAD DOGS,RAD DOGS,140,00:02:20,140.0
+622,append,1782,超ナイト・オブ・ナイツ,,193,00:02:11,131.0
+623,append,1488,とうほう☆ワンダーランド,,200,00:01:52,112.0
+624,append,1599,チルノのパーフェクトさんすう学園,,179,00:02:07,127.0
+411,append,1210,世界を照らすテトラッド,Tonal Twinkle Tetrad,155,00:01:57,117.0
+424,append,1357,インテグラル,Integral,192,00:01:57,117.0
+94,append,1226,とても痛い痛がりたい,Totemoitai Itagaritai,140,00:01:53,113.0
+384,append,754,トワイライトライト,Twilight Light,88,00:01:46,106.0
+627,append,938,テトリス,,170,00:01:34,94.0
+257,append,1450,てらてら,SHOW OFF,190,00:02:15,135.0
+635,append,1178,ありのままのストーリーを,,181,00:01:48,108.0
+644,append,1131,生きる,,112,00:01:41,101.0
+256,append,1207,ダブルラリアット,Double Lariat,138,00:02:22,142.0
+405,append,1225,MOTTO!!!,MOTTO!!!,130,00:02:23,143.0
+583,append,1126,アクセラレイト,,170,00:01:42,102.0
+324,append,1220,箱庭のコラル,Coral,138,00:02:09,129.0
+647,append,2060,SAN値直葬,,168,00:02:29,149.0
+368,append,1245,アイムマイン,I'm Mine,135,00:02:36,156.0
+45,append,1039,39みゅーじっく！,39Music!,130,00:01:59,119.0
+311,append,717,夜明けと蛍,Dawn and Fireflies,80,00:02:25,145.0
+235,append,1765,Journey,Journey,128,00:02:46,166.0
+668,append,2173,ネクラチューンサーカス,,164-254,00:02:06,126.0
+585,append,1288,ペンタトニック,,161,00:01:46,106.0
+189,append,531,ノマド,Nomad,90,00:01:31,91.0

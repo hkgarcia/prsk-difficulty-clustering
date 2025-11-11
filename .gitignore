@@ -1,0 +1,22 @@
+# # Python .gitignore template based on CptS 483 Projects
+
+# # ============================================
+# # Python
+# # ============================================
+# # Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.pytest_cache
+
+# Exclude environment variables and data exports
+.env
+.env.*
+datasets/
+outputs/
+
+# Virtual environments
+venv/
+.venv/
+
+# Tools
+tools/
