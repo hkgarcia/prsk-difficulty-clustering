@@ -9,6 +9,8 @@ MUSICS_JPN = "https://raw.githubusercontent.com/Sekai-World/sekai-master-db-diff
 MUSIC_DIFFICULTIES = "https://raw.githubusercontent.com/Sekai-World/sekai-master-db-diff/main/musicDifficulties.json"
 OTHER_DATA = "../data/id_bpm_playback.csv"
 
+# SEKAIPEDIA DATA = bpm, playback time = https://www.sekaipedia.org/wiki/Song_data_list
+
 # data we need to collect:
 # bpm (from sekaipedia)
 # playback time (from sekaipedia)
