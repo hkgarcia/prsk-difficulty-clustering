@@ -20,3 +20,6 @@ venv/
 
 # Tools
 tools/
+
+# Data
+data/charts

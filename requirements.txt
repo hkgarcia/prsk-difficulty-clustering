@@ -8,3 +8,4 @@ pandas
 # parsing
 requests>=2.31.0
 lxml>=4.9.3
+svgpathtools>=1.6
