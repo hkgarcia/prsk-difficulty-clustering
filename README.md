@@ -1,8 +1,7 @@
 <a id="readme-top"></a>
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-This project will focus on the characteristics of beatmaps in the mobile rhythm game Hatsune Miku: Colorful Stage. Each song in the game has multiple beatmaps (charts) ranging from Easy to Master, with assigned difficulty levels ranging from 5 to 37 (38 as of November 2025). Charts are composed of note types such as taps, flicks, and holds. Together, these notes combine to create patterns on a player’s screen. With these mechanics in mind, this project aims to analyze how note types, BPM, and other related song features contribute to the difficulty of a chart. I plan to conduct rhythm game chart clustering using the k-means method with a set of designed features. These features were carefully chosen based on what determines the “difficulty” of a rhythm game. 
+This project will focus on the characteristics of beatmaps in the mobile rhythm game Hatsune Miku: Colorful Stage. Each song in the game has multiple beatmaps (charts) ranging from Easy to Append, with assigned difficulty levels ranging from 5 to 37 (38 as of November 2025). Charts are composed of note types such as taps, flicks, and holds. Together, these notes combine to create patterns on a player’s screen. With these mechanics in mind, this project aims to analyze how note types, BPM, and other related song features contribute to the difficulty of a chart. I plan to conduct rhythm game chart clustering using the k-means method with a set of designed features. These features were carefully chosen based on what determines the “difficulty” of a rhythm game.
 
 But what exactly defines the difficulty of a rhythm game in the first place? Is it the complexity of note combinations, the number of notes (note density), the speed of notes, timing strictness, or the number of misses permitted? (Liang et al.) The definition of difficulty varies from game to game. An official Q&A session from the developers of Hatsune Miku: Colorful Stage (fron “Wondershow Channel #32,” unofficially translated by X user @pjsekai_eng), answered the question, “What criteria do you use to determine a song’s difficulty level?” The developers stated, “The difficulty levels are decided based on how difficult it is to clear the song. For example, songs with a lot of flick notes and difficult-looking note placements may be set at a higher difficulty. For some songs where there’s a big gap between how difficult it is to clear the song and how difficult it is to FC [full combo] the song, the decision may be based on how difficult it is to FC the song instead.
 
@@ -35,9 +34,10 @@ With this context in mind, I followed a similar method to Tsujino et al. when se
 
 - `src/data_scraping.py`: Reads **id_bpm_playback.csv** and other databases ([sekai.best](https://sekai.best), [sekai-world](https://github.com/Sekai-World)) to create **song_metadata.csv**. Collects BPM and playback time from id_bpm_playback.csv. Collects song title (Japanese and English), difficulty (Easy to Append), difficulty level (5 to 38), and total note count.
 
-- `src/svg_parsing_all.py`: Main script for feature calculations and extraction, PCA, and clustering. Uses the same methods and functions described in **svg_parsing.py** for feature calculation, and applies data analysis through PCA per feature group, Kmeans clustering, and plots of clustering results. Currently calculates k = 2, 3, 4, 5, 6, 8, 10, 12, 16, 30, and 45. Can update the number of clusters used. Lastly, saves data from clustering analysis in **data/outputs**: chart, difficulty, difficulty_level, cluster, total_notes, bpm, duration_seconds, pca_x, pca_y.
+- `src/svg_parsing_all.py`: Main script for feature calculations and extraction, PCA, and clustering. Uses the same methods and functions described in **svg_parsing.py** for feature calculation, and applies data analysis through PCA per feature group, Kmeans clustering, and plots of clustering results. Currently calculates k = 2, 3, 4, 5, 6, 8, 10, 12, 16, 20, and 34. Can update the number of clusters used. Lastly, saves data from clustering analysis in **data/outputs**: chart, difficulty, difficulty_level, cluster, total_notes, bpm, duration_seconds, pca_x, pca_y.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Getting Started
 
@@ -81,8 +81,6 @@ To get a local copy up and running, follow these steps to run the SVG chart anal
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- REFERENCES -->
-
 ## References
 
 ### Academic Papers
@@ -112,7 +110,7 @@ Tsujino, Y., Yamanishi, R., & Yamashita, Y. (2019). Characteristics study of dan
 - [Official Project SEKAI “Colorful Stage” Website](https://colorfulstage.com/)  
 - [Official Project SEKAI SEGA site (jp)](https://pjsekai.sega.jp/)  
 
-<!-- CONTACT -->
+
 ## Contact
 
 Hannah Garcia - hkgarcia04@gmail.com
