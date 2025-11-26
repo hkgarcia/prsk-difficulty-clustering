@@ -9,3 +9,6 @@ pandas
 requests>=2.31.0
 lxml>=4.9.3
 svgpathtools>=1.6
+
+# machine learning / dimensionality reduction (pca, clustering)
+scikit-learn>=1.3.2

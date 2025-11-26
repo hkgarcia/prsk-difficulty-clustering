@@ -1,9 +1,9 @@
-# # Python .gitignore template based on CptS 483 Projects
+# Python .gitignore template based on CptS 483 Projects
 
-# # ============================================
-# # Python
-# # ============================================
-# # Byte-compiled / optimized / DLL files
+# ============================================
+# Python
+# ============================================
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 .pytest_cache

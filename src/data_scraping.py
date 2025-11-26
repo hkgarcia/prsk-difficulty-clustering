@@ -1,9 +1,10 @@
+import os
 import datetime as DT
 import json
 import pandas as pd
 import requests
 
-# source URLs from sekai-world (sekai best) database via github
+# source URLs from sekai-world and sekai.best database via github
 MUSICS_ENG = "https://raw.githubusercontent.com/Sekai-World/sekai-master-db-en-diff/refs/heads/main/musics.json"
 MUSICS_JPN = "https://raw.githubusercontent.com/Sekai-World/sekai-master-db-diff/main/musics.json"
 MUSIC_DIFFICULTIES = "https://raw.githubusercontent.com/Sekai-World/sekai-master-db-diff/main/musicDifficulties.json"
@@ -16,6 +17,7 @@ OTHER_DATA = "../data/id_bpm_playback.csv"
 # playback time (from sekaipedia)
 # song title (eng + jpn) (from sekai-world)
 # note count (from sekai-world)
+# difficulty level (from sekai-world) - not used for training, but useful for reference/checking results
 # hasGimmick - not included for now
 
 def fetch_json(url):
@@ -46,15 +48,17 @@ def main():
     })
     df_music_jpn["song_id"] = df_music_jpn["song_id"].astype(str)
     
-    # musicDifficulties.json: song id, difficulty, note count
+    # musicDifficulties.json: song id, difficulty, note count, and play/difficulty level
     diffs = fetch_json(MUSIC_DIFFICULTIES)
     df_diffs = pd.DataFrame(diffs)[[
         "musicId",
         "musicDifficulty",
+        "playLevel",
         "totalNoteCount"
     ]].rename(columns={
         "musicId": "song_id",
         "musicDifficulty": "difficulty",
+        "playLevel": "difficulty_level",
         "totalNoteCount": "note_count"
     })
     df_diffs["song_id"] = df_diffs["song_id"].astype(str)
@@ -88,6 +92,9 @@ def main():
     # save our output
     output_path = "../data/song_metadata.csv"
     df.to_csv(output_path, index=False)
+    
+    print(f"Data scraping complete. Output saved to {output_path}")
 
 if __name__ == "__main__":
     main()
+
