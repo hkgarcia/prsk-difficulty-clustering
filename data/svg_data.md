@@ -131,3 +131,17 @@ Information that must be derived and calulated from .SVG file components include
     - Method B: Linear interpolation inside a bar
         - If a bar has zero beat lines or notes outside a beat-region, we approximate
             - Time = linear mapping from bar top to bar bottom
+
+Now, we are ready to compute our features.
+
+7. Create synthetic beat grid as a normalized timeline for each bar (which we use for PCA and clustering later). Here, we divide each bar into fraction (layers) such as quarter notes or eigth notes. Then, we calculate how many notes appear in each of these layers relative to the total notes in the bar.
+    - Normalized and scaled note times to ensure accurate and consistent data.
+
+8. Compute notes per second feature using note times, song duration, etc. Calculate statistics (min, max, average, variance).
+
+9. Compute q-layer ratios using synthetic beat grid. 
+
+10. Compute tempo features for song using BPM.
+
+After computation, we are now ready for the data analysis!
+
