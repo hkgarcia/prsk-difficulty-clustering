@@ -137,11 +137,22 @@ Now, we are ready to compute our features.
 7. Create synthetic beat grid as a normalized timeline for each bar (which we use for PCA and clustering later). Here, we divide each bar into fraction (layers) such as quarter notes or eigth notes. Then, we calculate how many notes appear in each of these layers relative to the total notes in the bar.
     - Normalized and scaled note times to ensure accurate and consistent data.
 
-8. Compute notes per second feature using note times, song duration, etc. Calculate statistics (min, max, average, variance).
+8. Compute notes per second feature using note times, song duration, etc. Calculate statistics (min, max, average, variance) ($n$)
 
-9. Compute q-layer ratios using synthetic beat grid. 
+9. Compute q-layer ratios using synthetic beat grid ($l$)
 
-10. Compute tempo features for song using BPM.
+10. Compute tempo features for song using BPM ($t$) and total notes/scale features ($s$).
 
-After computation, we are now ready for the data analysis!
+After initial feature calculation, we are now ready for PCA and clustering!
 
+11. Standardize feature groups and apply PCA (dimensionalty reduction) to reduce noise. We apply PCA per feature group. For example, PCA for note density ($n_l$, $n_m$, $n_mu$, $n_var$) gives PC1: 0.8760 (87.6%), PC2: 0.0987 (9.9%), PC3: 0.0253 (2.5%), PC4: 0.0000 (0.0%). Shows that charts usually differ based on how dense they are (slow vs. fast note streams), or by one dominant axis.
+
+12. Combine selected PCs into a feature matrix for clustering, then run Kmeans clustering across k = 1 to k = 34
+
+
+## FUTURE IMPROVEMENTS
+- Handling BPM changes and gimmick charts
+- Trying different methods of parsing (for accurate notes, finding types of notes)
+- Optimize data gather for id_bpm_playback.csv (main issue is finding the database for BPM and playback)
+- Optimize chart_downloads.py
+- Investigate code for charts that failed to be parsed/read: **241, 290, 388, 674, 675, 676, 691, 

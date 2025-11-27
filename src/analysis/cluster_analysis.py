@@ -6,7 +6,7 @@ import re
 
 ### CLUSTER ANALYSIS OF A CHOSEN K VALUE: CHOOSE FILE ACCORDINGLY ###
 # find k from filename
-file_name = 'cluster_results_k5_sorted.csv'     # CHANGE THIS FILE NAME AS NEEDED
+file_name = 'cluster_results_k5.csv'     # CHANGE THIS FILE NAME AS NEEDED
 match = re.search(r'k(\d+)', file_name)
 k_val = int(match.group(1)) if match else None
 
@@ -24,9 +24,9 @@ df["difficulty"] = pd.Categorical(df["difficulty"], categories=difficulty_order,
 # fixing title
 df['title'] = df['song_title_eng'].fillna(df['song_title_jpn'])
 
-# --- [ qualititative summary by cluster ] ---
+# --- [ overall summary by cluster ] ---
 # number of songs, unique difficulties, min/max/mean/variance difficulty_level, min/max/mean/variance total_notes
-qual_summary = df.groupby('cluster').agg(
+overall_summary = df.groupby('cluster').agg(
     num_songs=('title', 'nunique'),
     difficulties=('difficulty', lambda x: ', '.join(sorted(x.unique()))),
     
@@ -41,8 +41,8 @@ qual_summary = df.groupby('cluster').agg(
     variance_notes=('total_notes', 'var'),
 ).reset_index()
 
-qual_summary.to_csv(os.path.join(output_dir, f"qualitative_analysis_k{k_val}.csv"), index=False)
-print("Saved qualitative analysis in qualitative_analysis_k{0}.csv".format(k_val))
+overall_summary.to_csv(os.path.join(output_dir, f"overall_summary_k{k_val}.csv"), index=False)
+print("Saved overall summary in overall_summary_k{0}.csv".format(k_val))
 
 # --- [ condensed quantitative summary by cluster ] ---
 # using a few chosen variables
@@ -66,7 +66,7 @@ quant_notes_cluster = df.groupby('cluster')['note_range'].value_counts().unstack
 quant_notes_cluster.to_csv(os.path.join(output_dir, f"note_analysis_k{k_val}.csv"))
 print("Saved total notes range analysis.")
  
-# --- [ plotting each qualititative summary! ] ---
+# --- [ plotting each summary! ] ---
 
 # color mapping according to actual game colors for difficulties!
 color_map = {
@@ -104,6 +104,13 @@ plt.legend(title="Difficulty", bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
 
+# save plots to data/outputs/visualization
+# visualization_folder = os.path.join(output_dir, "visualization")
+# os.makedirs(visualization_folder, exist_ok=True)
+# plot_path = os.path.join(visualization_folder, f"k{k_val}_difficulty_types.png")
+# plt.savefig(plot_path)
+# plt.close()
+
 # --- [ difficulty levels ] ---
 plt.figure(figsize=(16,6))
 clusters = quant_difflevel_cluster.index
@@ -128,6 +135,11 @@ plt.xticks(clusters + bar_width*(len(categories)/2 - 0.5), clusters)
 plt.legend(title="Difficulty Level", bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
+
+# save plots to data/outputs/visualization
+# plot_path = os.path.join(visualization_folder, f"k{k_val}_difficulty_levels.png")
+# plt.savefig(plot_path)
+# plt.close()
 
 # analyzing specific clusters
 target_clusters = range(0, k_val)  # all clusters for k=k_val
@@ -154,6 +166,11 @@ for c in target_clusters:
     plt.title(f"Difficulty Levels in Cluster {c}")
     plt.tight_layout()
     plt.show()
+    
+    # save plots to data/outputs/visualization
+    # plot_path = os.path.join(visualization_folder, f"k{k_val}_c{c}_difficulty_levels.png")
+    # plt.savefig(plot_path)
+    # plt.close()
 
 
 # --- [ total note ranges ] ---
@@ -185,6 +202,11 @@ plt.xticks(clusters + bar_width*(len(categories)/2 - 0.5), clusters)
 plt.legend(title="Note Range", bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
+
+# save plots to data/outputs/visualization
+# plot_path = os.path.join(visualization_folder, f"k{k_val}_note_ranges.png")
+# plt.savefig(plot_path)
+# plt.close()
 
 # --- [ difficulty types summary with percentages ] ---
 # total charts
@@ -230,4 +252,9 @@ for cluster_id, cluster_df in df.groupby('cluster'):
             colors=colors)
     plt.title(f"Cluster {cluster_id} Difficulty Breakdown ({cluster_total} charts)")
     plt.tight_layout()
-    plt.show()
+    # plt.show() # UNCOMMENT TO SHOW PLOT INTERACTIVELY
+    
+    # save plot to data/outputs/visualization
+    # plot_path = os.path.join(visualization_folder, f"k{k_val}_c{cluster_id}_difficulty_level.png")
+    # plt.savefig(plot_path)
+    # plt.close()

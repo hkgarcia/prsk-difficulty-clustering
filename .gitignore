@@ -12,7 +12,9 @@ __pycache__/
 .env
 .env.*
 datasets/
-outputs/
+
+# optional to include or exclude outputs
+# outputs/
 
 # Virtual environments
 venv/
