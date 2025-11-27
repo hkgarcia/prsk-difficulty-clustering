@@ -17,13 +17,14 @@ def get_y(attr):
 
 
 # --- [ loading in .CSV data (song_id, difficulty, note_count, song_title, bpm, playback_time_minutes, playback_time_seconds) ] ---
-csv_path = os.path.join(os.path.dirname(__file__), '../data/song_metadata.csv')
+csv_path = os.path.join(os.path.dirname(__file__), '../../data/song_metadata.csv')
 song_metadata = pd.read_csv(csv_path)
 
 # --- [ loading .SVG file for a specific chart ] ---
 #svg_path = os.path.join(os.path.dirname(__file__), '../data/example_charts/601_master.svg')
 # svg_path = os.path.join(os.path.dirname(__file__), '../data/example_charts/366_append.svg')
-svg_path = os.path.join(os.path.dirname(__file__), '../data/example_charts/166_master.svg')
+# svg_path = os.path.join(os.path.dirname(__file__), '../data/example_charts/166_master.svg')
+svg_path = os.path.join(os.path.dirname(__file__), '../../data/charts/3_master.svg')
 
 paths, attributes = svg2paths(svg_path)
 
@@ -400,7 +401,7 @@ def build_synthetic_grid_all_bars(num_bars, beats_per_bar, seconds_per_beat, sca
 # scale: scaling used to align timestamps to song_duration
 # tol_fraction: acceptable fraction of subdivision interval to consider 'aligned'; can be adjusted for strictness
 # returns (4/8/12/...) or 'oth'
-def classify_note_layer_for_single(note_time, bar_idx, beats_per_bar, seconds_per_beat, scale, q_list = LAYER_QS, tol_fraction = 0.15):
+def classify_note_layer_for_single(note_time, bar_idx, beats_per_bar, seconds_per_beat, scale, q_list = LAYER_QS, tol_fraction=0.15):
     scaled_spb = seconds_per_beat * scale       # seconds per beat after scaling to song_duration
     bar_duration = beats_per_bar * scaled_spb   # duration of the bar in seconds
     bar_start = bar_idx * bar_duration          # absolute start time of the bar in seconds
@@ -415,13 +416,14 @@ def classify_note_layer_for_single(note_time, bar_idx, beats_per_bar, seconds_pe
         local_clamped = local
 
     # try assigning each note to each subdivison, from smallest q -> largest q
-    for q in sorted(q_list):
+    for q in sorted(q_list, reverse=False):
         interval = bar_duration / q                 # interval between grid points in seconds
         idx = int(round(local_clamped / interval))  # index of nearest grid point
         nearest_time = idx * interval               # nearest grid point time in seconds
         delta = abs(local_clamped - nearest_time)   # difference from note local time to nearest grid point
         if delta <= tol_fraction * interval:        # within tolerance
             return q
+    
         
     # if no q matched, return 'oth'
     return 'oth'
@@ -433,7 +435,7 @@ def classify_note_layer_for_single(note_time, bar_idx, beats_per_bar, seconds_pe
 # take in note_times_list (list of timestamps in seconds, scaled to song_duration), note_bars_list (tuples (note_attr, bar_idx) in same order as note_times_list), 
 # bars_list (list of (top_y, bottom_y)), beats_per_bar, bpm, song_duration
 # returns assignments (list of same length as notes with values q or 'oth'), counts of q occurences, ratios (dict of l_q ratios for q in q_list and 'oth')
-def classify_notes_layers(note_times_list, note_bars_list, bars_list, beats_per_bar, bpm, song_duration, q_list = LAYER_QS, tol_fraction = 0.15):
+def classify_notes_layers(note_times_list, note_bars_list, bars_list, beats_per_bar, bpm, song_duration, q_list = LAYER_QS, tol_fraction=0.15):
     assert len(note_times_list) == len(note_bars_list), "note_times and note_bars must be same length"      # check
     seconds_per_beat = 60.0 / bpm                                                                           # unscaled seconds per beat
     

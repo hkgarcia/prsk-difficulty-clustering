@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 # list of k values to analyze
-k_values = range(1, 34) # assuming k from 1 to 34
+k_values = range(1, 35) # assuming k from 1 to 35
 
 # store ss (sum of squares) for each k
 ss_list = []
