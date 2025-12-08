@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 import os
 
 # list of k values to analyze
-k_values = range(1, 35) # assuming k from 1 to 35
+k_values = range(2, 35) # assuming k from 1 to 35
+# k_values = range(2, 11) # assuming k from 1 to 10
 
 # store ss (sum of squares) for each k
 ss_list = []
@@ -12,7 +13,7 @@ ss_list = []
 for k in k_values:
     
     # read in cluster file
-    file_path = os.path.join(os.path.dirname(__file__), f'../../data/outputs/cluster_results_k{k}_sorted.csv')
+    file_path = os.path.join(os.path.dirname(__file__), f'../../data/outputs/cluster_results_k{k}.csv')
     df = pd.read_csv(file_path)
 
     # using pca coordinates for distance calculations

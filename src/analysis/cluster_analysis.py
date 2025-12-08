@@ -41,6 +41,7 @@ overall_summary = df.groupby('cluster').agg(
     variance_notes=('total_notes', 'var'),
 ).reset_index()
 
+# overall summary: num songs, difficulties, difficulty level stats, total notes stats
 overall_summary.to_csv(os.path.join(output_dir, f"overall_summary_k{k_val}.csv"), index=False)
 print("Saved overall summary in overall_summary_k{0}.csv".format(k_val))
 
@@ -104,18 +105,16 @@ plt.legend(title="Difficulty", bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
 
-# save plots to data/outputs/visualization
-# visualization_folder = os.path.join(output_dir, "visualization")
-# os.makedirs(visualization_folder, exist_ok=True)
-# plot_path = os.path.join(visualization_folder, f"k{k_val}_difficulty_types.png")
-# plt.savefig(plot_path)
-# plt.close()
-
 # --- [ difficulty levels ] ---
 plt.figure(figsize=(16,6))
 clusters = quant_difflevel_cluster.index
 categories = quant_difflevel_cluster.columns
 bar_width = 0.8 / len(categories)
+
+# bring the number of charts per difficulty level for info
+difficulty_level_counts = df['difficulty_level'].value_counts()
+print("\nNumber of charts per difficulty level:")
+print(difficulty_level_counts, "\n")
 
 # plotting bars
 for i, cat in enumerate(categories):
@@ -135,11 +134,6 @@ plt.xticks(clusters + bar_width*(len(categories)/2 - 0.5), clusters)
 plt.legend(title="Difficulty Level", bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
-
-# save plots to data/outputs/visualization
-# plot_path = os.path.join(visualization_folder, f"k{k_val}_difficulty_levels.png")
-# plt.savefig(plot_path)
-# plt.close()
 
 # analyzing specific clusters
 target_clusters = range(0, k_val)  # all clusters for k=k_val
@@ -166,12 +160,6 @@ for c in target_clusters:
     plt.title(f"Difficulty Levels in Cluster {c}")
     plt.tight_layout()
     plt.show()
-    
-    # save plots to data/outputs/visualization
-    # plot_path = os.path.join(visualization_folder, f"k{k_val}_c{c}_difficulty_levels.png")
-    # plt.savefig(plot_path)
-    # plt.close()
-
 
 # --- [ total note ranges ] ---
 plt.figure(figsize=(14,6))
@@ -203,25 +191,23 @@ plt.legend(title="Note Range", bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
 
-# save plots to data/outputs/visualization
-# plot_path = os.path.join(visualization_folder, f"k{k_val}_note_ranges.png")
-# plt.savefig(plot_path)
-# plt.close()
-
 # --- [ difficulty types summary with percentages ] ---
 # total charts
 total_charts = len(df)
 print(f"Total Chart Count: {total_charts}")
+
+print("\n" + "*" * 40)
 
 # overall counts
 overall_counts = df['difficulty'].value_counts()
 print("Overall Difficulty Breakdown:")
 for diff, cnt in overall_counts.items():
     print(f"{diff}: {cnt} ({cnt/total_charts*100:.1f}%)")
+
 print("*" * 40)
 
 # per cluster breakdown: visualization and data for presentation and report
-print("\nCluster Breakdown:")
+print("Cluster Breakdown:")
 for cluster_id, cluster_df in df.groupby('cluster'):
     cluster_total = len(cluster_df)
     print(f"Cluster {cluster_id} ({cluster_total} charts):")
@@ -240,8 +226,7 @@ for cluster_id, cluster_df in df.groupby('cluster'):
     print(f"\nTop 5 Difficulty Levels in Cluster {cluster_id}:")
     for level, cnt in values.items():
         pct_cluster = cnt / top5_total * 100
-        pct_total = cnt / len(df) * 100
-        print(f"Level {level}: {cnt} charts ({pct_total:.1f}%)")
+        print(f"Level {level}: {cnt} charts")
     print("*" * 40)
     
     # pie chart for difficulty types in this cluster
@@ -252,9 +237,4 @@ for cluster_id, cluster_df in df.groupby('cluster'):
             colors=colors)
     plt.title(f"Cluster {cluster_id} Difficulty Breakdown ({cluster_total} charts)")
     plt.tight_layout()
-    # plt.show() # UNCOMMENT TO SHOW PLOT INTERACTIVELY
-    
-    # save plot to data/outputs/visualization
-    # plot_path = os.path.join(visualization_folder, f"k{k_val}_c{cluster_id}_difficulty_level.png")
-    # plt.savefig(plot_path)
-    # plt.close()
+    plt.show() # UNCOMMENT TO SHOW PLOT INTERACTIVELY
