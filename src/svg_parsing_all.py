@@ -1,5 +1,7 @@
 import glob
 import os
+import re
+import statistics
 from svgpathtools import svg2paths
 import pandas as pd
 import numpy as np
@@ -45,14 +47,14 @@ def get_song_metadata_from_filename(svg_filename, song_metadata_df):
     if row.empty:
         raise ValueError(f"No metadata found for song_id={song_id}, difficulty={difficulty}")
 
+    # choose desired BPM mode here (skip, basic, full)
+    BPM_MODE = "basic"
+
     # read in csv file values
-    bpm = parse_bpm(row['bpm'].values[0], skip_ranges=False)
+    bpm = parse_bpm(row['bpm'].values[0], mode=BPM_MODE)
     if bpm is None:
         print(f"Skipping chart with complex BPM: {svg_filename}")
         return None
-    
-    if bpm is None:
-        print("Skipping chart with complex BPM:", svg_filename)
     
     duration_seconds = float(row['playback_time_seconds'].values[0])
     note_count = int(row['note_count'].values[0])
@@ -65,36 +67,37 @@ def get_song_metadata_from_filename(svg_filename, song_metadata_df):
 
 # parameters:   bpm_str - string representing BPM
 # purpose:      parse BPM string into a float value to handle ranges and parentheses (ex: "150-170", "92 (184)")
-#               takes the average for ranges, or the first number if parentheses
+#               3 modes: skip (None), basic (first/average), full (all values)
 #               # option to skip special gimmick charts
 #               TODO: handle different BPM changes more robustly!
-# returns:      bpm as float                    
-def parse_bpm(bpm_str, skip_ranges=True):    
+# returns:      bpm as float, tuple, or None                    
+def parse_bpm(bpm_str, mode="basic"):
     bpm_str = str(bpm_str).strip()
+    nums = re.findall(r"[\d.]+", bpm_str)
+    if not nums:
+        return None
+    nums = list(map(float, nums))
+    has_special = ("-" in bpm_str) or ("(" in bpm_str)
 
-    # skip special charts if option enabled
-    if skip_ranges and ('-' in bpm_str or '(' in bpm_str):
+    # skip
+    if mode == "skip" and has_special:
         return None
 
-    # range case
-    if '-' in bpm_str:
-        parts = bpm_str.split('-')
-        try:
-            return float(sum(map(float, parts)) / len(parts))  # average of range
-        except ValueError:
-            return float(parts[0])
+     # basic
+    if mode == "basic":
+        if "-" in bpm_str and len(nums) > 1:
+            return sum(nums) / len(nums)
+        return nums[0]
 
-    # parentheses case
-    elif '(' in bpm_str and ')' in bpm_str:
-        main_part = bpm_str.split('(')[0].strip()
-        try:
-            return float(main_part)
-        except ValueError:
-            paren_part = bpm_str.split('(')[1].split(')')[0].strip()
-            return float(paren_part)
+    # full
+    if mode == "full":
+        if len(nums) == 1:
+            return nums[0]
+        # print("Parsed multiple BPM values:", nums, "\n")
+        return tuple(nums)
 
-    else:
-        return float(bpm_str)
+    # fallback for unknown mode
+    return nums[0]
 
 
 # parameters:   attributes - list of SVG element attribute dictionaries
@@ -356,23 +359,41 @@ def compute_layer_ratios(assignments, q_list=LAYER_QS):
 
 # ----------------------------- [ TEMPO ] -----------------------------
 
-# parameters:   bpm_val, bpm_events, beat_count, song_duration
+# parameters:   bpm_val, bpm_events, beat_count/bar_beats, song_duration
 # purpose:      compute tempo features
 # returns:      dict with t_l, t_s, t_f, t_mu
-def compute_tempo_features(bpm_val=None, bpm_events=None, beat_count=None, song_duration=None):
-    if bpm_events and len(bpm_events) > 0:
-        coverage = defaultdict(float)
-        for i, (t0, bpmv) in enumerate(bpm_events):
-            t1 = bpm_events[i+1][0] if i+1 < len(bpm_events) else song_duration
-            coverage[bpmv] += max(0.0, t1 - t0)
-        dominant = max(coverage.items(), key=lambda x:x[1])[0]
-        t_l = int(round(dominant))
-        t_s = int(round(min(coverage.keys())))
-        t_f = int(round(max(coverage.keys())))
-    else:
-        if bpm_val is None: raise ValueError("No bpm provided for tempo calculation")
+def compute_tempo_features(bpm_val=None, bpm_events=None, song_duration=None, bar_beats=None, mode="basic"):
+    # basic mode and skip
+    if mode in ("basic", "skip"):
+        if bpm_val is None:
+            raise ValueError("bpm_val required in basic mode")
         t_l = t_s = t_f = int(round(bpm_val))
-    t_mu = (beat_count / song_duration) * 60.0 if beat_count is not None and song_duration else None
+    
+    # TODO: handle & fix full mode in the future
+    # full mode
+    elif mode == "full":
+        print("Inside full for bpm parsing:", bpm_events, "\n")
+        if not bpm_events or len(bpm_events) == 0:
+            raise ValueError("bpm_events required in full mode")
+
+        # convert to array of floats
+        bpm_array = np.array(bpm_events, dtype=float)
+
+        t_l = float(np.min(bpm_array))   # slowest tempo
+        t_f = float(np.max(bpm_array))   # fastest tempo
+        t_s = float(np.std(bpm_array))   # tempo variability (spread)
+        print(f"Computed tempo features: t_l={t_l}, t_f={t_f}, t_s={t_s}")
+        
+    else:
+        raise ValueError(f"Unknown tempo mode: {mode}")
+
+    # compute t_mu (empirical BPM)
+    if bar_beats and song_duration:
+        beat_count = sum(len(v) for v in bar_beats.values())
+        t_mu = (beat_count / song_duration) * 60.0
+    else:
+        t_mu = None
+
     return {"t_l": t_l, "t_s": t_s, "t_f": t_f, "t_mu": t_mu}
 
 
@@ -407,7 +428,11 @@ def extract_basic_features(note_times, note_bars, bars, bpm_val, song_duration_v
         feats_density['counts'] = feats_density['counts'] * scale_factor
 
     # tempo features
-    tempo_feats = compute_tempo_features(bpm_val=bpm_val, bpm_events=None, beat_count=None, song_duration=song_duration_val)
+    tempo_feats = compute_tempo_features(
+        bpm_val=bpm_val,
+        song_duration=song_duration,
+        bar_beats=bar_beats
+    )
 
     # tick line stats
     tick_feats = None
@@ -529,7 +554,8 @@ if __name__ == "__main__":
     # split features into groups
     n_cols = ['n_l', 'n_m', 'n_mu', 'n_var']
     l_cols = [f"l_{q}" for q in [4,8,12,16,24,32]] + ['l_oth']
-    t_cols = ['t_l', 't_s', 't_f']
+    #t_cols = ['t_l', 't_s', 't_f', 't_mu']
+    t_cols = ['t_l', 't_s', 't_f']  # excluding t_mu due to possibly malformed / inaccurate values
     s_cols = ['total_notes_svg']
     
     if 'total_notes_csv' in df_feats.columns:
@@ -567,32 +593,46 @@ if __name__ == "__main__":
     n_pc_s = np.searchsorted(cum_var, 0.9) + 1
     pc_s = pc_s_full[:, :n_pc_s]
 
-    # debug print explained variance
-    def print_pca_variance(pca, group_name):
-        print(f"--- PCA explained variance: {group_name} ---")
+    # print PCA explained variance and loadings (for research paper writing)
+    def print_pca_variance(pca, feature_names, group_name):
+        print(f"\n--- PCA explained variance: {group_name} ---")
+
         for i, var_ratio in enumerate(pca.explained_variance_ratio_):
-            print(f"PC{i+1}: {var_ratio:.4f} ({var_ratio*100:.1f}%)")
+            print(f"\nPC{i+1}: {var_ratio:.4f} ({var_ratio*100:.1f}%)")
+
+            # loadings for this component
+            component = pca.components_[i]
+
+            # sort by strongest contribution (variance)
+            sorted_idx = np.argsort(np.abs(component))[::-1]
+
+            print("Top contributing features:")
+            for idx in sorted_idx:
+                print(f"{feature_names[idx]:20s} loading={component[idx]: .4f}")
+            print()
+
+        # cumulative variance
         cum_var = np.cumsum(pca.explained_variance_ratio_)
         print("Cumulative variance:", cum_var)
         print()
 
-    print_pca_variance(pca_n, "Note Density (n)")
-    print_pca_variance(pca_l, "Layer Ratios (l)")
-    print_pca_variance(pca_t, "Tempo (t)")
-    print_pca_variance(pca_s, "Scale / Size (s)")
+    # print PCA variance for each group
+    print_pca_variance(pca_n, n_cols, "Note Density (n)")
+    print_pca_variance(pca_l, l_cols, "Layer Ratios (l)")
+    print_pca_variance(pca_t, t_cols, "Tempo (t)")
+    print_pca_variance(pca_s, s_cols, "Scale / Size (s)")
 
     # final feature matrix by concatenating PCs from each group
     # X_final = np.hstack([pc_n, pc_l, pc_t])  # excluding pc_s
     X_final= np.hstack([pc_n, pc_l, pc_t, pc_s])  # including pc_s
     print("Final feature matrix shape:", X_final.shape)
 
-
     # ----------------------------- [ CLUSTERING ] -----------------------------
     # 34 clusters due to difficulty levels from 5 to 38
     # 2, 3, 4, 5, 6, 8, 10, 12, 16, 20 to test smaller vals
     # cluster_counts = [2, 3, 4, 5, 6, 8, 10, 12, 16, 20, 34]  # k values to evaluate
     
-    cluster_counts = range(1, 35)  # k values to evaluate
+    cluster_counts = range(2, 35)  # k values to evaluate
 
     # pca for visualization (2D)
     pca_final = PCA(n_components=2)
@@ -624,31 +664,43 @@ if __name__ == "__main__":
         })
 
         # sort by cluster, difficulty_level, total_notes
-        results_df_sorted = results_df.sort_values(
+        results_df = results_df.sort_values(
             by=["cluster", "difficulty_level", "total_notes"],
             ascending=[True, True, True]
         )
+        
+        # merge original feature dataframe into the results
+        cluster_features = pd.concat([results_df.reset_index(drop=True), df_feats.reset_index(drop=True)], axis=1)
+
+        # compute average of each metric per cluster (similar to tsujino's clustering summary)
+        cluster_summary = cluster_features.groupby("cluster").mean(numeric_only=True)
+
+        # save cluster summary table
+        summary_path = os.path.join(output_folder, f"cluster_summary_k{k}.csv")
+        cluster_summary.to_csv(summary_path)
+
+        print(f"Saved summary for k={k} → {summary_path}")
 
         # saving file
-        output_path = os.path.join(output_folder, f"cluster_results_k{k}_sorted.csv")
-        results_df_sorted.to_csv(output_path, index=False)
+        output_path = os.path.join(output_folder, f"cluster_results_k{k}.csv")
+        results_df.to_csv(output_path, index=False)
 
         # plotting PCA with clusters
-        # plt.figure(figsize=(10,7))
-        # scatter = plt.scatter(X_vis[:,0], X_vis[:,1], c=cluster_labels, cmap='tab10', s=80)
-        # plt.xlabel('PC1')
-        # plt.ylabel('PC2')
-        # plt.title(f'PCA of Charts with KMeans Clusters (k={k})')
-        # plt.grid(True)
+        plt.figure(figsize=(10,7))
+        scatter = plt.scatter(X_vis[:,0], X_vis[:,1], c=cluster_labels, cmap='tab10', s=80)
+        plt.xlabel('PC1')
+        plt.ylabel('PC2')
+        plt.title(f'PCA of Charts with KMeans Clusters (k={k})')
+        plt.grid(True)
 
-        # # interactive cursor for data points
-        # cursor = mplcursors.cursor(scatter, hover=False)
+        # interactive cursor for data points
+        cursor = mplcursors.cursor(scatter, hover=False)
 
-        # @cursor.connect("add")
-        # def on_add(sel):
-        #     idx = sel.index
-        #     sel.annotation.set_text(chart_names[idx])
+        @cursor.connect("add")
+        def on_add(sel):
+            idx = sel.index
+            sel.annotation.set_text(chart_names[idx])
 
-        # handles, _ = scatter.legend_elements()
-        # plt.legend(handles, [f"Cluster {i}" for i in range(k)], title="Clusters")
-        # plt.show()
+        handles, _ = scatter.legend_elements()
+        plt.legend(handles, [f"Cluster {i}" for i in range(k)], title="Clusters")
+        #plt.show() # UNCOMMENT TO SHOW PLOT INTERACTIVELY

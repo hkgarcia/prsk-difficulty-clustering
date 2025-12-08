@@ -8,7 +8,7 @@ from svgpathtools import svg2paths
 # example2.svg: NEO (366): APPEND, 1365 total notes, 190 bpm, 2:06 mins
 # example3.svg: "BOSS/ULTIMATE" Medley/Rush (676): APPEND, 4181 total notes,, 2:06 mins
 
-svg_path = os.path.join(os.path.dirname(__file__), '../data/example_charts/example1.svg')
+svg_path = os.path.join(os.path.dirname(__file__), '../../data/charts/166_master.svg')
 paths, attributes = svg2paths(svg_path)
 
 # finding unique classes of paths in the svg file
