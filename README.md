@@ -7,6 +7,8 @@ But what exactly defines the difficulty of a rhythm game in the first place? Is 
 
 With this context in mind, I followed a similar method to Tsujino et al. when selecting features for clustering that build onto the difficulty of the charts. I plan to use two types of features: Score features, differing according to each chart’s difficulty level, and song features, which are consistent for charts of the same song. Score features include note density ($n$), note ratio for beat layers ($l$), and chart size/magnitude ($s$). Song features include tempo/BPM characteristics ($t$).
 
+_Class Presentation Video:_ [(link)](https://drive.google.com/file/d/1ROVKzgoR8nTYBljanJsK7SQQmlLtL_mM/view?usp=sharing)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -29,7 +31,9 @@ With this context in mind, I followed a similar method to Tsujino et al. when se
 <br>
 
 **outputs/**
-- `cluster_results_k{n}.csv`: Clustering results for k = n (n = 1-34). Each file contains **chart** (chart filename), **difficulty** (Easy to Append), **difficulty_level** (5-38), **song_title_jpn**, **song_title_eng**, **assigned cluster**, **total_notes**, **bpm**, **duration_seconds**, **pca_x** (PCA x-coordinate), and **pca_y** (PCA y-coordinate).
+- `cluster_results_k{n}.csv`: Clustering results for k = n (n = 2-34). Each file contains **chart** (chart filename), **difficulty** (Easy to Append), **difficulty_level** (5-38), **song_title_jpn**, **song_title_eng**, **assigned cluster**, **total_notes**, **bpm**, **duration_seconds**, **pca_x** (PCA x-coordinate), and **pca_y** (PCA y-coordinate).
+
+- `cluster_summary_k{n}.csv`: Clustering summary for k = n (n = 1-34), listing each cluster and its **difficulty_level**, **total_notes**, **bpm**, **duration_seconds**, and the averages of each feature metric ($n$, $l$, $t$, $s$).
 
 - `difficulty_analysis_k{n}.csv`: Statistics for a cluster at k = {n}, analyzed by difficulty type. Shows each cluster from **k** and their distribution across difficulty categories (Easy, Normal, Hard, Expert, Master, Append) with counts.
 
